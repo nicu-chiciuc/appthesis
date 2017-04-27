@@ -1,0 +1,30 @@
+{
+	"indicator": {
+		"name": "Criminalitatea intre animale de casă per raion"
+	},
+	"years": {
+		"2014": {
+			"Chisinau" : 1000,
+			"Balti" : 1400,
+			"Cahul" : 800
+		},
+
+		"2015": {
+			"Chisinau" : 1000,
+			"Balti" : 1400,
+			"Cahul" : 800
+		},
+
+		"2016": {
+			"Chisinau" : 1000,
+			"Balti" : 1400,
+			"Cahul" : 800
+		},
+
+		"2017": {
+			"Chisinau" : 1000,
+			"Balti" : 1400,
+			"Cahul" : 800
+		}
+	}
+}
