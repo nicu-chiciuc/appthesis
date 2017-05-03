@@ -11,12 +11,18 @@ import LinkedDataSelector from '../selectors/selector_linkedData'
 
 import {FETCH_DATA_Y, FETCH_DATA_X} from '../reducers/index.js'
 
+import RaisedButton from 'material-ui/RaisedButton';
+
+import StupidTable from './stupid_table'
+
 
 import {justdoit} from '../actions/index.js'
 
 import d3Chart from '../d3Chart'
 
 import * as d3 from 'd3'
+
+
 
 
 class TestComponent extends Component {
@@ -60,8 +66,14 @@ class TestComponent extends Component {
 	render () {
 		console.log(this.props)
 
+		const style = {
+		  margin: 12,
+		};
+
 		return (
 			<div>
+				<RaisedButton label="Default" style={style} />
+				{StupidTable()}
 			</div>
 		)
 	}
@@ -72,7 +84,7 @@ function mapStateToProps (state) {
 }
 
 function mapDispatchToProps (dispatch) {
-	return bindActionCreators({justdoit: justdoit}, dispatch)
+	return bindActionCreators({justdoit}, dispatch)
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(TestComponent)
