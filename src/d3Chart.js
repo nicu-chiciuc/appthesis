@@ -33,7 +33,7 @@ export default class d3Chart {
 	}
 
 	init () {
-		// this.svg.append('path')
+		//	 this.svg.append('path')
 		// 	.attr('class', 'line')
 
 		// Add the X Axis
@@ -108,7 +108,7 @@ export default class d3Chart {
 				.style('stroke-opacity', 0.7)
 				.attr('cy', d => this.y(d.y) )
 				.attr('cx', d => this.x(d.x) )
-				.attr('r', d => 60 / scal)
+				.attr('r', d =>  d.r / scal)
 				.attr('fill', 'red')
 				
 				

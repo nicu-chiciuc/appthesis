@@ -1,0 +1,30 @@
+{
+	"indicator": {
+		"name": "Numărul total de animale"
+	},
+	"years": {
+		"2014": {
+			"Chisinau" : "87",
+			"Balti" : "56",
+			"Cahul" : "114"
+		},
+
+		"2015": {
+			"Chisinau" : "104",
+			"Balti" : "145",
+			"Cahul" : "140"
+		},
+
+		"2016": {
+			"Chisinau" : "79",
+			"Balti" : "65",
+			"Cahul" : "99"
+		},
+
+		"2017": {
+			"Chisinau" : "136",
+			"Balti" : "53",
+			"Cahul" : "77"
+		}
+	}
+}

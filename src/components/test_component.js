@@ -9,11 +9,10 @@ import {bindActionCreators} from 'redux'
 
 import LinkedDataSelector from '../selectors/selector_linkedData'
 
-import {FETCH_DATA_Y, FETCH_DATA_X} from '../reducers/index.js'
+import {FETCH_DATA_Y, FETCH_DATA_X, FETCH_DATA_RAD} from '../reducers/index.js'
 
 import RaisedButton from 'material-ui/RaisedButton';
 
-import StupidTable from './stupid_table'
 
 
 import {justdoit} from '../actions/index.js'
@@ -48,10 +47,12 @@ class TestComponent extends Component {
 
 		self.props.justdoit(FETCH_DATA_X, 'test01.json')
 		self.props.justdoit(FETCH_DATA_Y, 'test02.json')
+		self.props.justdoit(FETCH_DATA_RAD, 'test03.json')
 
 		$('svg').click(() => {
 			self.props.justdoit(FETCH_DATA_X, 'test02.json')
 			self.props.justdoit(FETCH_DATA_Y, 'test03.json')
+			self.props.justdoit(FETCH_DATA_RAD, 'test04.json')
 		})
 	}
 
@@ -71,9 +72,8 @@ class TestComponent extends Component {
 		};
 
 		return (
-			<div>
+			<div>	
 				<RaisedButton label="Default" style={style} />
-				{StupidTable()}
 			</div>
 		)
 	}
