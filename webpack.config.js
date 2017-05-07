@@ -21,7 +21,9 @@ module.exports = {
   },
   devServer: {
     historyApiFallback: true,
-    contentBase: './'
+    contentBase: './',
+    host: '0.0.0.0',
+    public: '192.168.0.101:8080'
   },
   devtool: "source-map"
 };
