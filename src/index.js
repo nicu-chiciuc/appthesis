@@ -9,14 +9,19 @@ import App from './components/app';
 import reducers from './reducers';
 
 
-import injectTapEventPlugin from 'react-tap-event-plugin';
-// Needed for onTouchTap, from material-ui installation docs
-// http://stackoverflow.com/a/34015469/988941
-injectTapEventPlugin();
+// const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
+// const theStore = createStoreWithMiddleware(reducers)
 
+const logMiddleware = ({getShape, dispatch}) => (next) => (action) => {
+	console.log(`Action ${action.type}`, action)
 
-const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
-const theStore = createStoreWithMiddleware(reducers)
+	next(action)
+}
+
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const theStore = createStore(reducers, /* preloadedState, */ composeEnhancers(
+	applyMiddleware(logMiddleware, ReduxPromise, logMiddleware)
+))
 
 ReactDOM.render(
   <Provider store={theStore}>

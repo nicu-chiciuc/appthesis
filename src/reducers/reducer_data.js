@@ -13,8 +13,6 @@ function mixTheData (data) {
 }
 
 export default (DataType) => (state=[], action) => {
-	console.log('inreducer', state)
-
 	switch (action.type) {
 		case DataType:
 			const data = action.payload.data

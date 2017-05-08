@@ -13,6 +13,11 @@ import {FETCH_DATA_Y, FETCH_DATA_X, FETCH_DATA_RAD} from '../reducers/index.js'
 
 import RaisedButton from 'material-ui/RaisedButton';
 
+import injectTapEventPlugin from 'react-tap-event-plugin';
+// Needed for onTouchTap, from material-ui installation docs
+// http://stackoverflow.com/a/34015469/988941
+injectTapEventPlugin();
+
 
 
 import {justdoit} from '../actions/index.js'
@@ -20,8 +25,6 @@ import {justdoit} from '../actions/index.js'
 import d3Chart from '../d3Chart'
 
 import * as d3 from 'd3'
-
-
 
 
 class TestComponent extends Component {
@@ -41,31 +44,31 @@ class TestComponent extends Component {
 		this.d3Chart.init()	
 
 
-		console.log('from reselector: ', this.props.data)
+		this.d3Chart.update(this.props.data, this.props.labelX, this.props.labelY)
 
-		this.d3Chart.update(this.props.data)
+		this.props.justdoit(FETCH_DATA_X, 'test01.json')
+		this.props.justdoit(FETCH_DATA_Y, 'test02.json')
+		this.props.justdoit(FETCH_DATA_RAD, 'test03.json')
+	}
 
-		self.props.justdoit(FETCH_DATA_X, 'test01.json')
-		self.props.justdoit(FETCH_DATA_Y, 'test02.json')
-		self.props.justdoit(FETCH_DATA_RAD, 'test03.json')
+	updateData () {
+		// console.log('upateData called')
 
-		$('svg').click(() => {
-			self.props.justdoit(FETCH_DATA_X, 'test02.json')
-			self.props.justdoit(FETCH_DATA_Y, 'test03.json')
-			self.props.justdoit(FETCH_DATA_RAD, 'test04.json')
-		})
+		this.props.justdoit(FETCH_DATA_X, 'test02.json')
+		this.props.justdoit(FETCH_DATA_Y, 'test03.json')
+		this.props.justdoit(FETCH_DATA_RAD, 'test04.json')
 	}
 
 	componentDidUpdate () {
-		console.log('console did update', this.props.data)
-		this.d3Chart.update(this.props.data)
+		console.log('componentDidUpdate', this.props)
+		this.d3Chart.update(this.props.data, this.props.labelX, this.props.labelY)
 	}
 
 	makeNumber (oneData) {
 	}
 
 	render () {
-		console.log(this.props)
+		// console.log(this.props)
 
 		const style = {
 		  margin: 12,
@@ -73,18 +76,29 @@ class TestComponent extends Component {
 
 		return (
 			<div>	
-				<RaisedButton label="Default" style={style} />
+				<RaisedButton label="Default" style={style} onTouchTap={this.updateData.bind(this)}/>
 			</div>
 		)
 	}
 }
 
 function mapStateToProps (state) {
-	return {data: LinkedDataSelector(state)}
+
+	console.log('mapStateToProps', state)
+
+	const obj = {
+		data: LinkedDataSelector(state),
+		labelX: state.graph.dataX.indicator ? state.graph.dataX.indicator.name : 'no label',
+		labelY: state.graph.dataY.indicator ? state.graph.dataY.indicator.name : 'no label',
+	}
+
+	return obj
 }
 
 function mapDispatchToProps (dispatch) {
-	return bindActionCreators({justdoit}, dispatch)
+	return {justdoit: (...args) => dispatch(justdoit(...args))}
+
+	// return bindActionCreators({justdoit}, dispatch)
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(TestComponent)

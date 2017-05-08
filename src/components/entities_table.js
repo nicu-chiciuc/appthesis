@@ -31,7 +31,7 @@ class EntitiesTable extends Component {
 
   getTableRow (entity) {
     return (
-      <TableRow>
+      <TableRow key={entity.name}>
         <TableRowColumn>{entity.name}</TableRowColumn>
         <TableRowColumn>{entity.x}</TableRowColumn>
         <TableRowColumn>{entity.y}</TableRowColumn>

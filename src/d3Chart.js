@@ -46,19 +46,42 @@ export default class d3Chart {
 		this.svg.append("g")
 			.attr('class', 'yAxis')
 			.call(d3.axisLeft(this.y))
+
+
+		// axis label
+		this.bottomLabel = this.svg.append("text")
+			.attr("class", "x label")
+			.attr("text-anchor", "end")
+			.attr("x", this.width)
+			.attr("y", this.height - 6)
+			.text("income per capita, inflation-adjusted (dollars)")
+
+		// axis label left
+		this.leftLabel = this.svg.append("text")
+			.attr("class", "y label")
+			.attr("text-anchor", "end")
+			.attr("y", 6)
+			.attr("dy", ".75em")
+			.attr("transform", "rotate(-90)")
+			.text("life expectancy (years)")
 	}
 
 
-	update (data) {
+	update (data, labelX, labelY) {
 		console.log(data.length)
 
 		const t = d3.transition().duration(500)
 
+
+		console.log('d3Chart', labelX, labelY)
+		this.bottomLabel.text(labelX)
+		this.leftLabel.text(labelY)
+
 		// console.log(data)
 
 		// Scale the range of the data
-		this.x.domain(d3.extent(data, function(d) { return d.x }))
-		this.y.domain([0, d3.max(data, function(d) { return d.y })])
+		this.x.domain(d3.extent(data, d => d.x))
+		this.y.domain([0, d3.max(data, d => d.y)])
 
 		// Add the valueline path.
 		// this.svg.selectAll('path.line')
