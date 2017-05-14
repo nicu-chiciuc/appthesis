@@ -3,8 +3,7 @@ module.exports = {
     './src/index.js'
   ],
   output: {
-    path: __dirname,
-    publicPath: '/',
+    path: __dirname + '/public',
     filename: 'bundle.js'
   },
   module: {
@@ -22,8 +21,8 @@ module.exports = {
   devServer: {
     historyApiFallback: true,
     contentBase: './',
-    host: '0.0.0.0',
-    public: '192.168.0.101:8080'
+    // host: '0.0.0.0',
+    // public: '192.168.0.101:8080'
   },
   devtool: "source-map"
 };

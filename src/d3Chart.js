@@ -95,7 +95,7 @@ export default class d3Chart {
 			.call(d3.axisLeft(this.y))
 		
 
-		const scal = 3
+		const scal = 1
 		const placeX = (d, i) => (i*100 + 30) / scal
 
 
@@ -132,7 +132,7 @@ export default class d3Chart {
 				.attr('cy', d => this.y(d.y) )
 				.attr('cx', d => this.x(d.x) )
 				.attr('r', d =>  d.r / scal)
-				.attr('fill', 'red')
+				.attr('fill', d => d.color)
 				
 				
 
