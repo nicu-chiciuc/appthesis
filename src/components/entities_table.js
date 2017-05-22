@@ -1,63 +1,89 @@
 import React, {Component} from 'react'
 import {connect} from 'react-redux'
+import {bindActionCreators} from 'redux'
 
 import LinkedDataSelector from '../selectors/selector_linkedData'
 
+import {sendTheEntities} from '../actions/index'
+
 
 import {
-  Table,
-  TableBody,
-  TableHeader,
-  TableHeaderColumn,
-  TableRow,
-  TableRowColumn,
+	Table,
+	TableBody,
+	TableHeader,
+	TableHeaderColumn,
+	TableRow,
+	TableRowColumn,
 } from 'material-ui/Table'
 
+import Paper from 'material-ui/Paper'
+
+
 class EntitiesTable extends Component {
-  getHeader () {
-    console.log('getHeader called')
+	getHeader () {
+		return (
+			<TableHeader>
+				<TableRow>
+					<TableHeaderColumn>Entity</TableHeaderColumn>
+					<TableHeaderColumn>X coordinate</TableHeaderColumn>
+					<TableHeaderColumn>Y coordinate</TableHeaderColumn>
+					<TableHeaderColumn>Radius</TableHeaderColumn>
+					<TableHeaderColumn>Color</TableHeaderColumn>
 
-    return (
-      <TableHeader>
-        <TableRow>
-          <TableHeaderColumn>Entity</TableHeaderColumn>
-          <TableHeaderColumn>X coordinate</TableHeaderColumn>
-          <TableHeaderColumn>Y coordinate</TableHeaderColumn>
-          <TableHeaderColumn>Radius</TableHeaderColumn>
-        </TableRow>
-      </TableHeader>
-    )
-  }
+				</TableRow>
+			</TableHeader>
+		)
+	}
 
-  getTableRow (entity) {
-    return (
-      <TableRow key={entity.name}>
-        <TableRowColumn>{entity.name}</TableRowColumn>
-        <TableRowColumn>{entity.x}</TableRowColumn>
-        <TableRowColumn>{entity.y}</TableRowColumn>
-        <TableRowColumn>{entity.r}</TableRowColumn>
-      </TableRow>
-    )
-  }
+	getTableRow = (entity) => {
 
-  render () {
+		return (
+			<TableRow key={entity.name} selected={this.props.selectedEntities.indexOf(entity.name) != -1}>
+				<TableRowColumn>{entity.name}</TableRowColumn>
+				<TableRowColumn>{entity.x}</TableRowColumn>
+				<TableRowColumn>{entity.y}</TableRowColumn>
+				<TableRowColumn>{entity.r}</TableRowColumn>
+				<TableRowColumn>{entity.color}</TableRowColumn>
+			</TableRow>
+		)
+	}
 
-    console.log(this.props.entitiesData)
+	_onRowSelection = (rowNumbers) => {
+		const namesOfEntities = rowNumbers.map(num => this.props.entitiesData[num].name)
 
-    return (
-      <Table>
-        {this.getHeader()}
+		this.props.sendTheEntities(namesOfEntities)
+	}
 
-        <TableBody>
-          {this.props.entitiesData.map(this.getTableRow)}
-        </TableBody>
-      </Table>
-    )
-  }
+	render () {
+		return (
+			<Paper>
+				<Table 
+					selectable={true}
+					multiSelectable={true}
+					onRowSelection={this._onRowSelection}
+					
+					>
+					{this.getHeader()}
+
+					<TableBody deselectOnClickaway={false}>
+						{this.props.entitiesData.map(this.getTableRow)
+					}
+					</TableBody>
+				</Table>
+			</Paper>
+		)
+	}
 }
 
 function mapStateToProps (state) {
-  return {entitiesData: LinkedDataSelector(state)}
+	return {
+		entitiesData: LinkedDataSelector(state),
+		selectedEntities: state.graph.selectedEntities
+	}
 }
 
-export default connect(mapStateToProps, undefined) (EntitiesTable)
+function mapDispatchToProps (dispatch) {
+	return bindActionCreators({sendTheEntities}, dispatch)
+}
+
+export default connect(mapStateToProps, mapDispatchToProps) (EntitiesTable)

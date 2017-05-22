@@ -15,9 +15,7 @@ function mixTheData (data) {
 export default (DataType) => (state=[], action) => {
 	switch (action.type) {
 		case DataType:
-			const data = action.payload.data
-
-			return data
+			return action.payload.data
 	}
 	
 	return state

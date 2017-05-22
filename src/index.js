@@ -1,15 +1,15 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import { createStore, applyMiddleware } from 'redux';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { Provider } from 'react-redux'
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
+import { createStore, applyMiddleware } from 'redux'
 import ReduxPromise from 'redux-promise'
 
-import App from './components/app';
-import reducers from './reducers';
+import App from './components/app'
+import reducers from './reducers'
 
 
-// const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
+// const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore)
 // const theStore = createStoreWithMiddleware(reducers)
 
 const logMiddleware = ({getShape, dispatch}) => (next) => (action) => {
@@ -18,15 +18,16 @@ const logMiddleware = ({getShape, dispatch}) => (next) => (action) => {
 	next(action)
 }
 
-const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
 const theStore = createStore(reducers, /* preloadedState, */ composeEnhancers(
-	applyMiddleware(logMiddleware, ReduxPromise, logMiddleware)
+	applyMiddleware(ReduxPromise, logMiddleware)
 ))
 
 ReactDOM.render(
-  <Provider store={theStore}>
-  	<MuiThemeProvider>
-    	<App />
-    </MuiThemeProvider>
-  </Provider>
-  , document.querySelector('.container'));
+	<Provider store={theStore}>
+		<MuiThemeProvider>
+			<App />
+		</MuiThemeProvider>
+	</Provider>
+	, document.querySelector('.container')
+)

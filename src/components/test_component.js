@@ -1,7 +1,3 @@
-import _ from 'lodash'
-// remove jquery
-import $ from 'jquery'
-
 import React, {Component} from 'react'
 import ReactDOM from 'react-dom'
 import {connect} from 'react-redux'
@@ -11,15 +7,14 @@ import LinkedDataSelector from '../selectors/selector_linkedData'
 
 import {FETCH_DATA_Y, FETCH_DATA_X, FETCH_DATA_RAD, FETCH_DATA_COLOR} from '../constants/action_types'
 
-import RaisedButton from 'material-ui/RaisedButton';
+import RaisedButton from 'material-ui/RaisedButton'
+
 
 
 
 import {justdoit, changeYear} from '../actions/index.js'
 
 import d3Chart from '../d3Chart'
-
-import * as d3 from 'd3'
 
 
 class TestComponent extends Component {
@@ -29,17 +24,14 @@ class TestComponent extends Component {
 	}
 
 	componentDidMount () {
-
-		const self = this
-
-		var el = ReactDOM.findDOMNode(this);
+		var el = ReactDOM.findDOMNode(this)
 		this.d3Chart = new d3Chart()
 
 		this.d3Chart.create(el)
 		this.d3Chart.init()	
 
 
-		this.d3Chart.update(this.props.data, this.props.labelX, this.props.labelY)
+		this.d3Chart.update(this.props.data, this.props.selectedEntities, this.props.labelX, this.props.labelY)
 
 		this.props.justdoit(FETCH_DATA_X, 'test01.json')
 		this.props.justdoit(FETCH_DATA_Y, 'test02.json')
@@ -61,23 +53,24 @@ class TestComponent extends Component {
 
 	componentDidUpdate () {
 		console.log('componentDidUpdate', this.props)
-		this.d3Chart.update(this.props.data, this.props.labelX, this.props.labelY)
+		this.d3Chart.update(this.props.data, this.props.selectedEntities, this.props.labelX, this.props.labelY)
 	}
 
-	makeNumber (oneData) {
+	handleChange (a) {
+		console.log('changed', a)
 	}
 
 	render () {
-		// console.log(this.props)
-
 		const style = {
-		  margin: 12,
-		};
+			margin: 12,
+		}
 
 		return (
 			<div>	
 				<RaisedButton label="Change" style={style} onTouchTap={this.updateData.bind(this)}/>
 				<RaisedButton label="Increase Year" style={style} onTouchTap={this.increaseYear.bind(this)}/>
+
+				
 			</div>
 		)
 	}
@@ -93,6 +86,7 @@ function mapStateToProps (state) {
 		labelY: state.graph.dataY.indicator ? state.graph.dataY.indicator.name : 'no label',
 
 		currentYear: state.graph.currentYear,
+		selectedEntities: state.graph.selectedEntities,
 	}
 
 	return obj

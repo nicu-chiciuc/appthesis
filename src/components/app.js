@@ -5,6 +5,7 @@ import * as d3 from 'd3'
 import TestComponent from '../components/test_component'
 import EntitiesTable from '../components/entities_table'
 import DateSlider from '../components/date_slider'
+import DataSelection from '../components/data_selection'
 
 import injectTapEventPlugin from 'react-tap-event-plugin';
 // Needed for onTouchTap, from material-ui installation docs
@@ -20,8 +21,9 @@ export default class App extends Component {
 			<div>React simple starter</div>
 			<TestComponent />
 			<DateSlider />
+			<DataSelection />
 			<EntitiesTable />
 		</div>
-	);
+	)
   }
 }

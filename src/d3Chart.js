@@ -67,7 +67,9 @@ export default class d3Chart {
 	}
 
 
-	update (data, labelX, labelY) {
+	update (data, selectedData, labelX, labelY) {
+		data = data.filter(d => selectedData.indexOf(d.name) != -1)
+
 		console.log(data.length)
 
 		const t = d3.transition().duration(500)
