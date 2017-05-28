@@ -1,8 +1,4 @@
-// import $ from 'jquery'
 import * as d3 from 'd3'
-// import vizabi from 'vizabi'
-
-// console.log(vizabi)
 
 export default class d3Chart {
 	create (element) {
@@ -11,7 +7,7 @@ export default class d3Chart {
 		this.height = 500 - this.margin.top - this.margin.bottom
 
 		// parse the date / time
-		// var parseTime = d3.timeParse("%d-%b-%y")
+		// var parseTime = d3.timeParse('%d-%b-%y')
 
 		// console.log(parseTime)
 
@@ -37,38 +33,38 @@ export default class d3Chart {
 		// 	.attr('class', 'line')
 
 		// Add the X Axis
-		this.svg.append("g")
+		this.svg.append('g')
 			.attr('class', 'xAxis')
-			.attr("transform", "translate(0," + this.height + ")")
+			.attr('transform', 'translate(0,' + this.height + ')')
 			.call(d3.axisBottom(this.x))
 
 		// Add the Y Axis
-		this.svg.append("g")
+		this.svg.append('g')
 			.attr('class', 'yAxis')
 			.call(d3.axisLeft(this.y))
 
 
 		// axis label
-		this.bottomLabel = this.svg.append("text")
-			.attr("class", "x label")
-			.attr("text-anchor", "end")
-			.attr("x", this.width)
-			.attr("y", this.height - 6)
-			.text("income per capita, inflation-adjusted (dollars)")
+		this.bottomLabel = this.svg.append('text')
+			.attr('class', 'x label')
+			.attr('text-anchor', 'end')
+			.attr('x', this.width)
+			.attr('y', this.height - 6)
+			.text('income per capita, inflation-adjusted (dollars)')
 
 		// axis label left
-		this.leftLabel = this.svg.append("text")
-			.attr("class", "y label")
-			.attr("text-anchor", "end")
-			.attr("y", 6)
-			.attr("dy", ".75em")
-			.attr("transform", "rotate(-90)")
-			.text("life expectancy (years)")
+		this.leftLabel = this.svg.append('text')
+			.attr('class', 'y label')
+			.attr('text-anchor', 'end')
+			.attr('y', 6)
+			.attr('dy', '.75em')
+			.attr('transform', 'rotate(-90)')
+			.text('life expectancy (years)')
 	}
 
 
 	update (data, selectedData, labelX, labelY) {
-		data = data.filter(d => selectedData.indexOf(d.name) != -1)
+		data = data.filter(d => selectedData.includes(d.name))
 
 		console.log(data.length)
 
@@ -88,7 +84,7 @@ export default class d3Chart {
 		// Add the valueline path.
 		// this.svg.selectAll('path.line')
 		// 		.data([data])
-		// 		.attr("d", this.valueline)
+		// 		.attr('d', this.valueline)
 
 		this.svg.selectAll('g.xAxis')
 			.call(d3.axisBottom(this.x))
@@ -112,7 +108,7 @@ export default class d3Chart {
 				.remove()
 
 		// UPDATE old elements
-		// circle.attr("class", 'update')
+		// circle.attr('class', 'update')
 		// 	.transition(t)
 		// 		.attr('cy', d => y(d.y) )
 		// 		.attr('cx', d => x(d.x) )
@@ -141,8 +137,3 @@ export default class d3Chart {
 	}
 
 }
-
-
-	// // Get the data
-	
-

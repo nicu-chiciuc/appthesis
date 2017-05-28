@@ -1,9 +1,11 @@
-import {FETCH_SEARCHED_ENTITIES} from '../actions/index'
+import {SEARCH_ENTITIES} from '../constants/action_types'
 
 
 export default (state = [], action) => {
-	if (action.type === FETCH_SEARCHED_ENTITIES) {
-		return []
+	console.log(action.type, SEARCH_ENTITIES)
+
+	if (action.type === SEARCH_ENTITIES) {
+		return action.payload.data
 	}
 
 	return state

@@ -2,7 +2,7 @@ module.exports = [
 {
 id: "1811",
 name_ro: 'Gimnaziul nr.9',
-keywords: 'Gimnaziul nr.9',
+keywords: 'gimnaziul nr.9',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -19,7 +19,7 @@ height: 150
 {
 id: "1812",
 name_ro: 'L.T. Coşbuc',
-keywords: 'L.T. Coşbuc',
+keywords: 'l.t. cosbuc',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -36,7 +36,7 @@ height: 150
 {
 id: "1813",
 name_ro: 'L.T. M. Gorki',
-keywords: 'L.T. M. Gorki',
+keywords: 'l.t. m. gorki',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -53,7 +53,7 @@ height: 150
 {
 id: "1814",
 name_ro: 'L.T. V.Alecsandri',
-keywords: 'L.T. V.Alecsandri',
+keywords: 'l.t. v.alecsandri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -70,7 +70,7 @@ height: 150
 {
 id: "1815",
 name_ro: 'L.T. B-P. Haşdeu',
-keywords: 'L.T. B-P. Haşdeu',
+keywords: 'l.t. b-p. hasdeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -87,7 +87,7 @@ height: 150
 {
 id: "1816",
 name_ro: 'Scoala Medie Serală nr.23',
-keywords: 'Scoala Medie Serală nr.23',
+keywords: 'scoala medie serala nr.23',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -104,7 +104,7 @@ height: 150
 {
 id: "1817",
 name_ro: 'L.T. M. Eminescu',
-keywords: 'L.T. M. Eminescu',
+keywords: 'l.t. m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -121,7 +121,7 @@ height: 150
 {
 id: "1818",
 name_ro: 'Scoala medie nr.19',
-keywords: 'Scoala medie nr.19',
+keywords: 'scoala medie nr.19',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1158",
@@ -138,7 +138,7 @@ height: 150
 {
 id: "1819",
 name_ro: 'L.T.A. I. Cuza',
-keywords: 'L.T.A. I. Cuza',
+keywords: 'l.t.a. i. cuza',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -155,7 +155,7 @@ height: 150
 {
 id: "1820",
 name_ro: 'Scoala medie nr.15',
-keywords: 'Scoala medie nr.15',
+keywords: 'scoala medie nr.15',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -172,7 +172,7 @@ height: 150
 {
 id: "1821",
 name_ro: 'L.T. Ştefan cel Mare',
-keywords: 'L.T. Ştefan cel Mare',
+keywords: 'l.t. stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -189,7 +189,7 @@ height: 150
 {
 id: "1822",
 name_ro: 'L.T."V.Maiacovschi"',
-keywords: 'L.T."V.Maiacovschi"',
+keywords: 'l.t. v.maiacovschi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -206,7 +206,7 @@ height: 150
 {
 id: "1823",
 name_ro: 'L.T. A.Puşkin',
-keywords: 'L.T. A.Puşkin',
+keywords: 'l.t. a.puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -223,7 +223,7 @@ height: 150
 {
 id: "1824",
 name_ro: 'Gimnaziul nr.7',
-keywords: 'Gimnaziul nr.7',
+keywords: 'gimnaziul nr.7',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -240,7 +240,7 @@ height: 150
 {
 id: "1825",
 name_ro: 'Scoala medie nr.6',
-keywords: 'Scoala medie nr.6',
+keywords: 'scoala medie nr.6',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -257,7 +257,7 @@ height: 150
 {
 id: "1826",
 name_ro: 'L.T."Mihail Lomonosov"',
-keywords: 'L.T."Mihail Lomonosov"',
+keywords: 'l.t. mihail lomonosov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -274,7 +274,7 @@ height: 150
 {
 id: "1827",
 name_ro: 'Scoala medie nr.4',
-keywords: 'Scoala medie nr.4',
+keywords: 'scoala medie nr.4',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -291,7 +291,7 @@ height: 150
 {
 id: "1828",
 name_ro: 'Scoala medie nr.3',
-keywords: 'Scoala medie nr.3',
+keywords: 'scoala medie nr.3',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -308,7 +308,7 @@ height: 150
 {
 id: "1829",
 name_ro: 'Scola medie nr.2',
-keywords: 'Scola medie nr.2',
+keywords: 'scola medie nr.2',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -325,7 +325,7 @@ height: 150
 {
 id: "1830",
 name_ro: 'L.T."Lucian Blaga"',
-keywords: 'L.T."Lucian Blaga"',
+keywords: 'l.t. lucian blaga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -342,7 +342,7 @@ height: 150
 {
 id: "1831",
 name_ro: 'Gimnaziul nr.16',
-keywords: 'Gimnaziul nr.16',
+keywords: 'gimnaziul nr.16',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1159",
@@ -359,7 +359,7 @@ height: 150
 {
 id: "1832",
 name_ro: 'Gimnaziul nr.10',
-keywords: 'Gimnaziul nr.10',
+keywords: 'gimnaziul nr.10',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -376,7 +376,7 @@ height: 150
 {
 id: "1833",
 name_ro: 'Scoala medie nr.14',
-keywords: 'Scoala medie nr.14',
+keywords: 'scoala medie nr.14',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1157",
@@ -393,7 +393,7 @@ height: 150
 {
 id: "1834",
 name_ro: 'L.T. D. Cantemir',
-keywords: 'L.T. D. Cantemir',
+keywords: 'l.t. d. cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -410,7 +410,7 @@ height: 150
 {
 id: "1835",
 name_ro: 'Şcoala de tip internat',
-keywords: 'Şcoala de tip internat',
+keywords: 'scoala de tip internat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -427,7 +427,7 @@ height: 150
 {
 id: "1836",
 name_ro: 'N. Gogol',
-keywords: 'Gogol',
+keywords: 'gogol',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -444,7 +444,7 @@ height: 150
 {
 id: "1837",
 name_ro: 'Scoala primara, 21',
-keywords: 'Scoala primara, 21',
+keywords: 'scoala primara 21',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1157",
@@ -461,7 +461,7 @@ height: 150
 {
 id: "1838",
 name_ro: 'IÎP Liceul Elitex',
-keywords: 'IÎP Liceul Elitex',
+keywords: 'iip liceul elitex',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -478,7 +478,7 @@ height: 150
 {
 id: "1839",
 name_ro: 'Şcoala internat auxiliară',
-keywords: 'Şcoala internat auxiliară',
+keywords: 'scoala internat auxiliara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -495,7 +495,7 @@ height: 150
 {
 id: "1840",
 name_ro: 'Şcoală internat pentru copii slab văzător',
-keywords: 'Şcoală internat pentru copii slab văzător',
+keywords: 'scoala internat pentru copii slab vazator',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1157",
@@ -512,7 +512,7 @@ height: 150
 {
 id: "1841",
 name_ro: 'Liceul Teoretic Regional "Ion Creangă"',
-keywords: 'Liceul Teoretic Regional "Ion Creangă"',
+keywords: 'liceul teoretic regional ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1157",
@@ -529,7 +529,7 @@ height: 150
 {
 id: "1842",
 name_ro: 'Liceul Teoretic "Natalia Gheorghiu"',
-keywords: 'Highschool Natalia Gheorghiu Chisinau',
+keywords: 'highschool natalia gheorghiu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -546,7 +546,7 @@ height: 150
 {
 id: "1843",
 name_ro: 'Liceul Teoretic "Spiru Haret"',
-keywords: 'Highschool Spiru Haret Chisinau',
+keywords: 'highschool spiru haret chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -563,7 +563,7 @@ height: 150
 {
 id: "1844",
 name_ro: 'Liceul Teoretic "Liviu Rebreanu"',
-keywords: 'Highschool Liviu Rebreanu Chisinau',
+keywords: 'highschool liviu rebreanu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -580,7 +580,7 @@ height: 150
 {
 id: "1845",
 name_ro: 'Gimnaziul nr.65',
-keywords: 'Gimnaziul nr.65',
+keywords: 'gimnaziul nr.65',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1161",
@@ -597,7 +597,7 @@ height: 150
 {
 id: "1846",
 name_ro: 'Liceul Teoretic "Grigore Vieru"',
-keywords: 'Liceul Teoretic "Grigore Vieru"',
+keywords: 'liceul teoretic grigore vieru',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1163",
@@ -614,7 +614,7 @@ height: 150
 {
 id: "1847",
 name_ro: 'Gimnaziul nr.68',
-keywords: 'Gimnaziul nr.68',
+keywords: 'gimnaziul nr.68',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1164",
@@ -631,7 +631,7 @@ height: 150
 {
 id: "1848",
 name_ro: 'Liceul Teoretic "Minerva"',
-keywords: 'Highschool Minerva Chisinau',
+keywords: 'highschool minerva chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -648,7 +648,7 @@ height: 150
 {
 id: "1849",
 name_ro: 'Şcoala speciala nr.12',
-keywords: 'Şcoala speciala nr.12',
+keywords: 'scoala speciala nr.12',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -665,7 +665,7 @@ height: 150
 {
 id: "1850",
 name_ro: 'Liceul Teoretic "Vasile Alecsandri"',
-keywords: 'Highschool V. Alexandri Chisinau',
+keywords: 'highschool v. alexandri chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -682,7 +682,7 @@ height: 150
 {
 id: "1851",
 name_ro: 'Şcoala medie de cultură generală nr.84',
-keywords: 'Şcoala medie de cultură generală nr.84',
+keywords: 'scoala medie de cultura generala nr.84',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1166",
@@ -699,7 +699,7 @@ height: 150
 {
 id: "1852",
 name_ro: 'Liceul Teoretic "Mircea Eliade"',
-keywords: 'M. Eliade Lyceum Chisinau',
+keywords: 'm. eliade lyceum chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -716,7 +716,7 @@ height: 150
 {
 id: "1853",
 name_ro: 'Gimnaziul internat nr.3',
-keywords: 'Gimnaziul internat nr.3',
+keywords: 'gimnaziul internat nr.3',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1165",
@@ -733,7 +733,7 @@ height: 150
 {
 id: "1854",
 name_ro: 'Gimnaziul nr.34',
-keywords: 'Gymnasium No . 34 Moldova',
+keywords: 'gymnasium no . 34 moldova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1161",
@@ -750,7 +750,7 @@ height: 150
 {
 id: "1855",
 name_ro: 'Gimnaziul nr.17',
-keywords: 'Gimnaziul nr.17',
+keywords: 'gimnaziul nr.17',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1162",
@@ -767,7 +767,7 @@ height: 150
 {
 id: "1856",
 name_ro: 'Liceul Teoretic "Bogdan Petriceicu Hasdeu"',
-keywords: 'Highschool Bogdan Petriceicu Hajdeu Chisinau',
+keywords: 'highschool bogdan petriceicu hajdeu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -784,7 +784,7 @@ height: 150
 {
 id: "1857",
 name_ro: 'Şcoala-grădiniţă nr.124',
-keywords: 'Şcoala-grădiniţă nr.124',
+keywords: 'scoala-gradinita nr.124',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -801,7 +801,7 @@ height: 150
 {
 id: "1858",
 name_ro: 'Liceul Teoretic "Hyperion"',
-keywords: 'Liceul Teoretic "Hyperion"',
+keywords: 'liceul teoretic hyperion',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -818,7 +818,7 @@ height: 150
 {
 id: "1859",
 name_ro: 'Şcoala medie de cultură generală nr.35',
-keywords: 'Middle school of general education No. 35 Moldova',
+keywords: 'middle school of general education no. 35 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1167",
@@ -835,7 +835,7 @@ height: 150
 {
 id: "1860",
 name_ro: 'Liceul Teoretic "Grătieşti"',
-keywords: 'Liceul Teoretic "Grătieşti"',
+keywords: 'liceul teoretic gratiesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1168",
@@ -852,7 +852,7 @@ height: 150
 {
 id: "1861",
 name_ro: 'Liceul internat municipal cu profil sportiv',
-keywords: 'High School Sports profile Chisinau ',
+keywords: 'high school sports profile chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -869,7 +869,7 @@ height: 150
 {
 id: "1862",
 name_ro: 'Liceul teoretic "G.Calinescu"',
-keywords: 'Highschool Calinescu Chisinau',
+keywords: 'highschool calinescu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -886,7 +886,7 @@ height: 150
 {
 id: "1863",
 name_ro: 'Liceul Teoretic "Nicolae Iorga"',
-keywords: 'Highschool N. Iorga Chisinau',
+keywords: 'highschool n. iorga chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -903,7 +903,7 @@ height: 150
 {
 id: "1864",
 name_ro: 'Liceul Teoretic "Aleco Russo"',
-keywords: ' A. Russo Chisinau School',
+keywords: 'a. russo chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -920,7 +920,7 @@ height: 150
 {
 id: "1865",
 name_ro: 'Liceul Teoretic "Dante Alighieri"',
-keywords: 'D. Alighiere School Chisinau',
+keywords: 'd. alighiere school chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -937,7 +937,7 @@ height: 150
 {
 id: "1866",
 name_ro: 'Liceul Teoretic "Ion Creangă"',
-keywords: 'Romanian-English School Chisinau Ion Creanga',
+keywords: 'romanian-english school chisinau ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -954,7 +954,7 @@ height: 150
 {
 id: "1867",
 name_ro: 'Liceul Teoretic "Gaudeamus"',
-keywords: 'Highschool Gaudiamus Chisinau',
+keywords: 'highschool gaudiamus chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -971,7 +971,7 @@ height: 150
 {
 id: "1868",
 name_ro: 'Şcoala primară nr.9',
-keywords: 'Primary School no. 9 Moldova',
+keywords: 'primary school no. 9 moldova',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -988,7 +988,7 @@ height: 150
 {
 id: "1869",
 name_ro: 'Liceul Teoretic “Mihailo Lomonosov"',
-keywords: 'Liceul Teoretic “Mihailo Lomonosov”',
+keywords: 'liceul teoretic “mihailo lomonosov”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1005,7 +1005,7 @@ height: 150
 {
 id: "1870",
 name_ro: 'Şcoala medie de cultură generală nr. 41',
-keywords: 'Middle school of general education No. 41 Moldova',
+keywords: 'middle school of general education no. 41 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1165",
@@ -1022,7 +1022,7 @@ height: 150
 {
 id: "1871",
 name_ro: 'Liceul Teoretic "Mihai Berezovschi"',
-keywords: 'Arts Highschool cuproil Michael Berezovschi Chisinau',
+keywords: 'arts highschool cuproil michael berezovschi chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -1039,7 +1039,7 @@ height: 150
 {
 id: "1872",
 name_ro: 'Şcoala primară nr.32',
-keywords: 'Şcoala primară nr.32',
+keywords: 'scoala primara nr.32',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1165",
@@ -1056,7 +1056,7 @@ height: 150
 {
 id: "1873",
 name_ro: 'Liceul Teoretic "Durleşti"',
-keywords: 'Liceul Teoretic "Durleşti"',
+keywords: 'liceul teoretic durlesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1166",
@@ -1073,7 +1073,7 @@ height: 150
 {
 id: "1874",
 name_ro: 'Gimnaziul .nr.74',
-keywords: 'Gimnaziul .nr.74',
+keywords: 'gimnaziul .nr.74',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1169",
@@ -1090,7 +1090,7 @@ height: 150
 {
 id: "1875",
 name_ro: 'Şcoala medie de cultură generală nr.6',
-keywords: 'Şcoala medie de cultură generală nr.6',
+keywords: 'scoala medie de cultura generala nr.6',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -1107,7 +1107,7 @@ height: 150
 {
 id: "1876",
 name_ro: 'Şcoala primara nr.82',
-keywords: 'Şcoala primara nr.82',
+keywords: 'scoala primara nr.82',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1167",
@@ -1124,7 +1124,7 @@ height: 150
 {
 id: "1877",
 name_ro: 'Şcoala auxiliară-internat nr.5',
-keywords: 'Şcoala auxiliară-internat nr.5',
+keywords: 'scoala auxiliara-internat nr.5',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1165",
@@ -1141,7 +1141,7 @@ height: 150
 {
 id: "1878",
 name_ro: 'Liceul Teoretic "Truşeni"',
-keywords: 'Liceul Teoretic "Truşeni"',
+keywords: 'liceul teoretic truseni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1170",
@@ -1158,7 +1158,7 @@ height: 150
 {
 id: "1879",
 name_ro: 'Liceul Teoretic seral nr.1',
-keywords: 'Liceul Teoretic seral nr.1',
+keywords: 'liceul teoretic seral nr.1',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1175,7 +1175,7 @@ height: 150
 {
 id: "1880",
 name_ro: 'Gimnaziul nr.31',
-keywords: 'Gimnaziul nr.31',
+keywords: 'gimnaziul nr.31',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1162",
@@ -1192,7 +1192,7 @@ height: 150
 {
 id: "1881",
 name_ro: 'Liceul Teoretic "Elena Alistar"',
-keywords: 'Highschool arts profile Elena Alistar Chisinau',
+keywords: 'highschool arts profile elena alistar chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -1209,7 +1209,7 @@ height: 150
 {
 id: "1882",
 name_ro: 'Şcoala .primara nr.95',
-keywords: 'Primary School no. 95 Moldova',
+keywords: 'primary school no. 95 moldova',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1167",
@@ -1226,7 +1226,7 @@ height: 150
 {
 id: "1883",
 name_ro: 'Şcoala primară nr.101',
-keywords: 'Şcoala primară nr.101',
+keywords: 'scoala primara nr.101',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1163",
@@ -1243,7 +1243,7 @@ height: 150
 {
 id: "1884",
 name_ro: 'Şcoala primară nr.91',
-keywords: 'Şcoala primară nr.91',
+keywords: 'scoala primara nr.91',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1161",
@@ -1260,7 +1260,7 @@ height: 150
 {
 id: "1885",
 name_ro: 'Gimnaziul nr.53',
-keywords: 'Gymnasium No. 53 Moldova',
+keywords: 'gymnasium no. 53 moldova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1165",
@@ -1277,7 +1277,7 @@ height: 150
 {
 id: "1886",
 name_ro: 'Liceul Teoretic "Petru Zadnipru"',
-keywords: ' Highschool P. Zadnipru Chisinau',
+keywords: 'highschool p. zadnipru chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -1294,7 +1294,7 @@ height: 150
 {
 id: "1887",
 name_ro: 'Liceul Teoretic "Mihai Grecu"',
-keywords: 'M. Grecu Chisinau School',
+keywords: 'm. grecu chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -1311,7 +1311,7 @@ height: 150
 {
 id: "1888",
 name_ro: 'Gimnaziul nr.42',
-keywords: 'Gimnaziul nr.42',
+keywords: 'gimnaziul nr.42',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1171",
@@ -1328,7 +1328,7 @@ height: 150
 {
 id: "1889",
 name_ro: 'Liceul Teoretic "Onisifor Ghibu"',
-keywords: 'High School O. Ghibu Chisinau',
+keywords: 'high school o. ghibu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -1345,7 +1345,7 @@ height: 150
 {
 id: "1890",
 name_ro: 'Gimnaziul nr. 44',
-keywords: 'Gimnaziul nr. 44',
+keywords: 'gimnaziul nr. 44',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1167",
@@ -1362,7 +1362,7 @@ height: 150
 {
 id: "1891",
 name_ro: 'Şcoala medie de cultură generală nr.49',
-keywords: 'Middle school of general education No. 49 Moldova',
+keywords: 'middle school of general education no. 49 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -1379,7 +1379,7 @@ height: 150
 {
 id: "1892",
 name_ro: 'Şcoala medie de cultură generală nr.51',
-keywords: 'Şcoala medie de cultură generală nr.51',
+keywords: 'scoala medie de cultura generala nr.51',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1172",
@@ -1396,7 +1396,7 @@ height: 150
 {
 id: "1893",
 name_ro: 'Şcoala primară nr.19',
-keywords: 'Şcoala primară nr.19',
+keywords: 'scoala primara nr.19',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1173",
@@ -1413,7 +1413,7 @@ height: 150
 {
 id: "1894",
 name_ro: 'Liceul Teoretic "Budeşti"',
-keywords: 'Liceul Teoretic "Budeşti"',
+keywords: 'liceul teoretic budesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1174",
@@ -1430,7 +1430,7 @@ height: 150
 {
 id: "1895",
 name_ro: 'Liceul Teoretic "Gheorghe Ghimpu"',
-keywords: 'Liceul Teoretic "Gheorghe Ghimpu"',
+keywords: 'liceul teoretic gheorghe ghimpu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1175",
@@ -1447,7 +1447,7 @@ height: 150
 {
 id: "1896",
 name_ro: 'Liceul tenologic pentru copii cu vederea slabă',
-keywords: 'Liceul tenologic pentru copii cu vederea slabă',
+keywords: 'liceul tenologic pentru copii cu vederea slaba',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1464,7 +1464,7 @@ height: 150
 {
 id: "1897",
 name_ro: 'Gimnaziul nr.79',
-keywords: 'Gimnaziul nr.79',
+keywords: 'gimnaziul nr.79',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1176",
@@ -1481,7 +1481,7 @@ height: 150
 {
 id: "1898",
 name_ro: 'Liceul Teoretic "Mihai Viteazul"',
-keywords: 'Liceul Teoretic "Mihai Viteazul"',
+keywords: 'liceul teoretic mihai viteazul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1498,7 +1498,7 @@ height: 150
 {
 id: "1899",
 name_ro: 'Şcoala medie de cultură generală nr.86',
-keywords: 'Middle school of general education No. 86 Moldova',
+keywords: 'middle school of general education no. 86 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1161",
@@ -1515,7 +1515,7 @@ height: 150
 {
 id: "1900",
 name_ro: 'Şcoala medie de cultură generală nr.52',
-keywords: 'Middle school of general education No. 52 Moldova',
+keywords: 'middle school of general education no. 52 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1161",
@@ -1532,7 +1532,7 @@ height: 150
 {
 id: "1901",
 name_ro: 'Liceul Teoretic "Traian"',
-keywords: 'Highschool Trajan Chisinau',
+keywords: 'highschool trajan chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -1549,7 +1549,7 @@ height: 150
 {
 id: "1902",
 name_ro: 'Şcoala medie de cultură generală nr.59',
-keywords: 'Middle school of general education No. 59 Moldova',
+keywords: 'middle school of general education no. 59 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1161",
@@ -1566,7 +1566,7 @@ height: 150
 {
 id: "1903",
 name_ro: 'Liceul Teoretic "Toader Bubuiog"',
-keywords: 'Liceul Teoretic "Toader Bubuiog"',
+keywords: 'liceul teoretic toader bubuiog',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -1583,7 +1583,7 @@ height: 150
 {
 id: "1904",
 name_ro: 'Liceul Teoretic "Nicolae Gogol"',
-keywords: 'N. Gogol Chisinau School',
+keywords: 'n. gogol chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -1600,7 +1600,7 @@ height: 150
 {
 id: "1905",
 name_ro: 'Şcoala-grădiniţă nr.120',
-keywords: 'Şcoala-grădiniţă nr.120',
+keywords: 'scoala-gradinita nr.120',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -1617,7 +1617,7 @@ height: 150
 {
 id: "1906",
 name_ro: 'Şcoala-grădiniţă nr.152 "Pas cu pas"',
-keywords: 'Şcoala-grădiniţă nr.152 "Pas cu pas"',
+keywords: 'scoala-gradinita nr.152 pas cu pas',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -1634,7 +1634,7 @@ height: 150
 {
 id: "1907",
 name_ro: 'sc.-gradinita "Prosucces"',
-keywords: 'sc.-gradinita "Prosucces"',
+keywords: 'sc.-gradinita prosucces',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -1651,7 +1651,7 @@ height: 150
 {
 id: "1908",
 name_ro: 'Liceul Teoretic "Vasile Vasilache"',
-keywords: 'Lyceum Chisinau Vasile Vasilache',
+keywords: 'lyceum chisinau vasile vasilache',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -1668,7 +1668,7 @@ height: 150
 {
 id: "1909",
 name_ro: 'Liceul Teoretic "Constantin Sibirschi"',
-keywords: 'Liceul Teoretic "Constantin Sibirschi"',
+keywords: 'liceul teoretic constantin sibirschi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1685,7 +1685,7 @@ height: 150
 {
 id: "1910",
 name_ro: 'Liceul Teoretic "Vasile Lupu"',
-keywords: 'Highschool Chisinau Vasile Lupu',
+keywords: 'highschool chisinau vasile lupu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1702,7 +1702,7 @@ height: 150
 {
 id: "1911",
 name_ro: 'Şcoala specială nr.81',
-keywords: 'Şcoala specială nr.81',
+keywords: 'scoala speciala nr.81',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1165",
@@ -1719,7 +1719,7 @@ height: 150
 {
 id: "1912",
 name_ro: 'Şcoala medie de cultură generală nr.7',
-keywords: 'Middle school of general education No. 7 Chisinau',
+keywords: 'middle school of general education no. 7 chisinau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1165",
@@ -1736,7 +1736,7 @@ height: 150
 {
 id: "1913",
 name_ro: 'Liceul Teoretic "Univers LIONS"',
-keywords: 'Liceul Teoretic "Univers LIONS"',
+keywords: 'liceul teoretic univers lions',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1753,7 +1753,7 @@ height: 150
 {
 id: "1914",
 name_ro: 'Liceul Teoretic "Nicolae Sulac"',
-keywords: 'Lyceum profile arts Nicholas Sulac Chisinau',
+keywords: 'lyceum profile arts nicholas sulac chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -1770,7 +1770,7 @@ height: 150
 {
 id: "1915",
 name_ro: 'Şcoala auxiliara nr.7',
-keywords: 'Auxiliary school No. 7 Chisinau',
+keywords: 'auxiliary school no. 7 chisinau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1165",
@@ -1804,7 +1804,7 @@ height: 150
 {
 id: "1917",
 name_ro: 'Liceul Teoretic "Petru Movila"',
-keywords: 'Liceul Teoretic "Petru Movila"',
+keywords: 'liceul teoretic petru movila',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -1821,7 +1821,7 @@ height: 150
 {
 id: "1918",
 name_ro: 'Liceul Teoretic "N.Milescu-Spatarul"',
-keywords: 'School-Spataru M.Milescu Chisinau',
+keywords: 'school-spataru m.milescu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1838,7 +1838,7 @@ height: 150
 {
 id: "1919",
 name_ro: 'Liceul experimental Waldorf',
-keywords: 'Waldorf School of general education (with groups of kindergarten) Chisinau',
+keywords: 'waldorf school of general education (with groups of kindergarten) chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1855,7 +1855,7 @@ height: 150
 {
 id: "1920",
 name_ro: 'Liceul Teoretic "Academia copiilor"',
-keywords: 'Liceul Teoretic "Academia copiilor"',
+keywords: 'liceul teoretic academia copiilor',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1872,7 +1872,7 @@ height: 150
 {
 id: "1921",
 name_ro: 'Liceul Teoretic "Vasil Levski"',
-keywords: 'Highschool V. Levschi Chisinau',
+keywords: 'highschool v. levschi chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1889,7 +1889,7 @@ height: 150
 {
 id: "1922",
 name_ro: 'Liceul Teoretic "George Meniuc"',
-keywords: 'Highschool G. Meniuc Chisinau',
+keywords: 'highschool g. meniuc chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1906,7 +1906,7 @@ height: 150
 {
 id: "1923",
 name_ro: 'Liceul Teoretic "Mihail Sadoveanu"',
-keywords: 'Highschool M. Sadoveanu Chisinau',
+keywords: 'highschool m. sadoveanu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1923,7 +1923,7 @@ height: 150
 {
 id: "1924",
 name_ro: 'Liceul Teoretic "Ginta Latină"',
-keywords: 'Liceul Teoretic "Ginta Latină"',
+keywords: 'liceul teoretic ginta latina',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -1940,7 +1940,7 @@ height: 150
 {
 id: "1925",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare şi Sfînt"',
-keywords: 'Stefan cel Mare Chisinau School',
+keywords: 'stefan cel mare chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1957,7 +1957,7 @@ height: 150
 {
 id: "1926",
 name_ro: 'Liceul Teoretic "Olimp"',
-keywords: 'Olympus Highschool Chisinau',
+keywords: 'olympus highschool chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -1974,7 +1974,7 @@ height: 150
 {
 id: "1927",
 name_ro: 'Liceul Teoretic "Kiril si Metodiu"',
-keywords: 'Cyril High School and Mifodi Chisinau',
+keywords: 'cyril high school and mifodi chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -1991,7 +1991,7 @@ height: 150
 {
 id: "1928",
 name_ro: 'Şcoala pe schimburi nr.3',
-keywords: 'Şcoala pe schimburi nr.3',
+keywords: 'scoala pe schimburi nr.3',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1167",
@@ -2008,7 +2008,7 @@ height: 150
 {
 id: "1929",
 name_ro: 'Şcoala primară nr.103',
-keywords: 'Şcoala primară nr.103',
+keywords: 'scoala primara nr.103',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1167",
@@ -2025,7 +2025,7 @@ height: 150
 {
 id: "1930",
 name_ro: 'Şcoala primară nr.83',
-keywords: 'Şcoala primară nr.83',
+keywords: 'scoala primara nr.83',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1167",
@@ -2042,7 +2042,7 @@ height: 150
 {
 id: "1931",
 name_ro: 'Liceul Teoretic "Constantin Negruzzi"',
-keywords: 'Highschool Chisinau Constantin Negruzzi',
+keywords: 'highschool chisinau constantin negruzzi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -2059,7 +2059,7 @@ height: 150
 {
 id: "1932",
 name_ro: 'Şcoala medie de cutlură generală nr.3',
-keywords: 'No middle school of general education. Chisinau 3',
+keywords: 'no middle school of general education. chisinau 3',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -2076,7 +2076,7 @@ height: 150
 {
 id: "1933",
 name_ro: 'Liceul Teoretic "Alexandru Ioan Cuza"',
-keywords: 'Highschool A. Cuza Chisinau',
+keywords: 'highschool a. cuza chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2093,7 +2093,7 @@ height: 150
 {
 id: "1934",
 name_ro: 'Şcoala auxiliară-internat nr.6',
-keywords: 'Şcoala auxiliară-internat nr.6',
+keywords: 'scoala auxiliara-internat nr.6',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1160",
@@ -2110,7 +2110,7 @@ height: 150
 {
 id: "1935",
 name_ro: 'Liceul Teoretic seral nr.2',
-keywords: 'Liceul Teoretic seral nr.2',
+keywords: 'liceul teoretic seral nr.2',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2127,7 +2127,7 @@ height: 150
 {
 id: "1936",
 name_ro: 'Liceul Teoretic "Lucian Blaga"',
-keywords: 'Lucian Blaga Lyceum Chisinau',
+keywords: 'lucian blaga lyceum chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2144,7 +2144,7 @@ height: 150
 {
 id: "1937",
 name_ro: 'Şcoala primară nr.12',
-keywords: 'Şcoala primară nr.12',
+keywords: 'scoala primara nr.12',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1167",
@@ -2161,7 +2161,7 @@ height: 150
 {
 id: "1938",
 name_ro: 'Gimnaziul nr.77',
-keywords: 'Gimnaziul nr.77',
+keywords: 'gimnaziul nr.77',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1177",
@@ -2178,7 +2178,7 @@ height: 150
 {
 id: "1939",
 name_ro: 'Liceul Teoretic "Alexei Mateevici"',
-keywords: 'Liceul Teoretic "Alexei Mateevici"',
+keywords: 'liceul teoretic alexei mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1177",
@@ -2195,7 +2195,7 @@ height: 150
 {
 id: "1940",
 name_ro: 'Liceul Teoretic "Mihailo Kotiubinski"',
-keywords: 'Liceul Teoretic "Mihailo Kotiubinski"',
+keywords: 'liceul teoretic mihailo kotiubinski',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -2212,7 +2212,7 @@ height: 150
 {
 id: "1941",
 name_ro: 'Şcoala medie de cultură generală nr.85',
-keywords: 'Middle school of general education No. 85 Moldova',
+keywords: 'middle school of general education no. 85 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1160",
@@ -2229,7 +2229,7 @@ height: 150
 {
 id: "1942",
 name_ro: 'Gimnaziul teatral "Ion Luca Caragiale"',
-keywords: 'Theater Gymnasium Carajiale Chisinau',
+keywords: 'theater gymnasium carajiale chisinau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1160",
@@ -2246,7 +2246,7 @@ height: 150
 {
 id: "1943",
 name_ro: 'Şcoala auxiliară nr.9 CPPC "Orfeu"',
-keywords: 'Şcoala auxiliară nr.9 CPPC "Orfeu"',
+keywords: 'scoala auxiliara nr.9 cppc orfeu',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1160",
@@ -2263,7 +2263,7 @@ height: 150
 {
 id: "1944",
 name_ro: 'Şcoala-grădiniţă nr.136',
-keywords: 'Şcoala-grădiniţă nr.136',
+keywords: 'scoala-gradinita nr.136',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1160",
@@ -2280,7 +2280,7 @@ height: 150
 {
 id: "1945",
 name_ro: 'Şcoala-grădiniţă nr.199',
-keywords: 'Şcoala-grădiniţă nr.199',
+keywords: 'scoala-gradinita nr.199',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1160",
@@ -2297,7 +2297,7 @@ height: 150
 {
 id: "1946",
 name_ro: 'Liceul Teoretic "M.de Cervantes"',
-keywords: 'High School M. Servantes Chisinau',
+keywords: 'high school m. servantes chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2314,7 +2314,7 @@ height: 150
 {
 id: "1947",
 name_ro: 'Liceul Teoretic "Rambam"',
-keywords: 'Highschool Rambam Chisinau',
+keywords: 'highschool rambam chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2331,7 +2331,7 @@ height: 150
 {
 id: "1948",
 name_ro: 'Liceul Teoretic "Nicolae Bălcescu"',
-keywords: 'Highschool Nicolae Balcescu common Ciorescu',
+keywords: 'highschool nicolae balcescu common ciorescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2348,7 +2348,7 @@ height: 150
 {
 id: "1949",
 name_ro: 'Liceul Teoretic "Dragoş Vodă"',
-keywords: 'Liceul Teoretic "Dragoş Vodă"',
+keywords: 'liceul teoretic dragos voda',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1178",
@@ -2365,7 +2365,7 @@ height: 150
 {
 id: "1950",
 name_ro: 'Liceul tehnologic resurse educationale şi trayning tehnologic "B.Z.Hertli"',
-keywords: 'School Chisinau B.Z.Hertli',
+keywords: 'school chisinau b.z.hertli',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2382,7 +2382,7 @@ height: 150
 {
 id: "1951",
 name_ro: 'Liceul teoretic cu profil sportiv nr.3',
-keywords: 'Lyceum No profile sports nr.3 Chisinau ',
+keywords: 'lyceum no profile sports nr.3 chisinau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -2399,7 +2399,7 @@ height: 150
 {
 id: "1952",
 name_ro: 'Gimnaziul-internat nr.2',
-keywords: 'Gimnaziul-internat nr.2',
+keywords: 'gimnaziul-internat nr.2',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1162",
@@ -2416,7 +2416,7 @@ height: 150
 {
 id: "1953",
 name_ro: 'Gimnaziul nr.67',
-keywords: 'Gimnaziul nr.67',
+keywords: 'gimnaziul nr.67',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1162",
@@ -2433,7 +2433,7 @@ height: 150
 {
 id: "1954",
 name_ro: 'Şcoala grădiniţă nr.90',
-keywords: 'No school-kindergarten. 90 Moldova',
+keywords: 'no school-kindergarten. 90 moldova',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1162",
@@ -2450,7 +2450,7 @@ height: 150
 {
 id: "1955",
 name_ro: 'Liceul Teoretic "Mircea cel Bătrîn"',
-keywords: 'Highschool Mircea the Elder Chisinau',
+keywords: 'highschool mircea the elder chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2467,7 +2467,7 @@ height: 150
 {
 id: "1956",
 name_ro: 'Liceul Teoretic "Iulia Hasdeu"',
-keywords: 'Highschool I Hasdeu Chisinau',
+keywords: 'highschool i hasdeu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2484,7 +2484,7 @@ height: 150
 {
 id: "1957",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Chisinau Mihai Eminescu Highschool',
+keywords: 'chisinau mihai eminescu highschool',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2501,7 +2501,7 @@ height: 150
 {
 id: "1958",
 name_ro: 'Şcoala medie de cultură generală nr.30',
-keywords: 'Middle school of general education No .30 Moldova',
+keywords: 'middle school of general education no .30 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1162",
@@ -2518,7 +2518,7 @@ height: 150
 {
 id: "1959",
 name_ro: 'Liceul Teoretic "Gheorghe Asachi"',
-keywords: 'Romanian-English School Chisinau Ion Creanga',
+keywords: 'romanian-english school chisinau ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -2535,7 +2535,7 @@ height: 150
 {
 id: "1960",
 name_ro: 'Liceul Teoretic "Mihail Kogalniceanu"',
-keywords: 'CogalniceanuChisinau M. Roman-German School',
+keywords: 'cogalniceanuchisinau m. roman-german school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2552,7 +2552,7 @@ height: 150
 {
 id: "1961",
 name_ro: 'Şcoala medie de cultură generală nr.33',
-keywords: 'Middle school of general education No. 33 Moldova',
+keywords: 'middle school of general education no. 33 moldova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1160",
@@ -2569,7 +2569,7 @@ height: 150
 {
 id: "1962",
 name_ro: 'Liceul teatral',
-keywords: 'Chisinau Municipal Theater School',
+keywords: 'chisinau municipal theater school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2586,7 +2586,7 @@ height: 150
 {
 id: "1963",
 name_ro: 'Liceul Teortic "Alexandr Puskin"',
-keywords: 'Chisinau Pushkin Lyceum',
+keywords: 'chisinau pushkin lyceum',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2603,7 +2603,7 @@ height: 150
 {
 id: "1964",
 name_ro: 'Gimnaziul nr.45',
-keywords: 'Gimnaziul nr.45',
+keywords: 'gimnaziul nr.45',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1179",
@@ -2620,7 +2620,7 @@ height: 150
 {
 id: "1965",
 name_ro: 'Liceul Teoretic "Tudor Vladimirescu"',
-keywords: 'Highschool Tudor Vladimirescu Chisinau',
+keywords: 'highschool tudor vladimirescu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2637,7 +2637,7 @@ height: 150
 {
 id: "1966",
 name_ro: 'Gimnaziul nr.99',
-keywords: 'Gimnaziul nr.99',
+keywords: 'gimnaziul nr.99',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1170",
@@ -2654,7 +2654,7 @@ height: 150
 {
 id: "1967",
 name_ro: 'Liceul Teoretic " I.S.Neciui-Leviţki"',
-keywords: 'N. School Levitki Chisinau',
+keywords: 'n. school levitki chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2671,7 +2671,7 @@ height: 150
 {
 id: "1968",
 name_ro: 'Liceul Teoretic "T.Maiorescu"',
-keywords: 'T. Maiorescu Chisinau School',
+keywords: 't. maiorescu chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -2688,7 +2688,7 @@ height: 150
 {
 id: "1969",
 name_ro: 'Liceul municipal sportiv nr.2',
-keywords: 'Liceul municipal sportiv nr.2',
+keywords: 'liceul municipal sportiv nr.2',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -2705,7 +2705,7 @@ height: 150
 {
 id: "1970",
 name_ro: 'Liceul Teoretic "Anton Cehov"',
-keywords: 'Liceul Teoretic "Anton Cehov"',
+keywords: 'liceul teoretic anton cehov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2722,7 +2722,7 @@ height: 150
 {
 id: "1971",
 name_ro: 'Liceul Teoretic "Principesa Natalia Dadiani"',
-keywords: 'N. School Dadiani Chisinau',
+keywords: 'n. school dadiani chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2739,7 +2739,7 @@ height: 150
 {
 id: "1972",
 name_ro: 'Liceul Teoretic "Antioh Cantemir"',
-keywords: 'Moldova A.Cantemir Lyceum ',
+keywords: 'moldova a.cantemir lyceum',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2756,7 +2756,7 @@ height: 150
 {
 id: "1973",
 name_ro: 'Liceul Teoretic "Matei Basarab"',
-keywords: 'Highschool M. Basarab Chisinau',
+keywords: 'highschool m. basarab chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2773,7 +2773,7 @@ height: 150
 {
 id: "1974",
 name_ro: 'Liceul Teoretic "Ştefan Vodă"',
-keywords: 'Liceul Teoretic "Ştefan Vodă"',
+keywords: 'liceul teoretic stefan voda',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1173",
@@ -2790,7 +2790,7 @@ height: 150
 {
 id: "1975",
 name_ro: 'Liceul Teoretic "Liviu Deleanu"',
-keywords: 'L. Deleanu Chisinau School',
+keywords: 'l. deleanu chisinau school',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2807,7 +2807,7 @@ height: 150
 {
 id: "1976",
 name_ro: 'Liceul Teoretic "Petru Rareş"',
-keywords: 'Highschool Moldova Petru Rares',
+keywords: 'highschool moldova petru rares',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -2824,7 +2824,7 @@ height: 150
 {
 id: "1977",
 name_ro: 'Liceul Teoretic "Alexandru cel Bun"',
-keywords: 'Liceul Teoretic "Alexandru cel Bun"',
+keywords: 'liceul teoretic alexandru cel bun',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1180",
@@ -2841,7 +2841,7 @@ height: 150
 {
 id: "1978",
 name_ro: 'Gimnaziul nr.102',
-keywords: 'Gimnaziul nr.102',
+keywords: 'gimnaziul nr.102',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1181",
@@ -2858,7 +2858,7 @@ height: 150
 {
 id: "1979",
 name_ro: 'Gimnaziul nr.75',
-keywords: 'Gimnaziul nr.75',
+keywords: 'gimnaziul nr.75',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1182",
@@ -2875,7 +2875,7 @@ height: 150
 {
 id: "1980",
 name_ro: 'Liceul Teoretic "Dimitrie Cantemir"',
-keywords: 'D. Cantemir Lyceum Chisinau',
+keywords: 'd. cantemir lyceum chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -2892,7 +2892,7 @@ height: 150
 {
 id: "1981",
 name_ro: 'Şcoala primară nr.88',
-keywords: 'Şcoala primară nr.88',
+keywords: 'scoala primara nr.88',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1171",
@@ -2909,7 +2909,7 @@ height: 150
 {
 id: "1982",
 name_ro: 'Liceul Moldo-Turc "Orizont"',
-keywords: 'Liceul Moldo-Turc "Orizont"',
+keywords: 'liceul moldo-turc orizont',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -2926,7 +2926,7 @@ height: 150
 {
 id: "1983",
 name_ro: 'Şcoala-grădiniţă Stăuceni',
-keywords: 'Şcoala-grădiniţă Stăuceni',
+keywords: 'scoala-gradinita stauceni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1160",
@@ -2943,7 +2943,7 @@ height: 150
 {
 id: "1984",
 name_ro: 'Şcoala medie de cultură generală nr.8',
-keywords: 'Middle school of general education No. 8 Chisinau',
+keywords: 'middle school of general education no. 8 chisinau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1160",
@@ -2960,7 +2960,7 @@ height: 150
 {
 id: "1985",
 name_ro: 'Şcoala medie de cultură generală nr.5',
-keywords: 'Middle school of general education No. 5 Chisinau',
+keywords: 'middle school of general education no. 5 chisinau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1161",
@@ -2977,7 +2977,7 @@ height: 150
 {
 id: "1986",
 name_ro: 'Liceul de Limbi Moderne şi Management',
-keywords: 'Liceul de Limbi Moderne şi Management',
+keywords: 'liceul de limbi moderne si management',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -2994,7 +2994,7 @@ height: 150
 {
 id: "1987",
 name_ro: 'Liceul Moldo-Turc "Orizont"',
-keywords: 'Liceul Moldo-Turc "Orizont"',
+keywords: 'liceul moldo-turc orizont',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1166",
@@ -3011,7 +3011,7 @@ height: 150
 {
 id: "1988",
 name_ro: 'Liceul "Socrate"',
-keywords: 'Liceul "Socrate"',
+keywords: 'liceul socrate',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3028,7 +3028,7 @@ height: 150
 {
 id: "1989",
 name_ro: 'Liceul "Svetoci"',
-keywords: 'Liceul "Svetoci"',
+keywords: 'liceul svetoci',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -3045,7 +3045,7 @@ height: 150
 {
 id: "1990",
 name_ro: 'Liceul Teoretic "Prosucces"',
-keywords: 'Liceul Teoretic "Prosucces"',
+keywords: 'liceul teoretic prosucces',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -3062,7 +3062,7 @@ height: 150
 {
 id: "1991",
 name_ro: 'Liceul "Litterarum"',
-keywords: 'Liceul "Litterarum"',
+keywords: 'liceul litterarum',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1165",
@@ -3079,7 +3079,7 @@ height: 150
 {
 id: "1992",
 name_ro: 'Liceul Teoretic "Dacia"',
-keywords: 'Liceul Teoretic "Dacia"',
+keywords: 'liceul teoretic dacia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1167",
@@ -3096,7 +3096,7 @@ height: 150
 {
 id: "1993",
 name_ro: 'Liceul "Prometeu-Prim"',
-keywords: 'Liceul "Prometeu-Prim"',
+keywords: 'liceul prometeu-prim',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3113,7 +3113,7 @@ height: 150
 {
 id: "1994",
 name_ro: 'Gimnaziul "Elimul Nou"',
-keywords: 'Gimnaziul "Elimul Nou"',
+keywords: 'gimnaziul elimul nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1161",
@@ -3130,7 +3130,7 @@ height: 150
 {
 id: "1995",
 name_ro: 'Liceul "Elitex"',
-keywords: 'Liceul "Elitex"',
+keywords: 'liceul elitex',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -3147,7 +3147,7 @@ height: 150
 {
 id: "1996",
 name_ro: 'Liceul Teoretic Internaţional de Management',
-keywords: 'Liceul Teoretic Internaţional de Management',
+keywords: 'liceul teoretic international de management',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -3164,7 +3164,7 @@ height: 150
 {
 id: "1997",
 name_ro: 'Liceul Moldo-Turc "Orizont"',
-keywords: 'Liceul Moldo-Turc "Orizont"',
+keywords: 'liceul moldo-turc orizont',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3181,7 +3181,7 @@ height: 150
 {
 id: "1998",
 name_ro: 'Liceul "Columna"',
-keywords: 'Liceul "Columna"',
+keywords: 'liceul columna',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3198,7 +3198,7 @@ height: 150
 {
 id: "1999",
 name_ro: 'Liceul "Pampedia"',
-keywords: 'Liceul "Pampedia"',
+keywords: 'liceul pampedia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1162",
@@ -3215,7 +3215,7 @@ height: 150
 {
 id: "2000",
 name_ro: 'Liceul "Perspectiva-Prim"',
-keywords: 'Liceul "Perspectiva-Prim"',
+keywords: 'liceul perspectiva-prim',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3232,7 +3232,7 @@ height: 150
 {
 id: "2001",
 name_ro: 'Liceul "Evrica"',
-keywords: 'Liceul "Evrica"',
+keywords: 'liceul evrica',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1161",
@@ -3249,7 +3249,7 @@ height: 150
 {
 id: "2002",
 name_ro: 'Gimnaziul Speia',
-keywords: 'Gimnaziul Speia',
+keywords: 'gimnaziul speia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1183",
@@ -3266,7 +3266,7 @@ height: 150
 {
 id: "2003",
 name_ro: 'Liceul teoretic Varniţa',
-keywords: 'Liceul teoretic Varniţa',
+keywords: 'liceul teoretic varnita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1184",
@@ -3283,7 +3283,7 @@ height: 150
 {
 id: "2004",
 name_ro: 'Liceul teoretic "Ion Creangă" Hîrbovăţ',
-keywords: 'Liceul teoretic "Ion Creangă" Hîrbovăţ',
+keywords: 'liceul teoretic ion creanga hirbovat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1185",
@@ -3300,7 +3300,7 @@ height: 150
 {
 id: "2005",
 name_ro: 'Gimnaziul Troiţa Nouă',
-keywords: 'Gimnaziul Troiţa Nouă',
+keywords: 'gimnaziul troita noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1186",
@@ -3317,7 +3317,7 @@ height: 150
 {
 id: "2006",
 name_ro: 'Liceul teoretic "Alexandru Puşkin" Anenii Noi',
-keywords: 'Liceul teoretic "Alexandru Puşkin" Anenii Noi',
+keywords: 'liceul teoretic alexandru puskin anenii noi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1187",
@@ -3334,7 +3334,7 @@ height: 150
 {
 id: "2007",
 name_ro: 'Liceul teoretic "Olimp" Puhăceni',
-keywords: 'Liceul teoretic "Olimp" Puhăceni',
+keywords: 'liceul teoretic olimp puhaceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1188",
@@ -3351,7 +3351,7 @@ height: 150
 {
 id: "2008",
 name_ro: 'Şcoala medie Geamăna',
-keywords: 'Şcoala medie Geamăna',
+keywords: 'scoala medie geamana',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1189",
@@ -3368,7 +3368,7 @@ height: 150
 {
 id: "2009",
 name_ro: 'Şcoala medie Delacău',
-keywords: 'Şcoala medie Delacău',
+keywords: 'scoala medie delacau',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1190",
@@ -3385,7 +3385,7 @@ height: 150
 {
 id: "2010",
 name_ro: 'Gimnaziul Zolotievca',
-keywords: 'Gimnaziul Zolotievca',
+keywords: 'gimnaziul zolotievca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1191",
@@ -3402,7 +3402,7 @@ height: 150
 {
 id: "2011",
 name_ro: 'Şcoala primară Larga',
-keywords: 'Şcoala primară Larga',
+keywords: 'scoala primara larga',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1192",
@@ -3419,7 +3419,7 @@ height: 150
 {
 id: "2012",
 name_ro: 'Şcoala primară Hîrbovăţul Nou',
-keywords: 'Şcoala primară Hîrbovăţul Nou',
+keywords: 'scoala primara hirbovatul nou',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1193",
@@ -3436,7 +3436,7 @@ height: 150
 {
 id: "2013",
 name_ro: 'Liceul teoretic "Mihai Eminescu" Anenii Noi',
-keywords: 'Liceul teoretic "Mihai Eminescu" Anenii Noi',
+keywords: 'liceul teoretic mihai eminescu anenii noi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1187",
@@ -3453,7 +3453,7 @@ height: 150
 {
 id: "2014",
 name_ro: 'Şcoala medie Chetrosu',
-keywords: 'Şcoala medie Chetrosu',
+keywords: 'scoala medie chetrosu',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1194",
@@ -3470,7 +3470,7 @@ height: 150
 {
 id: "2015",
 name_ro: 'Liceul teoretic Gura Bîcului',
-keywords: 'Liceul teoretic Gura Bîcului',
+keywords: 'liceul teoretic gura bicului',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1195",
@@ -3487,7 +3487,7 @@ height: 150
 {
 id: "2016",
 name_ro: 'Liceul teoretic "Hyperion" Anenii Noi',
-keywords: 'Liceul teoretic "Hyperion" Anenii Noi',
+keywords: 'liceul teoretic hyperion anenii noi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1187",
@@ -3504,7 +3504,7 @@ height: 150
 {
 id: "2017",
 name_ro: 'Liceul teoretic "Emil Nicula" Mereni',
-keywords: 'Liceul teoretic "Emil Nicula" Mereni',
+keywords: 'liceul teoretic emil nicula mereni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1196",
@@ -3521,7 +3521,7 @@ height: 150
 {
 id: "2018",
 name_ro: 'Şcoala medie Şerpeni',
-keywords: 'Şcoala medie Şerpeni',
+keywords: 'scoala medie serpeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1197",
@@ -3538,7 +3538,7 @@ height: 150
 {
 id: "2019",
 name_ro: 'Gimnaziu "Ion Creangă" Ţînţăreni',
-keywords: 'Gimnaziu "Ion Creangă" Ţînţăreni',
+keywords: 'gimnaziu ion creanga tintareni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1198",
@@ -3555,7 +3555,7 @@ height: 150
 {
 id: "2020",
 name_ro: 'Şcoala medie Roşcani',
-keywords: 'Şcoala medie Roşcani',
+keywords: 'scoala medie roscani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1199",
@@ -3572,7 +3572,7 @@ height: 150
 {
 id: "2021",
 name_ro: 'Gimnaziul Ochiul Ros',
-keywords: 'Gimnaziul Ochiul Ros',
+keywords: 'gimnaziul ochiul ros',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1200",
@@ -3589,7 +3589,7 @@ height: 150
 {
 id: "2022",
 name_ro: 'Şcoala primară Creţioaia',
-keywords: 'Şcoala primară Creţioaia',
+keywords: 'scoala primara cretioaia',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1201",
@@ -3606,7 +3606,7 @@ height: 150
 {
 id: "2023",
 name_ro: 'Gimnaziu Cobusca Veche',
-keywords: 'Gimnaziu Cobusca Veche',
+keywords: 'gimnaziu cobusca veche',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1202",
@@ -3623,7 +3623,7 @@ height: 150
 {
 id: "2024",
 name_ro: 'Gimnaziul Calfa',
-keywords: 'Gimnaziul Calfa',
+keywords: 'gimnaziul calfa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1203",
@@ -3640,7 +3640,7 @@ height: 150
 {
 id: "2025",
 name_ro: 'Gimnaziul Botnăreşti',
-keywords: 'Gimnaziul Botnăreşti',
+keywords: 'gimnaziul botnaresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1204",
@@ -3657,7 +3657,7 @@ height: 150
 {
 id: "2026",
 name_ro: 'Gimnaziul Ciobanovca',
-keywords: 'Gimnaziul Ciobanovca',
+keywords: 'gimnaziul ciobanovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1205",
@@ -3674,7 +3674,7 @@ height: 150
 {
 id: "2027",
 name_ro: 'Liceul teoretic "Anton Guzun" Bulboaca',
-keywords: 'Liceul teoretic "Anton Guzun" Bulboaca',
+keywords: 'liceul teoretic anton guzun bulboaca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1206",
@@ -3691,7 +3691,7 @@ height: 150
 {
 id: "2028",
 name_ro: 'Gimnaziul Floreni',
-keywords: 'Gimnaziul Floreni',
+keywords: 'gimnaziul floreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1207",
@@ -3708,7 +3708,7 @@ height: 150
 {
 id: "2029",
 name_ro: 'Gimnaziul Merenii Noi',
-keywords: 'Gimnaziul Merenii Noi',
+keywords: 'gimnaziul merenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1208",
@@ -3725,7 +3725,7 @@ height: 150
 {
 id: "2030",
 name_ro: 'Şcoala primară Hîrbovăţ',
-keywords: 'Şcoala primară Hîrbovăţ',
+keywords: 'scoala primara hirbovat',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1185",
@@ -3742,7 +3742,7 @@ height: 150
 {
 id: "2031",
 name_ro: 'Gimnaziul Teliţa',
-keywords: 'Gimnaziul Teliţa',
+keywords: 'gimnaziul telita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1209",
@@ -3759,7 +3759,7 @@ height: 150
 {
 id: "2032",
 name_ro: 'Gimnaziul Chirca',
-keywords: 'Gimnaziul Chirca',
+keywords: 'gimnaziul chirca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1210",
@@ -3776,7 +3776,7 @@ height: 150
 {
 id: "2033",
 name_ro: 'Gimnaziul Todireşti',
-keywords: 'Gimnaziul Todireşti',
+keywords: 'gimnaziul todiresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1211",
@@ -3793,7 +3793,7 @@ height: 150
 {
 id: "2034",
 name_ro: 'Şcoala primară Mereni',
-keywords: 'Şcoala primară Mereni',
+keywords: 'scoala primara mereni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1196",
@@ -3810,7 +3810,7 @@ height: 150
 {
 id: "2035",
 name_ro: 'Gimnaziu Cobusca Nouă',
-keywords: 'Gimnaziu Cobusca Nouă',
+keywords: 'gimnaziu cobusca noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1212",
@@ -3827,7 +3827,7 @@ height: 150
 {
 id: "2036",
 name_ro: 'Şcoala auxiliară Bulboaca',
-keywords: 'Şcoala auxiliară Bulboaca',
+keywords: 'scoala auxiliara bulboaca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1206",
@@ -3844,7 +3844,7 @@ height: 150
 {
 id: "2037",
 name_ro: 'Şcoala medie Maximovca',
-keywords: 'Şcoala medie Maximovca',
+keywords: 'scoala medie maximovca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1213",
@@ -3861,7 +3861,7 @@ height: 150
 {
 id: "2038",
 name_ro: 'Gimnaziul Abaclia',
-keywords: 'Gimnaziul Abaclia',
+keywords: 'gimnaziul abaclia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1214",
@@ -3878,7 +3878,7 @@ height: 150
 {
 id: "2039",
 name_ro: 'Liceul Teoretic "Constantin Stere"',
-keywords: 'Liceul Teoretic "Constantin Stere"',
+keywords: 'liceul teoretic constantin stere',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1214",
@@ -3895,7 +3895,7 @@ height: 150
 {
 id: "2040",
 name_ro: 'Liceul Teoretic "N.V. Gogol"',
-keywords: 'Liceul Teoretic "N.V. Gogol"',
+keywords: 'liceul teoretic n.v. gogol',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1215",
@@ -3912,7 +3912,7 @@ height: 150
 {
 id: "2041",
 name_ro: 'Liceul Teoretic "A.S. Puşkin"',
-keywords: 'Liceul Teoretic "A.S. Puşkin"',
+keywords: 'liceul teoretic a.s. puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1215",
@@ -3929,7 +3929,7 @@ height: 150
 {
 id: "2042",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Liceul Teoretic "Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1216",
@@ -3946,7 +3946,7 @@ height: 150
 {
 id: "2043",
 name_ro: 'Gimnaziu 22, Basarabeasca',
-keywords: 'Gimnaziu 22, Basarabeasca',
+keywords: 'gimnaziu 22 basarabeasca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1215",
@@ -3963,7 +3963,7 @@ height: 150
 {
 id: "2044",
 name_ro: 'Liceul teoretic "Marcu Tarlev"',
-keywords: 'Liceul teoretic "Marcu Tarlev"',
+keywords: 'liceul teoretic marcu tarlev',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1217",
@@ -3980,7 +3980,7 @@ height: 150
 {
 id: "2045",
 name_ro: 'Gimnaziul Iordanovca',
-keywords: 'Gimnaziul Iordanovca',
+keywords: 'gimnaziul iordanovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1218",
@@ -3997,7 +3997,7 @@ height: 150
 {
 id: "2046",
 name_ro: 'Liceul Teoretic "Matei Basarab"',
-keywords: 'Liceul Teoretic "Matei Basarab"',
+keywords: 'liceul teoretic matei basarab',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1215",
@@ -4014,7 +4014,7 @@ height: 150
 {
 id: "2047",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare"',
-keywords: 'Liceul Teoretic "Ştefan cel Mare"',
+keywords: 'liceul teoretic stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1219",
@@ -4031,7 +4031,7 @@ height: 150
 {
 id: "2048",
 name_ro: 'Gimnaziul Iserlia',
-keywords: 'Gimnaziul Iserlia',
+keywords: 'gimnaziul iserlia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1220",
@@ -4048,7 +4048,7 @@ height: 150
 {
 id: "2049",
 name_ro: 'gimnaziul - grădiniţa Mihaileni',
-keywords: 'gimnaziul - grădiniţa Mihaileni',
+keywords: 'gimnaziul - gradinita mihaileni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1221",
@@ -4065,7 +4065,7 @@ height: 150
 {
 id: "2050",
 name_ro: 'gimnaziul Berlineţ',
-keywords: 'gimnaziul Berlineţ',
+keywords: 'gimnaziul berlinet',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1222",
@@ -4082,7 +4082,7 @@ height: 150
 {
 id: "2051",
 name_ro: 'gimnaziul Bulboaca',
-keywords: 'gimnaziul Bulboaca',
+keywords: 'gimnaziul bulboaca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1223",
@@ -4099,7 +4099,7 @@ height: 150
 {
 id: "2052",
 name_ro: 'gimnaziul Bogdaneşti',
-keywords: 'gimnaziul Bogdaneşti',
+keywords: 'gimnaziul bogdanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1224",
@@ -4116,7 +4116,7 @@ height: 150
 {
 id: "2053",
 name_ro: 'Şcoala Medie Balasineşti',
-keywords: 'Şcoala Medie Balasineşti',
+keywords: 'scoala medie balasinesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1225",
@@ -4133,7 +4133,7 @@ height: 150
 {
 id: "2054",
 name_ro: 'gimnaziul "Grigore Vieru"',
-keywords: 'gimnaziul "Grigore Vieru"',
+keywords: 'gimnaziul grigore vieru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1226",
@@ -4150,7 +4150,7 @@ height: 150
 {
 id: "2055",
 name_ro: 'gimnaziul Bălcăuţi',
-keywords: 'gimnaziul Bălcăuţi',
+keywords: 'gimnaziul balcauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1227",
@@ -4167,7 +4167,7 @@ height: 150
 {
 id: "2056",
 name_ro: 'Liceul Teoetic Drepcauţi',
-keywords: 'Liceul Teoetic Drepcauţi',
+keywords: 'liceul teoetic drepcauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1228",
@@ -4184,7 +4184,7 @@ height: 150
 {
 id: "2057",
 name_ro: 'gimnaziul Hlina',
-keywords: 'gimnaziul Hlina',
+keywords: 'gimnaziul hlina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1229",
@@ -4201,7 +4201,7 @@ height: 150
 {
 id: "2058",
 name_ro: 'Liceul Teoretic Caracuşenii Vechi',
-keywords: 'Liceul Teoretic Caracuşenii Vechi',
+keywords: 'liceul teoretic caracusenii vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1230",
@@ -4218,7 +4218,7 @@ height: 150
 {
 id: "2059",
 name_ro: 'gimnaziul Sloboziul Şireuţi',
-keywords: 'gimnaziul Sloboziul Şireuţi',
+keywords: 'gimnaziul sloboziul sireuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1231",
@@ -4235,7 +4235,7 @@ height: 150
 {
 id: "2060",
 name_ro: 'Şcoala Medie Şireuţi',
-keywords: 'Şcoala Medie Şireuţi',
+keywords: 'scoala medie sireuti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1232",
@@ -4252,7 +4252,7 @@ height: 150
 {
 id: "2061",
 name_ro: 'Liceul Teoretic Corjeuţi',
-keywords: 'Liceul Teoretic Corjeuţi',
+keywords: 'liceul teoretic corjeuti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1233",
@@ -4269,7 +4269,7 @@ height: 150
 {
 id: "2062",
 name_ro: 'Şcoala Medie Halahora de Sus',
-keywords: 'Şcoala Medie Halahora de Sus',
+keywords: 'scoala medie halahora de sus',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1234",
@@ -4286,7 +4286,7 @@ height: 150
 {
 id: "2063",
 name_ro: 'gimnaziul Mărcăuţi',
-keywords: 'gimnaziul Mărcăuţi',
+keywords: 'gimnaziul marcauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1235",
@@ -4303,7 +4303,7 @@ height: 150
 {
 id: "2064",
 name_ro: 'gimnaziul Larga',
-keywords: 'gimnaziul Larga',
+keywords: 'gimnaziul larga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1236",
@@ -4320,7 +4320,7 @@ height: 150
 {
 id: "2065",
 name_ro: 'Liceul Teoretic Tabani',
-keywords: 'Liceul Teoretic Tabani',
+keywords: 'liceul teoretic tabani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1237",
@@ -4337,7 +4337,7 @@ height: 150
 {
 id: "2066",
 name_ro: 'gimnaziul Criva',
-keywords: 'gimnaziul Criva',
+keywords: 'gimnaziul criva',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1238",
@@ -4354,7 +4354,7 @@ height: 150
 {
 id: "2067",
 name_ro: 'Liceul Teoretic Lipcani',
-keywords: 'Liceul Teoretic Lipcani',
+keywords: 'liceul teoretic lipcani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1239",
@@ -4371,7 +4371,7 @@ height: 150
 {
 id: "2068",
 name_ro: 'gimnaziul Coteala',
-keywords: 'gimnaziul Coteala',
+keywords: 'gimnaziul coteala',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1240",
@@ -4388,7 +4388,7 @@ height: 150
 {
 id: "2069",
 name_ro: 'Gimnaziu Medveja',
-keywords: 'Gimnaziu Medveja',
+keywords: 'gimnaziu medveja',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1241",
@@ -4405,7 +4405,7 @@ height: 150
 {
 id: "2070",
 name_ro: 'Liceul Teoretic Trebisauţi',
-keywords: 'Liceul Teoretic Trebisauţi',
+keywords: 'liceul teoretic trebisauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1242",
@@ -4422,7 +4422,7 @@ height: 150
 {
 id: "2071",
 name_ro: 'Liceul Teoretic "Grigore Vieru" Briceni',
-keywords: 'Liceul Teoretic "Grigore Vieru" Briceni',
+keywords: 'liceul teoretic grigore vieru briceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1243",
@@ -4439,7 +4439,7 @@ height: 150
 {
 id: "2072",
 name_ro: 'Liceul Teoretic Colicăuţi',
-keywords: 'Liceul Teoretic Colicăuţi',
+keywords: 'liceul teoretic colicauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1244",
@@ -4456,7 +4456,7 @@ height: 150
 {
 id: "2073",
 name_ro: 'Liceul Teoretic Cotiujeni',
-keywords: 'Liceul Teoretic Cotiujeni',
+keywords: 'liceul teoretic cotiujeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1245",
@@ -4473,7 +4473,7 @@ height: 150
 {
 id: "2074",
 name_ro: 'Liceul Teoretic "T.Şevcenco" Briceni',
-keywords: 'Liceul Teoretic "T.Şevcenco" Briceni',
+keywords: 'liceul teoretic t.sevcenco briceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1243",
@@ -4490,7 +4490,7 @@ height: 150
 {
 id: "2075",
 name_ro: 'Liceul Teoretic Beleavineţ',
-keywords: 'Liceul Teoretic Beleavineţ',
+keywords: 'liceul teoretic beleavinet',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1246",
@@ -4507,7 +4507,7 @@ height: 150
 {
 id: "2076",
 name_ro: 'gimnaziul Corjeuţi',
-keywords: 'gimnaziul Corjeuţi',
+keywords: 'gimnaziul corjeuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1233",
@@ -4524,7 +4524,7 @@ height: 150
 {
 id: "2077",
 name_ro: 'Liceul Teoretic nr.1 Briceni',
-keywords: 'Liceul Teoretic nr.1 Briceni',
+keywords: 'liceul teoretic nr.1 briceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1243",
@@ -4541,7 +4541,7 @@ height: 150
 {
 id: "2078",
 name_ro: 'Liceul Teoretic Teţcani',
-keywords: 'Liceul Teoretic Teţcani',
+keywords: 'liceul teoretic tetcani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1247",
@@ -4558,7 +4558,7 @@ height: 150
 {
 id: "2079",
 name_ro: 'Şcoala Medie Lipcani',
-keywords: 'Şcoala Medie Lipcani',
+keywords: 'scoala medie lipcani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1239",
@@ -4575,7 +4575,7 @@ height: 150
 {
 id: "2080",
 name_ro: 'Şcoala Primară Trestieni',
-keywords: 'Şcoala Primară Trestieni',
+keywords: 'scoala primara trestieni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1248",
@@ -4592,7 +4592,7 @@ height: 150
 {
 id: "2081",
 name_ro: 'Liceul Teoretic Grimăncăuţi',
-keywords: 'Liceul Teoretic Grimăncăuţi',
+keywords: 'liceul teoretic grimancauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1249",
@@ -4609,7 +4609,7 @@ height: 150
 {
 id: "2082",
 name_ro: 'Liceul Teoretic Larga',
-keywords: 'Liceul Teoretic Larga',
+keywords: 'liceul teoretic larga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1236",
@@ -4626,7 +4626,7 @@ height: 150
 {
 id: "2083",
 name_ro: 'V. Corolenco',
-keywords: '„V. Corolenco”',
+keywords: '„v. corolenco”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1250",
@@ -4643,7 +4643,7 @@ height: 150
 {
 id: "2084",
 name_ro: 'M. Eminescu',
-keywords: '„M. Eminescu”',
+keywords: '„m. eminescu”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1251",
@@ -4660,7 +4660,7 @@ height: 150
 {
 id: "2085",
 name_ro: 'I. Creangă',
-keywords: '„I. Creangă”',
+keywords: '„i. creanga”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1252",
@@ -4677,7 +4677,7 @@ height: 150
 {
 id: "2086",
 name_ro: 'P. Rumeanţev',
-keywords: '„P. Rumeanţev”',
+keywords: '„p. rumeantev”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4694,7 +4694,7 @@ height: 150
 {
 id: "2087",
 name_ro: 'M. Eminescu',
-keywords: '„M. Eminescu”',
+keywords: '„m. eminescu”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4711,7 +4711,7 @@ height: 150
 {
 id: "2088",
 name_ro: 'D. Cantemir',
-keywords: '„D. Cantemir”',
+keywords: '„d. cantemir”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4728,7 +4728,7 @@ height: 150
 {
 id: "2089",
 name_ro: 'I. Creangă',
-keywords: '„I. Creangă”',
+keywords: '„i. creanga”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4745,7 +4745,7 @@ height: 150
 {
 id: "2090",
 name_ro: 'Şcoala primara s. Iujnoe',
-keywords: 'Şcoala primara s. Iujnoe',
+keywords: 'scoala primara s. iujnoe',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1254",
@@ -4762,7 +4762,7 @@ height: 150
 {
 id: "2091",
 name_ro: 'I. Vodă',
-keywords: '„I. Vodă”',
+keywords: '„i. voda”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4779,7 +4779,7 @@ height: 150
 {
 id: "2092",
 name_ro: 'G. Coşbuc',
-keywords: '„G. Coşbuc”',
+keywords: '„g. cosbuc”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1255",
@@ -4796,7 +4796,7 @@ height: 150
 {
 id: "2093",
 name_ro: 'A. Mateevici',
-keywords: '„A. Mateevici”',
+keywords: '„a. mateevici”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1256",
@@ -4813,7 +4813,7 @@ height: 150
 {
 id: "2094",
 name_ro: 'Şt. cel Mare',
-keywords: '„Şt. cel Mare”',
+keywords: '„st. cel mare”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1257",
@@ -4830,7 +4830,7 @@ height: 150
 {
 id: "2095",
 name_ro: 'A.S. Puşchin',
-keywords: '„A.S. Puşchin”',
+keywords: '„a.s. puschin”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1258",
@@ -4847,7 +4847,7 @@ height: 150
 {
 id: "2096",
 name_ro: 'M. Sadoveanu',
-keywords: '„M. Sadoveanu”',
+keywords: '„m. sadoveanu”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1259",
@@ -4864,7 +4864,7 @@ height: 150
 {
 id: "2097",
 name_ro: 'S. Rahmaninov',
-keywords: '„S. Rahmaninov”',
+keywords: '„s. rahmaninov”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -4881,7 +4881,7 @@ height: 150
 {
 id: "2098",
 name_ro: 'I. Creangă',
-keywords: '„I. Creangă”',
+keywords: '„i. creanga”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1260",
@@ -4898,7 +4898,7 @@ height: 150
 {
 id: "2099",
 name_ro: 'M. Sadoveanu',
-keywords: '„M. Sadoveanu”',
+keywords: '„m. sadoveanu”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1261",
@@ -4915,7 +4915,7 @@ height: 150
 {
 id: "2100",
 name_ro: 'M. Lomonosov',
-keywords: '„M. Lomonosov”',
+keywords: '„m. lomonosov”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1262",
@@ -4932,7 +4932,7 @@ height: 150
 {
 id: "2101",
 name_ro: 'V. Alecsandri',
-keywords: '„V. Alecsandri”',
+keywords: '„v. alecsandri”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1263",
@@ -4949,7 +4949,7 @@ height: 150
 {
 id: "2102",
 name_ro: 'N. Iorga',
-keywords: '„N. Iorga”',
+keywords: '„n. iorga”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1264",
@@ -4966,7 +4966,7 @@ height: 150
 {
 id: "2103",
 name_ro: 'I.L. Caragiale',
-keywords: '„I.L. Caragiale”',
+keywords: '„i.l. caragiale”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1265",
@@ -4983,7 +4983,7 @@ height: 150
 {
 id: "2104",
 name_ro: 'I. Neculce',
-keywords: '„I. Neculce”',
+keywords: '„i. neculce”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1266",
@@ -5000,7 +5000,7 @@ height: 150
 {
 id: "2105",
 name_ro: 'Gimnaziul s. Rumeanţev',
-keywords: 'Gimnaziul s. Rumeanţev',
+keywords: 'gimnaziul s. rumeantev',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1267",
@@ -5017,7 +5017,7 @@ height: 150
 {
 id: "2106",
 name_ro: 'M. Sadoveanu',
-keywords: '„M. Sadoveanu”',
+keywords: '„m. sadoveanu”',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1268",
@@ -5034,7 +5034,7 @@ height: 150
 {
 id: "2107",
 name_ro: 'Igor Creţu',
-keywords: '„Igor Creţu”',
+keywords: '„igor cretu”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1269",
@@ -5051,7 +5051,7 @@ height: 150
 {
 id: "2108",
 name_ro: 'I. Vodă',
-keywords: '„I. Vodă”',
+keywords: '„i. voda”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1270",
@@ -5068,7 +5068,7 @@ height: 150
 {
 id: "2109",
 name_ro: 'Constantin Dragomir',
-keywords: '„Constantin Dragomir"',
+keywords: '„constantin dragomir',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1252",
@@ -5085,7 +5085,7 @@ height: 150
 {
 id: "2110",
 name_ro: 'D. Cantemir',
-keywords: '„D. Cantemir”',
+keywords: '„d. cantemir”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1271",
@@ -5102,7 +5102,7 @@ height: 150
 {
 id: "2111",
 name_ro: 'V. Alecsandri',
-keywords: '„V. Alecsandri”',
+keywords: '„v. alecsandri”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1272",
@@ -5119,7 +5119,7 @@ height: 150
 {
 id: "2112",
 name_ro: 'A.I. Cuza',
-keywords: '„A.I. Cuza”',
+keywords: '„a.i. cuza”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1273",
@@ -5136,7 +5136,7 @@ height: 150
 {
 id: "2113",
 name_ro: 'G. Coşbuc',
-keywords: '„G. Coşbuc”',
+keywords: '„g. cosbuc”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1274",
@@ -5153,7 +5153,7 @@ height: 150
 {
 id: "2114",
 name_ro: 'Ştefan cel Mare',
-keywords: '„Ştefan cel Mare”',
+keywords: '„stefan cel mare”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1275",
@@ -5170,7 +5170,7 @@ height: 150
 {
 id: "2115",
 name_ro: 'Mircea cel Bătrîn',
-keywords: '”Mircea cel Bătrîn”',
+keywords: '”mircea cel batrin”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1276",
@@ -5187,7 +5187,7 @@ height: 150
 {
 id: "2116",
 name_ro: 'M. Viteazul',
-keywords: '„M. Viteazul”',
+keywords: '„m. viteazul”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1277",
@@ -5204,7 +5204,7 @@ height: 150
 {
 id: "2117",
 name_ro: 'A. Russo',
-keywords: '„A. Russo”',
+keywords: '„a. russo”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1278",
@@ -5221,7 +5221,7 @@ height: 150
 {
 id: "2118",
 name_ro: 'C. Stere',
-keywords: '„C. Stere”',
+keywords: '„c. stere”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1279",
@@ -5238,7 +5238,7 @@ height: 150
 {
 id: "2119",
 name_ro: 'G. Asachi',
-keywords: '„G. Asachi”',
+keywords: '„g. asachi”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1280",
@@ -5255,7 +5255,7 @@ height: 150
 {
 id: "2120",
 name_ro: 'I. Gaşec',
-keywords: '„I. Gaşec”',
+keywords: '„i. gasec”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1281",
@@ -5272,7 +5272,7 @@ height: 150
 {
 id: "2121",
 name_ro: 'Alexandru cel Bun',
-keywords: '„Alexandru cel Bun”',
+keywords: '„alexandru cel bun”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1282",
@@ -5289,7 +5289,7 @@ height: 150
 {
 id: "2122",
 name_ro: 'gimnaziul s. Lopăţica',
-keywords: 'gimnaziul s. Lopăţica',
+keywords: 'gimnaziul s. lopatica',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1283",
@@ -5306,7 +5306,7 @@ height: 150
 {
 id: "2123",
 name_ro: 'L. Ucrainca',
-keywords: '„L. Ucrainca”',
+keywords: '„l. ucrainca”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1284",
@@ -5323,7 +5323,7 @@ height: 150
 {
 id: "2124",
 name_ro: 'A. Mateevici',
-keywords: '„A. Mateevici”',
+keywords: '„a. mateevici”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1285",
@@ -5340,7 +5340,7 @@ height: 150
 {
 id: "2125",
 name_ro: 'N. Stănescu',
-keywords: '„N. Stănescu”',
+keywords: '„n. stanescu”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1286",
@@ -5357,7 +5357,7 @@ height: 150
 {
 id: "2126",
 name_ro: 'V. Alecsandri',
-keywords: '„V. Alecsandri”',
+keywords: '„v. alecsandri”',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -5374,7 +5374,7 @@ height: 150
 {
 id: "2127",
 name_ro: 'M. Eminescu',
-keywords: '„M. Eminescu”',
+keywords: '„m. eminescu”',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1287",
@@ -5391,7 +5391,7 @@ height: 150
 {
 id: "2128",
 name_ro: 'S. Esenin',
-keywords: '„S. Esenin”',
+keywords: '„s. esenin”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1288",
@@ -5408,7 +5408,7 @@ height: 150
 {
 id: "2129",
 name_ro: 'Alecu Mare',
-keywords: '„Alecu Mare”',
+keywords: '„alecu mare”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1287",
@@ -5425,7 +5425,7 @@ height: 150
 {
 id: "2130",
 name_ro: 'Gimnaziul Cîşliţa Prut',
-keywords: 'Gimnaziul Cîşliţa Prut',
+keywords: 'gimnaziul cislita prut',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1289",
@@ -5442,7 +5442,7 @@ height: 150
 {
 id: "2131",
 name_ro: 'Şc. Tehnologică "B.P. Haşdeu"',
-keywords: 'Şc. Tehnologică „B.P. Haşdeu”',
+keywords: 'sc. tehnologica „b.p. hasdeu”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1253",
@@ -5459,7 +5459,7 @@ height: 150
 {
 id: "2132",
 name_ro: 'Şcoala primară s. Spicoasa',
-keywords: 'Şcoala primară s. Spicoasa',
+keywords: 'scoala primara s. spicoasa',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1290",
@@ -5476,7 +5476,7 @@ height: 150
 {
 id: "2133",
 name_ro: 'A. Donici',
-keywords: '„A. Donici”',
+keywords: '„a. donici”',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -5493,7 +5493,7 @@ height: 150
 {
 id: "2134",
 name_ro: 'A. Mateevici',
-keywords: '„A. Mateevici”',
+keywords: '„a. mateevici”',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -5510,7 +5510,7 @@ height: 150
 {
 id: "2135",
 name_ro: 'B.P. Haşdeu',
-keywords: '„B.P. Haşdeu”',
+keywords: '„b.p. hasdeu”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1291",
@@ -5527,7 +5527,7 @@ height: 150
 {
 id: "2136",
 name_ro: 'M. Kogălniceanu',
-keywords: '„M. Kogălniceanu”',
+keywords: '„m. kogalniceanu”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1292",
@@ -5544,7 +5544,7 @@ height: 150
 {
 id: "2137",
 name_ro: 'Gimnaziul s. Frumuşica',
-keywords: 'Gimnaziul s. Frumuşica',
+keywords: 'gimnaziul s. frumusica',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1293",
@@ -5561,7 +5561,7 @@ height: 150
 {
 id: "2138",
 name_ro: 'Şc. internat cu def. de auz',
-keywords: 'Şc. internat cu def. de auz',
+keywords: 'sc. internat cu def. de auz',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1253",
@@ -5578,7 +5578,7 @@ height: 150
 {
 id: "2139",
 name_ro: 'Gimnaziul Bahmut',
-keywords: 'Gimnaziul Bahmut',
+keywords: 'gimnaziul bahmut',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1294",
@@ -5595,7 +5595,7 @@ height: 150
 {
 id: "2140",
 name_ro: 'Gimnaziul I. Creangă Călăraşi',
-keywords: 'Gimnaziul I. Creangă Călăraşi',
+keywords: 'gimnaziul i. creanga calarasi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1295",
@@ -5612,7 +5612,7 @@ height: 150
 {
 id: "2141",
 name_ro: 'Scoala Primara Buda',
-keywords: 'Scoala Primara Buda',
+keywords: 'scoala primara buda',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1296",
@@ -5629,7 +5629,7 @@ height: 150
 {
 id: "2142",
 name_ro: 'Gimnaziul Bahu',
-keywords: 'Gimnaziul Bahu',
+keywords: 'gimnaziul bahu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1297",
@@ -5646,7 +5646,7 @@ height: 150
 {
 id: "2143",
 name_ro: 'Gimnaziul Hogineşti',
-keywords: 'Gimnaziul Hogineşti',
+keywords: 'gimnaziul hoginesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1298",
@@ -5663,7 +5663,7 @@ height: 150
 {
 id: "2144",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare" Bravicea',
-keywords: 'Liceul Teoretic "Ştefan cel Mare" Bravicea',
+keywords: 'liceul teoretic stefan cel mare bravicea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1299",
@@ -5680,7 +5680,7 @@ height: 150
 {
 id: "2145",
 name_ro: 'Gimnaziul Vărzăreştii Noi',
-keywords: 'Gimnaziul Vărzăreştii Noi',
+keywords: 'gimnaziul varzarestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1300",
@@ -5697,7 +5697,7 @@ height: 150
 {
 id: "2146",
 name_ro: 'Gimnaziul Nişcani',
-keywords: 'Gimnaziul Nişcani',
+keywords: 'gimnaziul niscani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1301",
@@ -5714,7 +5714,7 @@ height: 150
 {
 id: "2147",
 name_ro: 'Liceul Teoretic M. Sadoveanu Călăraşi',
-keywords: 'Liceul Teoretic M. Sadoveanu Călăraşi',
+keywords: 'liceul teoretic m. sadoveanu calarasi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1295",
@@ -5731,7 +5731,7 @@ height: 150
 {
 id: "2148",
 name_ro: 'Liceul Teoretic M. Lomonosov Călăraşi',
-keywords: 'Liceul Teoretic M. Lomonosov Călăraşi',
+keywords: 'liceul teoretic m. lomonosov calarasi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1295",
@@ -5748,7 +5748,7 @@ height: 150
 {
 id: "2149",
 name_ro: 'Liceul Teoretic Săseni',
-keywords: 'Liceul Teoretic Săseni',
+keywords: 'liceul teoretic saseni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1302",
@@ -5765,7 +5765,7 @@ height: 150
 {
 id: "2150",
 name_ro: 'Liceul Teoretic Dereneu',
-keywords: 'Liceul Teoretic Dereneu',
+keywords: 'liceul teoretic dereneu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1303",
@@ -5782,7 +5782,7 @@ height: 150
 {
 id: "2151",
 name_ro: 'Scoala Primara Vălcineţ',
-keywords: 'Scoala Primara Vălcineţ',
+keywords: 'scoala primara valcinet',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1304",
@@ -5799,7 +5799,7 @@ height: 150
 {
 id: "2152",
 name_ro: 'Gimnaziul Răciula',
-keywords: 'Gimnaziul Răciula',
+keywords: 'gimnaziul raciula',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1305",
@@ -5816,7 +5816,7 @@ height: 150
 {
 id: "2153",
 name_ro: 'Scoala Primara Călăraşi',
-keywords: 'Scoala Primara Călăraşi',
+keywords: 'scoala primara calarasi',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1295",
@@ -5833,7 +5833,7 @@ height: 150
 {
 id: "2154",
 name_ro: 'Liceul Teoretic M. Eminescu Sipoteni',
-keywords: 'Liceul Teoretic M. Eminescu Sipoteni',
+keywords: 'liceul teoretic m. eminescu sipoteni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1306",
@@ -5850,7 +5850,7 @@ height: 150
 {
 id: "2155",
 name_ro: 'Gimnaziul Temeleuţi',
-keywords: 'Gimnaziul Temeleuţi',
+keywords: 'gimnaziul temeleuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1307",
@@ -5867,7 +5867,7 @@ height: 150
 {
 id: "2156",
 name_ro: 'Liceul Teoretic Horodişte',
-keywords: 'Liceul Teoretic Horodişte',
+keywords: 'liceul teoretic horodiste',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1308",
@@ -5884,7 +5884,7 @@ height: 150
 {
 id: "2157",
 name_ro: 'Liceul Teoretic Vălcineţ',
-keywords: 'Liceul Teoretic Vălcineţ',
+keywords: 'liceul teoretic valcinet',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1304",
@@ -5901,7 +5901,7 @@ height: 150
 {
 id: "2158",
 name_ro: 'Gimnaziul Sadova',
-keywords: 'Gimnaziul Sadova',
+keywords: 'gimnaziul sadova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1309",
@@ -5918,7 +5918,7 @@ height: 150
 {
 id: "2159",
 name_ro: 'Gimnaziul Tuzara',
-keywords: 'Gimnaziul Tuzara',
+keywords: 'gimnaziul tuzara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1310",
@@ -5935,7 +5935,7 @@ height: 150
 {
 id: "2160",
 name_ro: 'Gimnaziul Parcani',
-keywords: 'Gimnaziul Parcani',
+keywords: 'gimnaziul parcani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1311",
@@ -5952,7 +5952,7 @@ height: 150
 {
 id: "2161",
 name_ro: 'Gimnaziul Hirova',
-keywords: 'Gimnaziul Hirova',
+keywords: 'gimnaziul hirova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1312",
@@ -5969,7 +5969,7 @@ height: 150
 {
 id: "2162",
 name_ro: 'Gimnaziul Peticeni',
-keywords: 'Gimnaziul Peticeni',
+keywords: 'gimnaziul peticeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1313",
@@ -5986,7 +5986,7 @@ height: 150
 {
 id: "2163",
 name_ro: 'Gimnaziul Rădeni',
-keywords: 'Gimnaziul Rădeni',
+keywords: 'gimnaziul radeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1314",
@@ -6003,7 +6003,7 @@ height: 150
 {
 id: "2164",
 name_ro: 'Gimnaziul Hîrbovăţ',
-keywords: 'Gimnaziul Hîrbovăţ',
+keywords: 'gimnaziul hirbovat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1315",
@@ -6020,7 +6020,7 @@ height: 150
 {
 id: "2165",
 name_ro: 'Liceul Teoretic Ţibirica',
-keywords: 'Liceul Teoretic Ţibirica',
+keywords: 'liceul teoretic tibirica',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1316",
@@ -6037,7 +6037,7 @@ height: 150
 {
 id: "2166",
 name_ro: 'Liceul Teoretic V. Alecsandri Călăraşi',
-keywords: 'Liceul Teoretic V. Alecsandri Călăraşi',
+keywords: 'liceul teoretic v. alecsandri calarasi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1295",
@@ -6054,7 +6054,7 @@ height: 150
 {
 id: "2167",
 name_ro: 'Liceul Teoretic Pituşca',
-keywords: 'Liceul Teoretic Pituşca',
+keywords: 'liceul teoretic pitusca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1317",
@@ -6071,7 +6071,7 @@ height: 150
 {
 id: "2168",
 name_ro: 'Liceul Teoretic Hîrjauca',
-keywords: 'Liceul Teoretic Hîrjauca',
+keywords: 'liceul teoretic hirjauca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1318",
@@ -6088,7 +6088,7 @@ height: 150
 {
 id: "2169",
 name_ro: 'Gimnaziul Pîrjolteni',
-keywords: 'Gimnaziul Pîrjolteni',
+keywords: 'gimnaziul pirjolteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1319",
@@ -6105,7 +6105,7 @@ height: 150
 {
 id: "2170",
 name_ro: 'Gimnaziul Meleşeni',
-keywords: 'Gimnaziul Meleşeni',
+keywords: 'gimnaziul meleseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1320",
@@ -6122,7 +6122,7 @@ height: 150
 {
 id: "2171",
 name_ro: 'Gimnaziul Novaci',
-keywords: 'Gimnaziul Novaci',
+keywords: 'gimnaziul novaci',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1321",
@@ -6139,7 +6139,7 @@ height: 150
 {
 id: "2172",
 name_ro: 'Gimnaziul Frumoasa',
-keywords: 'Gimnaziul Frumoasa',
+keywords: 'gimnaziul frumoasa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1322",
@@ -6156,7 +6156,7 @@ height: 150
 {
 id: "2173",
 name_ro: 'Gimnaziul Căbăeşti',
-keywords: 'Gimnaziul Căbăeşti',
+keywords: 'gimnaziul cabaesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1323",
@@ -6173,7 +6173,7 @@ height: 150
 {
 id: "2174",
 name_ro: 'Gimnaziul Păuleşti',
-keywords: 'Gimnaziul Păuleşti',
+keywords: 'gimnaziul paulesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1324",
@@ -6190,7 +6190,7 @@ height: 150
 {
 id: "2175",
 name_ro: 'Gimnaziul Onişcani',
-keywords: 'Gimnaziul Onişcani',
+keywords: 'gimnaziul oniscani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1325",
@@ -6207,7 +6207,7 @@ height: 150
 {
 id: "2176",
 name_ro: 'Liceul teoretic Ciobalaccia',
-keywords: 'Liceul teoretic Ciobalaccia',
+keywords: 'liceul teoretic ciobalaccia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1326",
@@ -6224,7 +6224,7 @@ height: 150
 {
 id: "2177",
 name_ro: 'liceu teoretic "I.Creangă"',
-keywords: 'liceu teoretic "I.Creangă"',
+keywords: 'liceu teoretic i.creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1327",
@@ -6241,7 +6241,7 @@ height: 150
 {
 id: "2178",
 name_ro: 'Gimnaziul Lingura',
-keywords: 'Gimnaziul Lingura',
+keywords: 'gimnaziul lingura',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1328",
@@ -6258,7 +6258,7 @@ height: 150
 {
 id: "2179",
 name_ro: 'Gimnaziul Haragîş',
-keywords: 'Gimnaziul Haragîş',
+keywords: 'gimnaziul haragis',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1329",
@@ -6275,7 +6275,7 @@ height: 150
 {
 id: "2180",
 name_ro: 'Gimnaziul "M. Sadoveanu"',
-keywords: 'Gimnaziul "M. Sadoveanu"',
+keywords: 'gimnaziul m. sadoveanu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1330",
@@ -6292,7 +6292,7 @@ height: 150
 {
 id: "2181",
 name_ro: 'Gimnaziul Porumbeşti',
-keywords: 'Gimnaziul Porumbeşti',
+keywords: 'gimnaziul porumbesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1331",
@@ -6309,7 +6309,7 @@ height: 150
 {
 id: "2182",
 name_ro: 'Gimnaziul Şamalia',
-keywords: 'Gimnaziul Şamalia',
+keywords: 'gimnaziul samalia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1332",
@@ -6326,7 +6326,7 @@ height: 150
 {
 id: "2183",
 name_ro: 'gimnaziu Cîietu',
-keywords: 'gimnaziu Cîietu',
+keywords: 'gimnaziu ciietu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1333",
@@ -6343,7 +6343,7 @@ height: 150
 {
 id: "2184",
 name_ro: 'Gimnaziul Stoianovca',
-keywords: 'Gimnaziul Stoianovca',
+keywords: 'gimnaziul stoianovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1334",
@@ -6360,7 +6360,7 @@ height: 150
 {
 id: "2185",
 name_ro: 'Gimnaziul Plopi',
-keywords: 'Gimnaziul Plopi',
+keywords: 'gimnaziul plopi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1335",
@@ -6377,7 +6377,7 @@ height: 150
 {
 id: "2186",
 name_ro: 'Gimnaziul Toceni',
-keywords: 'Gimnaziul Toceni',
+keywords: 'gimnaziul toceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1336",
@@ -6394,7 +6394,7 @@ height: 150
 {
 id: "2187",
 name_ro: 'gimnaziu Capaclia',
-keywords: 'gimnaziu Capaclia',
+keywords: 'gimnaziu capaclia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1337",
@@ -6411,7 +6411,7 @@ height: 150
 {
 id: "2188",
 name_ro: 'Şcoala medie "Sadîc"',
-keywords: 'Şcoala medie "Sadîc"',
+keywords: 'scoala medie sadic',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1338",
@@ -6428,7 +6428,7 @@ height: 150
 {
 id: "2189",
 name_ro: 'Gimnaziul Ţărăncuţa',
-keywords: 'Gimnaziul Ţărăncuţa',
+keywords: 'gimnaziul tarancuta',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1339",
@@ -6445,7 +6445,7 @@ height: 150
 {
 id: "2190",
 name_ro: 'Gimnaziul Tartaul',
-keywords: 'Gimnaziul Tartaul',
+keywords: 'gimnaziul tartaul',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1340",
@@ -6462,7 +6462,7 @@ height: 150
 {
 id: "2191",
 name_ro: 'Gimnaziul "I.Cojocaru"',
-keywords: 'Gimnaziul "I.Cojocaru"',
+keywords: 'gimnaziul i.cojocaru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1341",
@@ -6479,7 +6479,7 @@ height: 150
 {
 id: "2192",
 name_ro: 'Gimnaziul Ţolica',
-keywords: 'Gimnaziul Ţolica',
+keywords: 'gimnaziul tolica',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1342",
@@ -6496,7 +6496,7 @@ height: 150
 {
 id: "2193",
 name_ro: 'Gimnaziul Coştangalia',
-keywords: 'Gimnaziul Coştangalia',
+keywords: 'gimnaziul costangalia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1343",
@@ -6513,7 +6513,7 @@ height: 150
 {
 id: "2194",
 name_ro: 'Liceul teoretic " M.Eminescu"',
-keywords: 'Liceul teoretic " M.Eminescu"',
+keywords: 'liceul teoretic m.eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1344",
@@ -6530,7 +6530,7 @@ height: 150
 {
 id: "2195",
 name_ro: 'Gimnaziul Vişniovca',
-keywords: 'Gimnaziul Vişniovca',
+keywords: 'gimnaziul visniovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1345",
@@ -6547,7 +6547,7 @@ height: 150
 {
 id: "2196",
 name_ro: 'Şcoală primară Constantineşti',
-keywords: 'Şcoală primară Constantineşti',
+keywords: 'scoala primara constantinesti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1346",
@@ -6564,7 +6564,7 @@ height: 150
 {
 id: "2197",
 name_ro: 'Şcoală primară Leca',
-keywords: 'Şcoală primară Leca',
+keywords: 'scoala primara leca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1347",
@@ -6581,7 +6581,7 @@ height: 150
 {
 id: "2198",
 name_ro: 'Gimnaziul Lărguţa',
-keywords: 'Gimnaziul Lărguţa',
+keywords: 'gimnaziul larguta',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1348",
@@ -6598,7 +6598,7 @@ height: 150
 {
 id: "2199",
 name_ro: 'Gimnaziul Suhat',
-keywords: 'Gimnaziul Suhat',
+keywords: 'gimnaziul suhat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1349",
@@ -6615,7 +6615,7 @@ height: 150
 {
 id: "2200",
 name_ro: 'Gimnaziul "Nicolae Botgros"',
-keywords: 'Gimnaziul "Nicolae Botgros"',
+keywords: 'gimnaziul nicolae botgros',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1350",
@@ -6632,7 +6632,7 @@ height: 150
 {
 id: "2201",
 name_ro: 'Gimnaziul Ghioltosu',
-keywords: 'Gimnaziul Ghioltosu',
+keywords: 'gimnaziul ghioltosu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1351",
@@ -6649,7 +6649,7 @@ height: 150
 {
 id: "2202",
 name_ro: 'Gimnaziul Acui',
-keywords: 'Gimnaziul Acui',
+keywords: 'gimnaziul acui',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1352",
@@ -6666,7 +6666,7 @@ height: 150
 {
 id: "2203",
 name_ro: 'Gimnaziul Flocoasa',
-keywords: 'Gimnaziul Flocoasa',
+keywords: 'gimnaziul flocoasa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1353",
@@ -6683,7 +6683,7 @@ height: 150
 {
 id: "2204",
 name_ro: 'Gimnaziul Enhichioi',
-keywords: 'Gimnaziul Enhichioi',
+keywords: 'gimnaziul enhichioi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1354",
@@ -6700,7 +6700,7 @@ height: 150
 {
 id: "2205",
 name_ro: 'Gimnaziul Cirpesti',
-keywords: 'Gimnaziul Cirpesti',
+keywords: 'gimnaziul cirpesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1355",
@@ -6717,7 +6717,7 @@ height: 150
 {
 id: "2206",
 name_ro: 'Liceul teoretic "V.Parvan"',
-keywords: 'Liceul teoretic "V.Parvan"',
+keywords: 'liceul teoretic v.parvan',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1356",
@@ -6734,7 +6734,7 @@ height: 150
 {
 id: "2207",
 name_ro: 'Gimnaziul Cîşla',
-keywords: 'Gimnaziul Cîşla',
+keywords: 'gimnaziul cisla',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1357",
@@ -6751,7 +6751,7 @@ height: 150
 {
 id: "2208",
 name_ro: 'Gimnaziul "M.Eminescu"',
-keywords: 'Gimnaziul "M.Eminescu"',
+keywords: 'gimnaziul m.eminescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1358",
@@ -6768,7 +6768,7 @@ height: 150
 {
 id: "2209",
 name_ro: 'Liceul teoretic "V.Hanganu"',
-keywords: 'Liceul teoretic "V.Hanganu"',
+keywords: 'liceul teoretic v.hanganu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1359",
@@ -6785,7 +6785,7 @@ height: 150
 {
 id: "2210",
 name_ro: 'Gimnaziul Antonesti',
-keywords: 'Gimnaziul Antonesti',
+keywords: 'gimnaziul antonesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1360",
@@ -6802,7 +6802,7 @@ height: 150
 {
 id: "2211",
 name_ro: 'Liceul teoretic "A.Puskin"',
-keywords: 'Liceul teoretic "A.Puskin"',
+keywords: 'liceul teoretic a.puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1358",
@@ -6819,7 +6819,7 @@ height: 150
 {
 id: "2212",
 name_ro: 'Liceul teoretic "D.Cantemir"',
-keywords: 'Liceul teoretic "D.Cantemir"',
+keywords: 'liceul teoretic d.cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1358",
@@ -6836,7 +6836,7 @@ height: 150
 {
 id: "2213",
 name_ro: 'LICEUL TEORETIC "A. MATEEVICI"',
-keywords: 'LICEUL TEORETIC "A. MATEEVICI"',
+keywords: 'liceul teoretic a. mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1361",
@@ -6853,7 +6853,7 @@ height: 150
 {
 id: "2214",
 name_ro: 'LICEUL TEORETIC "M. EMINESCU"',
-keywords: 'LICEUL TEORETIC "M. EMINESCU"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1361",
@@ -6870,7 +6870,7 @@ height: 150
 {
 id: "2215",
 name_ro: 'LICEUL TEORETIC "A. PUŞKIN"',
-keywords: 'LICEUL TEORETIC "A. PUŞKIN"',
+keywords: 'liceul teoretic a. puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1361",
@@ -6887,7 +6887,7 @@ height: 150
 {
 id: "2216",
 name_ro: 'LICEUL TEORETIC "M. MANOLE"',
-keywords: 'LICEUL TEORETIC "M. MANOLE"',
+keywords: 'liceul teoretic m. manole',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1362",
@@ -6904,7 +6904,7 @@ height: 150
 {
 id: "2217",
 name_ro: 'LICEUL TEORETIC "V. ALECSANDRI"',
-keywords: 'LICEUL TEORETIC "V. ALECSANDRI"',
+keywords: 'liceul teoretic v. alecsandri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1363",
@@ -6921,7 +6921,7 @@ height: 150
 {
 id: "2218",
 name_ro: 'LICEUL TEORETIC "I. CREANGĂ"',
-keywords: 'LICEUL TEORETIC "I. CREANGĂ"',
+keywords: 'liceul teoretic i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1361",
@@ -6938,7 +6938,7 @@ height: 150
 {
 id: "2219",
 name_ro: 'LICEUL TEORETIC "A. MATEEVICI"',
-keywords: 'LICEUL TEORETIC "A. MATEEVICI"',
+keywords: 'liceul teoretic a. mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1364",
@@ -6955,7 +6955,7 @@ height: 150
 {
 id: "2220",
 name_ro: 'LICEUL TEORETIC "ŞTEFEN CEL MARE ŞI SFÎNT"',
-keywords: 'LICEUL TEORETIC "ŞTEFEN CEL MARE ŞI SFÎNT"',
+keywords: 'liceul teoretic stefen cel mare si sfint',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1365",
@@ -6972,7 +6972,7 @@ height: 150
 {
 id: "2221",
 name_ro: 'LICEUL TEORETIC "PROMETEU"',
-keywords: 'LICEUL TEORETIC "PROMETEU"',
+keywords: 'liceul teoretic prometeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1363",
@@ -6989,7 +6989,7 @@ height: 150
 {
 id: "2222",
 name_ro: 'LICEUL TEORETIC "M.SADOVEANU"',
-keywords: 'LICEUL TEORETIC "M.SADOVEANU"',
+keywords: 'liceul teoretic m.sadoveanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1366",
@@ -7006,7 +7006,7 @@ height: 150
 {
 id: "2223",
 name_ro: 'GIMNAZIUL CÎRNĂŢENII NOI',
-keywords: 'GIMNAZIUL CÎRNĂŢENII NOI',
+keywords: 'gimnaziul cirnatenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1367",
@@ -7023,7 +7023,7 @@ height: 150
 {
 id: "2224",
 name_ro: 'GIMNAZIUL COŞCALIA',
-keywords: 'GIMNAZIUL COŞCALIA',
+keywords: 'gimnaziul coscalia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1368",
@@ -7040,7 +7040,7 @@ height: 150
 {
 id: "2225",
 name_ro: 'GIMNAZIUL "V. HARNAJ"',
-keywords: 'GIMNAZIUL "V. HARNAJ"',
+keywords: 'gimnaziul v. harnaj',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1369",
@@ -7057,7 +7057,7 @@ height: 150
 {
 id: "2226",
 name_ro: 'LICEUL TEORETIC "A. MATEEVICI"',
-keywords: 'LICEUL TEORETIC "A. MATEEVICI"',
+keywords: 'liceul teoretic a. mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1370",
@@ -7074,7 +7074,7 @@ height: 150
 {
 id: "2227",
 name_ro: 'GIMNAZIUL "GRIGORE VIERU"',
-keywords: 'GIMNAZIUL "GRIGORE VIERU"',
+keywords: 'gimnaziul grigore vieru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1371",
@@ -7091,7 +7091,7 @@ height: 150
 {
 id: "2228",
 name_ro: 'GIMNAZIUL URSOAIA',
-keywords: 'GIMNAZIUL URSOAIA',
+keywords: 'gimnaziul ursoaia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1372",
@@ -7108,7 +7108,7 @@ height: 150
 {
 id: "2229",
 name_ro: 'GIMNAZIUL CIUFLEŞTI',
-keywords: 'GIMNAZIUL CIUFLEŞTI',
+keywords: 'gimnaziul ciuflesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1373",
@@ -7125,7 +7125,7 @@ height: 150
 {
 id: "2230",
 name_ro: 'GIMNAZIUL TOCUZ',
-keywords: 'GIMNAZIUL TOCUZ',
+keywords: 'gimnaziul tocuz',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1374",
@@ -7142,7 +7142,7 @@ height: 150
 {
 id: "2231",
 name_ro: 'LICEUL TEORETIC "P. ERHAN"',
-keywords: 'LICEUL TEORETIC "P. ERHAN"',
+keywords: 'liceul teoretic p. erhan',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1375",
@@ -7159,7 +7159,7 @@ height: 150
 {
 id: "2232",
 name_ro: 'LICEUL TEORETIC "Gr. GRIGORIU"',
-keywords: 'LICEUL TEORETIC "Gr. GRIGORIU"',
+keywords: 'liceul teoretic gr. grigoriu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1376",
@@ -7176,7 +7176,7 @@ height: 150
 {
 id: "2233",
 name_ro: 'GIMNAZIUL CHIRCĂIEŞTII NOI',
-keywords: 'GIMNAZIUL CHIRCĂIEŞTII NOI',
+keywords: 'gimnaziul chircaiestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1377",
@@ -7193,7 +7193,7 @@ height: 150
 {
 id: "2234",
 name_ro: 'ŞCOALA MEDIE OPACI',
-keywords: 'ŞCOALA MEDIE OPACI',
+keywords: 'scoala medie opaci',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1378",
@@ -7210,7 +7210,7 @@ height: 150
 {
 id: "2235",
 name_ro: 'ŞCOALA MEDIE "IOAN VODĂ"',
-keywords: 'ŞCOALA MEDIE "IOAN VODĂ"',
+keywords: 'scoala medie ioan voda',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1379",
@@ -7227,7 +7227,7 @@ height: 150
 {
 id: "2236",
 name_ro: 'GIMNAZIUL GRIGORIEVCA',
-keywords: 'GIMNAZIUL GRIGORIEVCA',
+keywords: 'gimnaziul grigorievca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1380",
@@ -7244,7 +7244,7 @@ height: 150
 {
 id: "2237",
 name_ro: 'GIMNAZIUL "SĂIŢI"',
-keywords: 'GIMNAZIUL "SĂIŢI"',
+keywords: 'gimnaziul saiti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1381",
@@ -7261,7 +7261,7 @@ height: 150
 {
 id: "2238",
 name_ro: 'LICEUL TEORETIC "D. CANTEMIR"',
-keywords: 'LICEUL TEORETIC "D. CANTEMIR"',
+keywords: 'liceul teoretic d. cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1361",
@@ -7278,7 +7278,7 @@ height: 150
 {
 id: "2239",
 name_ro: 'ŞCOLA MEDIE UCRAINCA',
-keywords: 'ŞCOLA MEDIE UCRAINCA',
+keywords: 'scola medie ucrainca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1382",
@@ -7295,7 +7295,7 @@ height: 150
 {
 id: "2240",
 name_ro: 'LICEUL TEORETIC "M. VITEAZUL"',
-keywords: 'LICEUL TEORETIC "M. VITEAZUL"',
+keywords: 'liceul teoretic m. viteazul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1383",
@@ -7312,7 +7312,7 @@ height: 150
 {
 id: "2241",
 name_ro: 'GIMNAZIUL SĂLCUŢA',
-keywords: 'GIMNAZIUL SĂLCUŢA',
+keywords: 'gimnaziul salcuta',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1362",
@@ -7329,7 +7329,7 @@ height: 150
 {
 id: "2242",
 name_ro: 'GIMNAZIUL PLOP-ŞTIUBEI',
-keywords: 'GIMNAZIUL PLOP-ŞTIUBEI',
+keywords: 'gimnaziul plop-stiubei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1384",
@@ -7346,7 +7346,7 @@ height: 150
 {
 id: "2243",
 name_ro: 'GIMNAZIUL SURCHICENI',
-keywords: 'GIMNAZIUL SURCHICENI',
+keywords: 'gimnaziul surchiceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1385",
@@ -7363,7 +7363,7 @@ height: 150
 {
 id: "2244",
 name_ro: 'GIMNAZIUL GRĂDINIŢA',
-keywords: 'GIMNAZIUL GRĂDINIŢA',
+keywords: 'gimnaziul gradinita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1386",
@@ -7380,7 +7380,7 @@ height: 150
 {
 id: "2245",
 name_ro: 'GIMNAZIUL TĂNĂTARII NOI',
-keywords: 'GIMNAZIUL TĂNĂTARII NOI',
+keywords: 'gimnaziul tanatarii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1387",
@@ -7397,7 +7397,7 @@ height: 150
 {
 id: "2246",
 name_ro: 'GIMNAZIUL CONSTANTINOVCA',
-keywords: 'GIMNAZIUL CONSTANTINOVCA',
+keywords: 'gimnaziul constantinovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1388",
@@ -7414,7 +7414,7 @@ height: 150
 {
 id: "2247",
 name_ro: 'Gimnaziu Maximeni',
-keywords: 'Gimnaziu Maximeni',
+keywords: 'gimnaziu maximeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1389",
@@ -7431,7 +7431,7 @@ height: 150
 {
 id: "2248",
 name_ro: 'Gimnaziu Codreni',
-keywords: 'Gimnaziu Codreni',
+keywords: 'gimnaziu codreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1390",
@@ -7448,7 +7448,7 @@ height: 150
 {
 id: "2249",
 name_ro: 'Gimnaziu "Mihai Eminescu"',
-keywords: 'Gimnaziu "Mihai Eminescu"',
+keywords: 'gimnaziu mihai eminescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1391",
@@ -7465,7 +7465,7 @@ height: 150
 {
 id: "2250",
 name_ro: 'Gimnaziu Albina',
-keywords: 'Gimnaziu Albina',
+keywords: 'gimnaziu albina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1392",
@@ -7482,7 +7482,7 @@ height: 150
 {
 id: "2251",
 name_ro: 'Gimnaziu Hirtop',
-keywords: 'Gimnaziu Hirtop',
+keywords: 'gimnaziu hirtop',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1393",
@@ -7499,7 +7499,7 @@ height: 150
 {
 id: "2252",
 name_ro: 'Gimnaziu Suric',
-keywords: 'Gimnaziu Suric',
+keywords: 'gimnaziu suric',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1394",
@@ -7516,7 +7516,7 @@ height: 150
 {
 id: "2253",
 name_ro: 'Gimnaziu Bogdanovca',
-keywords: 'Gimnaziu Bogdanovca',
+keywords: 'gimnaziu bogdanovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1395",
@@ -7533,7 +7533,7 @@ height: 150
 {
 id: "2254",
 name_ro: 'Gimnaziu Ialpug',
-keywords: 'Gimnaziu Ialpug',
+keywords: 'gimnaziu ialpug',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1396",
@@ -7550,7 +7550,7 @@ height: 150
 {
 id: "2255",
 name_ro: 'Gimnaziu Ivanovca Noua',
-keywords: 'Gimnaziu Ivanovca Noua',
+keywords: 'gimnaziu ivanovca noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1397",
@@ -7567,7 +7567,7 @@ height: 150
 {
 id: "2256",
 name_ro: 'Gimnaziu Mereni',
-keywords: 'Gimnaziu Mereni',
+keywords: 'gimnaziu mereni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1398",
@@ -7584,7 +7584,7 @@ height: 150
 {
 id: "2257",
 name_ro: 'Gimnaziu Porumbrei',
-keywords: 'Gimnaziu Porumbrei',
+keywords: 'gimnaziu porumbrei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1399",
@@ -7601,7 +7601,7 @@ height: 150
 {
 id: "2258",
 name_ro: 'Liceul Teoretic "Mihai Viteazul"',
-keywords: 'Liceul Teoretic "Mihai Viteazul"',
+keywords: 'liceul teoretic mihai viteazul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1400",
@@ -7618,7 +7618,7 @@ height: 150
 {
 id: "2259",
 name_ro: 'Gimnaziu Topala',
-keywords: 'Gimnaziu Topala',
+keywords: 'gimnaziu topala',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1401",
@@ -7635,7 +7635,7 @@ height: 150
 {
 id: "2260",
 name_ro: 'Gimnaziul Gradiste',
-keywords: 'Gimnaziul Gradiste',
+keywords: 'gimnaziul gradiste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1402",
@@ -7652,7 +7652,7 @@ height: 150
 {
 id: "2261",
 name_ro: 'Liceul Teoretic Troiţcoe',
-keywords: 'Liceul Teoretic Troiţcoe',
+keywords: 'liceul teoretic troitcoe',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1403",
@@ -7669,7 +7669,7 @@ height: 150
 {
 id: "2262",
 name_ro: 'Gimnaziul Cimişlia',
-keywords: 'Gimnaziul Cimişlia',
+keywords: 'gimnaziul cimislia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1400",
@@ -7686,7 +7686,7 @@ height: 150
 {
 id: "2263",
 name_ro: 'Liceul Teoretic "Sergiu Coipan"',
-keywords: 'Liceul Teoretic "Sergiu Coipan"',
+keywords: 'liceul teoretic sergiu coipan',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1404",
@@ -7703,7 +7703,7 @@ height: 150
 {
 id: "2264",
 name_ro: 'Gimnaziu Iurevca',
-keywords: 'Gimnaziu Iurevca',
+keywords: 'gimnaziu iurevca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1405",
@@ -7720,7 +7720,7 @@ height: 150
 {
 id: "2265",
 name_ro: 'Gimnaziu Javgur',
-keywords: 'Gimnaziu Javgur',
+keywords: 'gimnaziu javgur',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1406",
@@ -7737,7 +7737,7 @@ height: 150
 {
 id: "2266",
 name_ro: 'LT Lipoveni',
-keywords: 'LT Lipoveni',
+keywords: 'lt lipoveni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1407",
@@ -7754,7 +7754,7 @@ height: 150
 {
 id: "2267",
 name_ro: 'Scoala Primara Dimitrovca',
-keywords: 'Scoala Primara Dimitrovca',
+keywords: 'scoala primara dimitrovca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1408",
@@ -7771,7 +7771,7 @@ height: 150
 {
 id: "2268",
 name_ro: 'Liceul Teoretic Batîr',
-keywords: 'Liceul Teoretic Batîr',
+keywords: 'liceul teoretic batir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1409",
@@ -7788,7 +7788,7 @@ height: 150
 {
 id: "2269",
 name_ro: 'Gimnaziu Valea Perjei',
-keywords: 'Gimnaziu Valea Perjei',
+keywords: 'gimnaziu valea perjei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1410",
@@ -7805,7 +7805,7 @@ height: 150
 {
 id: "2270",
 name_ro: 'Gimnaziu "Dimitrie Cantemir"',
-keywords: 'Gimnaziu "Dimitrie Cantemir"',
+keywords: 'gimnaziu dimitrie cantemir',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1411",
@@ -7822,7 +7822,7 @@ height: 150
 {
 id: "2271",
 name_ro: 'Liceul Teoretic "Alexandr Puşkin"',
-keywords: 'Liceul Teoretic "Alexandr Puşkin"',
+keywords: 'liceul teoretic alexandr puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1400",
@@ -7839,7 +7839,7 @@ height: 150
 {
 id: "2272",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Liceul Teoretic "Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1400",
@@ -7856,7 +7856,7 @@ height: 150
 {
 id: "2273",
 name_ro: 'Liceul Teoretic Gura Galbenei',
-keywords: 'Liceul Teoretic Gura Galbenei',
+keywords: 'liceul teoretic gura galbenei',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1412",
@@ -7873,7 +7873,7 @@ height: 150
 {
 id: "2274",
 name_ro: 'Gimnaziu "Iulia Haşdeu"',
-keywords: 'Gimnaziu "Iulia Haşdeu"',
+keywords: 'gimnaziu iulia hasdeu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1413",
@@ -7890,7 +7890,7 @@ height: 150
 {
 id: "2275",
 name_ro: 'Gimnaziu "Liuba Dimitriu"',
-keywords: 'Gimnaziu "Liuba Dimitriu"',
+keywords: 'gimnaziu liuba dimitriu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1414",
@@ -7907,7 +7907,7 @@ height: 150
 {
 id: "2276",
 name_ro: 'Gimnaziu Cenac',
-keywords: 'Gimnaziu Cenac',
+keywords: 'gimnaziu cenac',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1415",
@@ -7924,7 +7924,7 @@ height: 150
 {
 id: "2277",
 name_ro: 'Gimnaziul Sagaidac',
-keywords: 'Gimnaziul Sagaidac',
+keywords: 'gimnaziul sagaidac',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1416",
@@ -7941,7 +7941,7 @@ height: 150
 {
 id: "2278",
 name_ro: 'Liceul Teoretic "Ion Creangă"',
-keywords: 'Liceul Teoretic "Ion Creangă"',
+keywords: 'liceul teoretic ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1400",
@@ -7958,7 +7958,7 @@ height: 150
 {
 id: "2279",
 name_ro: 'Gimnaziu Satul Nou',
-keywords: 'Gimnaziu Satul Nou',
+keywords: 'gimnaziu satul nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1417",
@@ -7975,7 +7975,7 @@ height: 150
 {
 id: "2280",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare"',
-keywords: 'Liceul Teoretic "Ştefan cel Mare"',
+keywords: 'liceul teoretic stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1418",
@@ -7992,7 +7992,7 @@ height: 150
 {
 id: "2281",
 name_ro: 'Şcoala medie Micleşti',
-keywords: 'Şcoala medie Micleşti',
+keywords: 'scoala medie miclesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1419",
@@ -8009,7 +8009,7 @@ height: 150
 {
 id: "2282",
 name_ro: 'Gimnaziul Slobozia Duşca',
-keywords: 'Gimnaziul Slobozia Duşca',
+keywords: 'gimnaziul slobozia dusca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1420",
@@ -8026,7 +8026,7 @@ height: 150
 {
 id: "2283",
 name_ro: 'Gimnaziul Rîşcova',
-keywords: 'Gimnaziul Rîşcova',
+keywords: 'gimnaziul riscova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1421",
@@ -8043,7 +8043,7 @@ height: 150
 {
 id: "2284",
 name_ro: 'Gimnaziul Răculeşti',
-keywords: 'Gimnaziul Răculeşti',
+keywords: 'gimnaziul raculesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1422",
@@ -8060,7 +8060,7 @@ height: 150
 {
 id: "2285",
 name_ro: 'Gimnaziul Paşcani',
-keywords: 'Gimnaziul Paşcani',
+keywords: 'gimnaziul pascani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1423",
@@ -8077,7 +8077,7 @@ height: 150
 {
 id: "2286",
 name_ro: 'Gimnaziul Ohrincea',
-keywords: 'Gimnaziul Ohrincea',
+keywords: 'gimnaziul ohrincea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1424",
@@ -8094,7 +8094,7 @@ height: 150
 {
 id: "2287",
 name_ro: 'Liceul Teoretic " Nicolai Donici"',
-keywords: 'Liceul Teoretic " Nicolai Donici"',
+keywords: 'liceul teoretic nicolai donici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1425",
@@ -8111,7 +8111,7 @@ height: 150
 {
 id: "2288",
 name_ro: 'Liceul Teoretic Boşcana',
-keywords: 'Liceul Teoretic Boşcana',
+keywords: 'liceul teoretic boscana',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1426",
@@ -8128,7 +8128,7 @@ height: 150
 {
 id: "2289",
 name_ro: 'şcoala primară Dubăsarii Vechi',
-keywords: 'şcoala primară Dubăsarii Vechi',
+keywords: 'scoala primara dubasarii vechi',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1425",
@@ -8145,7 +8145,7 @@ height: 150
 {
 id: "2290",
 name_ro: 'gimnaziul Bălţata',
-keywords: 'gimnaziul Bălţata',
+keywords: 'gimnaziul baltata',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1427",
@@ -8162,7 +8162,7 @@ height: 150
 {
 id: "2291",
 name_ro: 'Gimnaziul Măşcăuţi',
-keywords: 'Gimnaziul Măşcăuţi',
+keywords: 'gimnaziul mascauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1428",
@@ -8179,7 +8179,7 @@ height: 150
 {
 id: "2292",
 name_ro: 'Gimnaziul Ratuş',
-keywords: 'Gimnaziul Ratuş',
+keywords: 'gimnaziul ratus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1429",
@@ -8196,7 +8196,7 @@ height: 150
 {
 id: "2293",
 name_ro: 'Liceul Teoretic " Boris Dânga"Criuleni',
-keywords: 'Liceul Teoretic " Boris Dânga"Criuleni',
+keywords: 'liceul teoretic boris danga criuleni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1430",
@@ -8213,7 +8213,7 @@ height: 150
 {
 id: "2294",
 name_ro: 'Liceul Teoretic Măgdăceşti',
-keywords: 'Liceul Teoretic Măgdăceşti',
+keywords: 'liceul teoretic magdacesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1431",
@@ -8230,7 +8230,7 @@ height: 150
 {
 id: "2295",
 name_ro: 'Liceul Teoretic " Ion Sîrbu"',
-keywords: 'Liceul Teoretic " Ion Sîrbu"',
+keywords: 'liceul teoretic ion sirbu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1428",
@@ -8247,7 +8247,7 @@ height: 150
 {
 id: "2296",
 name_ro: 'Liceul Teoretic Cimişeni',
-keywords: 'Liceul Teoretic Cimişeni',
+keywords: 'liceul teoretic cimiseni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1432",
@@ -8264,7 +8264,7 @@ height: 150
 {
 id: "2297",
 name_ro: 'Liceul Teoretic Cruglic',
-keywords: 'Liceul Teoretic Cruglic',
+keywords: 'liceul teoretic cruglic',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1433",
@@ -8281,7 +8281,7 @@ height: 150
 {
 id: "2298",
 name_ro: 'Liceul Teoretic " Mihai Eminescu"',
-keywords: 'Liceul Teoretic " Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1434",
@@ -8298,7 +8298,7 @@ height: 150
 {
 id: "2299",
 name_ro: 'Liceul Teoretic Mălăieşti',
-keywords: 'Liceul Teoretic Mălăieşti',
+keywords: 'liceul teoretic malaiesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1435",
@@ -8315,7 +8315,7 @@ height: 150
 {
 id: "2300",
 name_ro: 'Liceul Teoretic Oniţcani',
-keywords: 'Liceul Teoretic Oniţcani',
+keywords: 'liceul teoretic onitcani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1436",
@@ -8332,7 +8332,7 @@ height: 150
 {
 id: "2301",
 name_ro: 'Gimnaziul Izbişte',
-keywords: 'Gimnaziul Izbişte',
+keywords: 'gimnaziul izbiste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1437",
@@ -8349,7 +8349,7 @@ height: 150
 {
 id: "2302",
 name_ro: 'Gimnaziul Zăicana',
-keywords: 'Gimnaziul Zăicana',
+keywords: 'gimnaziul zaicana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1438",
@@ -8366,7 +8366,7 @@ height: 150
 {
 id: "2303",
 name_ro: 'Gimnaziul Steţcani',
-keywords: 'Gimnaziul Steţcani',
+keywords: 'gimnaziul stetcani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1439",
@@ -8383,7 +8383,7 @@ height: 150
 {
 id: "2304",
 name_ro: 'şcoala primară Criuleni',
-keywords: 'şcoala primară Criuleni',
+keywords: 'scoala primara criuleni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1430",
@@ -8400,7 +8400,7 @@ height: 150
 {
 id: "2305",
 name_ro: 'Gimnaziul Dolinnoe',
-keywords: 'Gimnaziul Dolinnoe',
+keywords: 'gimnaziul dolinnoe',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1440",
@@ -8417,7 +8417,7 @@ height: 150
 {
 id: "2306",
 name_ro: 'Şcoala medie Hruşevo',
-keywords: 'Şcoala medie Hruşevo',
+keywords: 'scoala medie hrusevo',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1441",
@@ -8434,7 +8434,7 @@ height: 150
 {
 id: "2307",
 name_ro: 'Liceul Teoretic Hîrtopul Mic',
-keywords: 'Liceul Teoretic Hîrtopul Mic',
+keywords: 'liceul teoretic hirtopul mic',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1442",
@@ -8451,7 +8451,7 @@ height: 150
 {
 id: "2308",
 name_ro: 'Gimnaziul Hîrtopul Mare',
-keywords: 'Gimnaziul Hîrtopul Mare',
+keywords: 'gimnaziul hirtopul mare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1443",
@@ -8468,7 +8468,7 @@ height: 150
 {
 id: "2309",
 name_ro: 'Şcoala medie Drăsliceni',
-keywords: 'Şcoala medie Drăsliceni',
+keywords: 'scoala medie drasliceni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1444",
@@ -8485,7 +8485,7 @@ height: 150
 {
 id: "2310",
 name_ro: 'gimnaziul Criuleni',
-keywords: 'gimnaziul Criuleni',
+keywords: 'gimnaziul criuleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1430",
@@ -8502,7 +8502,7 @@ height: 150
 {
 id: "2311",
 name_ro: 'Gimnaziul Coşerniţa',
-keywords: 'Gimnaziul Coşerniţa',
+keywords: 'gimnaziul cosernita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1445",
@@ -8519,7 +8519,7 @@ height: 150
 {
 id: "2312",
 name_ro: 'Gimnaziul Bălăbăneşti',
-keywords: 'Gimnaziul Bălăbăneşti',
+keywords: 'gimnaziul balabanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1446",
@@ -8536,7 +8536,7 @@ height: 150
 {
 id: "2313",
 name_ro: 'Gimnaziul Corjova',
-keywords: 'Gimnaziul Corjova',
+keywords: 'gimnaziul corjova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1447",
@@ -8553,7 +8553,7 @@ height: 150
 {
 id: "2314",
 name_ro: 'Gimnaziul Işnovăţ',
-keywords: 'Gimnaziul Işnovăţ',
+keywords: 'gimnaziul isnovat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1448",
@@ -8570,7 +8570,7 @@ height: 150
 {
 id: "2315",
 name_ro: 'gimnaziul "M. Topală"',
-keywords: 'gimnaziul "M. Topală"',
+keywords: 'gimnaziul m. topala',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1449",
@@ -8587,7 +8587,7 @@ height: 150
 {
 id: "2316",
 name_ro: 'gimnaziul Corbu',
-keywords: 'gimnaziul Corbu',
+keywords: 'gimnaziul corbu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1450",
@@ -8604,7 +8604,7 @@ height: 150
 {
 id: "2317",
 name_ro: 'gimnaziul Teleşeuca',
-keywords: 'gimnaziul Teleşeuca',
+keywords: 'gimnaziul teleseuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1451",
@@ -8621,7 +8621,7 @@ height: 150
 {
 id: "2318",
 name_ro: 'gimnaziul Scăieni',
-keywords: 'gimnaziul Scăieni',
+keywords: 'gimnaziul scaieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1452",
@@ -8638,7 +8638,7 @@ height: 150
 {
 id: "2319",
 name_ro: 'gimnaziul Rediul Mare',
-keywords: 'gimnaziul Rediul Mare',
+keywords: 'gimnaziul rediul mare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1453",
@@ -8655,7 +8655,7 @@ height: 150
 {
 id: "2320",
 name_ro: 'gimnaziul Pocrovca',
-keywords: 'gimnaziul Pocrovca',
+keywords: 'gimnaziul pocrovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1454",
@@ -8672,7 +8672,7 @@ height: 150
 {
 id: "2321",
 name_ro: 'gimnaziul Plop',
-keywords: 'gimnaziul Plop',
+keywords: 'gimnaziul plop',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1455",
@@ -8689,7 +8689,7 @@ height: 150
 {
 id: "2322",
 name_ro: 'gimnaziul Pivniceni',
-keywords: 'gimnaziul Pivniceni',
+keywords: 'gimnaziul pivniceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1456",
@@ -8706,7 +8706,7 @@ height: 150
 {
 id: "2323",
 name_ro: 'gimnaziul "V. Gangal"',
-keywords: 'gimnaziul "V. Gangal"',
+keywords: 'gimnaziul v. gangal',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1457",
@@ -8723,7 +8723,7 @@ height: 150
 {
 id: "2324",
 name_ro: 'gimnaziul Frasin',
-keywords: 'gimnaziul Frasin',
+keywords: 'gimnaziul frasin',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1458",
@@ -8740,7 +8740,7 @@ height: 150
 {
 id: "2325",
 name_ro: 'gimnaziul Elizavetovca',
-keywords: 'gimnaziul Elizavetovca',
+keywords: 'gimnaziul elizavetovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1459",
@@ -8757,7 +8757,7 @@ height: 150
 {
 id: "2326",
 name_ro: 'Liceul teoretic "M. Eminescu"',
-keywords: 'Liceul teoretic "M. Eminescu"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1460",
@@ -8774,7 +8774,7 @@ height: 150
 {
 id: "2327",
 name_ro: 'gimnaziul Crişcăuţi',
-keywords: 'gimnaziul Crişcăuţi',
+keywords: 'gimnaziul criscauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1461",
@@ -8791,7 +8791,7 @@ height: 150
 {
 id: "2328",
 name_ro: 'Liceul teoretic "C.Negruzzi"',
-keywords: 'Liceul teoretic "C.Negruzzi"',
+keywords: 'liceul teoretic c.negruzzi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1462",
@@ -8808,7 +8808,7 @@ height: 150
 {
 id: "2329",
 name_ro: 'gimnaziul Codrenii Noi',
-keywords: 'gimnaziul Codrenii Noi',
+keywords: 'gimnaziul codrenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1463",
@@ -8825,7 +8825,7 @@ height: 150
 {
 id: "2330",
 name_ro: 'gimnaziul Climăuţi',
-keywords: 'gimnaziul Climăuţi',
+keywords: 'gimnaziul climauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1464",
@@ -8842,7 +8842,7 @@ height: 150
 {
 id: "2331",
 name_ro: 'Gimnaziul Ţaul',
-keywords: 'Gimnaziul Ţaul',
+keywords: 'gimnaziul taul',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1465",
@@ -8859,7 +8859,7 @@ height: 150
 {
 id: "2332",
 name_ro: 'Şcoala medie Moşana',
-keywords: 'Şcoala medie Moşana',
+keywords: 'scoala medie mosana',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1466",
@@ -8876,7 +8876,7 @@ height: 150
 {
 id: "2333",
 name_ro: 'Liceul Teoretic "I. Vieru"',
-keywords: 'Liceul Teoretic "I. Vieru"',
+keywords: 'liceul teoretic i. vieru',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1467",
@@ -8893,7 +8893,7 @@ height: 150
 {
 id: "2334",
 name_ro: 'Liceul Teoretic "A. Puşkin"',
-keywords: 'Liceul Teoretic "A. Puşkin"',
+keywords: 'liceul teoretic a. puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1468",
@@ -8910,7 +8910,7 @@ height: 150
 {
 id: "2335",
 name_ro: 'Liceul teoretic "Gaudeamus"',
-keywords: 'Liceul teoretic "Gaudeamus"',
+keywords: 'liceul teoretic gaudeamus',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1468",
@@ -8927,7 +8927,7 @@ height: 150
 {
 id: "2336",
 name_ro: 'Liceul teoretic "Prometeu"',
-keywords: 'Liceul teoretic "Prometeu"',
+keywords: 'liceul teoretic prometeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1469",
@@ -8944,7 +8944,7 @@ height: 150
 {
 id: "2337",
 name_ro: 'Liceul teoretic "Perspectiva"',
-keywords: 'Liceul teoretic "Perspectiva"',
+keywords: 'liceul teoretic perspectiva',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1470",
@@ -8961,7 +8961,7 @@ height: 150
 {
 id: "2338",
 name_ro: 'Liceul teoretic "A. Mateevici"',
-keywords: 'Liceul teoretic "A. Mateevici"',
+keywords: 'liceul teoretic a. mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1468",
@@ -8978,7 +8978,7 @@ height: 150
 {
 id: "2339",
 name_ro: 'gimnaziul Donduşeni',
-keywords: 'gimnaziul Donduşeni',
+keywords: 'gimnaziul donduseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1468",
@@ -8995,7 +8995,7 @@ height: 150
 {
 id: "2340",
 name_ro: 'Şcoala primară Braicău',
-keywords: 'Şcoala primară Braicău',
+keywords: 'scoala primara braicau',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1471",
@@ -9012,7 +9012,7 @@ height: 150
 {
 id: "2341",
 name_ro: 'Cotova',
-keywords: 'Cotova',
+keywords: 'cotova',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1472",
@@ -9029,7 +9029,7 @@ height: 150
 {
 id: "2342",
 name_ro: 'M. Eminescu',
-keywords: 'M. Eminescu',
+keywords: 'm. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1473",
@@ -9046,7 +9046,7 @@ height: 150
 {
 id: "2343",
 name_ro: 'Baroncea',
-keywords: 'Baroncea',
+keywords: 'baroncea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1474",
@@ -9063,7 +9063,7 @@ height: 150
 {
 id: "2344",
 name_ro: 'Lazo',
-keywords: 'Lazo',
+keywords: 'lazo',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1475",
@@ -9080,7 +9080,7 @@ height: 150
 {
 id: "2345",
 name_ro: 'Vasile Bejenaru',
-keywords: 'Vasile Bejenaru',
+keywords: 'vasile bejenaru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1476",
@@ -9097,7 +9097,7 @@ height: 150
 {
 id: "2346",
 name_ro: 'Nr 2',
-keywords: 'Nr 2',
+keywords: 'nr 2',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1473",
@@ -9114,7 +9114,7 @@ height: 150
 {
 id: "2347",
 name_ro: 'Zgurita',
-keywords: 'Zgurita',
+keywords: 'zgurita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1477",
@@ -9131,7 +9131,7 @@ height: 150
 {
 id: "2348",
 name_ro: 'Viorel Cibanu',
-keywords: 'Viorel Cibanu',
+keywords: 'viorel cibanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1478",
@@ -9148,7 +9148,7 @@ height: 150
 {
 id: "2349",
 name_ro: 'Gimnaziul internat de tip sanatorial pentru copii cu boli psihoneurologice',
-keywords: 'Gimnaziul internat de tip sanatorial pentru copii cu boli psihoneurologice',
+keywords: 'gimnaziul internat de tip sanatorial pentru copii cu boli psihoneurologice',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1473",
@@ -9165,7 +9165,7 @@ height: 150
 {
 id: "2350",
 name_ro: 'Popestii de Jos',
-keywords: 'Popestii de Jos',
+keywords: 'popestii de jos',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1479",
@@ -9182,7 +9182,7 @@ height: 150
 {
 id: "2351",
 name_ro: 'Antoneuca',
-keywords: 'Antoneuca',
+keywords: 'antoneuca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1480",
@@ -9199,7 +9199,7 @@ height: 150
 {
 id: "2352",
 name_ro: 'Gribova',
-keywords: 'Gribova',
+keywords: 'gribova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1481",
@@ -9216,7 +9216,7 @@ height: 150
 {
 id: "2353",
 name_ro: 'Nicolae Testemiţanu',
-keywords: 'Nicolae Testemiţanu',
+keywords: 'nicolae testemitanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1482",
@@ -9233,7 +9233,7 @@ height: 150
 {
 id: "2354",
 name_ro: 'Nicoreni',
-keywords: 'Nicoreni',
+keywords: 'nicoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1483",
@@ -9250,7 +9250,7 @@ height: 150
 {
 id: "2355",
 name_ro: 'teoretic Pelinia',
-keywords: 'teoretic Pelinia',
+keywords: 'teoretic pelinia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1484",
@@ -9284,7 +9284,7 @@ height: 150
 {
 id: "2357",
 name_ro: 'B. P. Hasdeu',
-keywords: 'B. P. Hasdeu',
+keywords: 'b. p. hasdeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1473",
@@ -9301,7 +9301,7 @@ height: 150
 {
 id: "2358",
 name_ro: 'Ştefan cel Mare',
-keywords: 'Ştefan cel Mare',
+keywords: 'stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1473",
@@ -9318,7 +9318,7 @@ height: 150
 {
 id: "2359",
 name_ro: 'Dumitru Bunescu',
-keywords: 'Dumitru Bunescu',
+keywords: 'dumitru bunescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1485",
@@ -9335,7 +9335,7 @@ height: 150
 {
 id: "2360",
 name_ro: 'Pervomaiscoe',
-keywords: 'Pervomaiscoe',
+keywords: 'pervomaiscoe',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1486",
@@ -9352,7 +9352,7 @@ height: 150
 {
 id: "2361",
 name_ro: 'Viorel Cantemir',
-keywords: 'Viorel Cantemir',
+keywords: 'viorel cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1487",
@@ -9369,7 +9369,7 @@ height: 150
 {
 id: "2362",
 name_ro: 'Hăsnăşenii Mari',
-keywords: 'Hăsnăşenii Mari',
+keywords: 'hasnasenii mari',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1488",
@@ -9386,7 +9386,7 @@ height: 150
 {
 id: "2363",
 name_ro: 'Boris Coşciuc',
-keywords: 'Boris Coşciuc',
+keywords: 'boris cosciuc',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1489",
@@ -9403,7 +9403,7 @@ height: 150
 {
 id: "2364",
 name_ro: 'Mîndîc',
-keywords: 'Mîndîc',
+keywords: 'mindic',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1490",
@@ -9420,7 +9420,7 @@ height: 150
 {
 id: "2365",
 name_ro: 'Dumitru Roman',
-keywords: 'Dumitru Roman',
+keywords: 'dumitru roman',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1473",
@@ -9437,7 +9437,7 @@ height: 150
 {
 id: "2366",
 name_ro: 'Maramonovca',
-keywords: 'Maramonovca',
+keywords: 'maramonovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1491",
@@ -9454,7 +9454,7 @@ height: 150
 {
 id: "2367",
 name_ro: 'Ţarigrad',
-keywords: 'Ţarigrad',
+keywords: 'tarigrad',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1492",
@@ -9471,7 +9471,7 @@ height: 150
 {
 id: "2368",
 name_ro: 'Pelinia',
-keywords: 'Pelinia',
+keywords: 'pelinia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1484",
@@ -9488,7 +9488,7 @@ height: 150
 {
 id: "2369",
 name_ro: 'auxiliar Ţarigrad',
-keywords: 'auxiliar Ţarigrad',
+keywords: 'auxiliar tarigrad',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1492",
@@ -9505,7 +9505,7 @@ height: 150
 {
 id: "2370",
 name_ro: 'Ion Creanga',
-keywords: 'Ion Creanga',
+keywords: 'ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1493",
@@ -9522,7 +9522,7 @@ height: 150
 {
 id: "2371",
 name_ro: 'Fîntîniţa',
-keywords: 'Fîntîniţa',
+keywords: 'fintinita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1494",
@@ -9539,7 +9539,7 @@ height: 150
 {
 id: "2372",
 name_ro: 'Măcăreuca',
-keywords: 'Măcăreuca',
+keywords: 'macareuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1495",
@@ -9556,7 +9556,7 @@ height: 150
 {
 id: "2373",
 name_ro: 'Şalvirii Noi',
-keywords: 'Şalvirii Noi',
+keywords: 'salvirii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1496",
@@ -9573,7 +9573,7 @@ height: 150
 {
 id: "2374",
 name_ro: 'Şalvirii Vechi',
-keywords: 'Şalvirii Vechi',
+keywords: 'salvirii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1497",
@@ -9590,7 +9590,7 @@ height: 150
 {
 id: "2375",
 name_ro: 'Miciurin',
-keywords: 'Miciurin',
+keywords: 'miciurin',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1498",
@@ -9607,7 +9607,7 @@ height: 150
 {
 id: "2376",
 name_ro: 'Sofia',
-keywords: 'Sofia',
+keywords: 'sofia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1487",
@@ -9624,7 +9624,7 @@ height: 150
 {
 id: "2377",
 name_ro: 'Moară de Piatră',
-keywords: 'Moară de Piatră',
+keywords: 'moara de piatra',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1499",
@@ -9641,7 +9641,7 @@ height: 150
 {
 id: "2378",
 name_ro: 'Ion Creangă',
-keywords: 'Ion Creangă',
+keywords: 'ion creanga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1492",
@@ -9658,7 +9658,7 @@ height: 150
 {
 id: "2379",
 name_ro: 'V. Coţofană',
-keywords: 'V. Coţofană',
+keywords: 'v. cotofana',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1485",
@@ -9675,7 +9675,7 @@ height: 150
 {
 id: "2380",
 name_ro: 'Oxentea',
-keywords: 'Oxentea',
+keywords: 'oxentea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1500",
@@ -9692,7 +9692,7 @@ height: 150
 {
 id: "2381",
 name_ro: 'Doroţcaia',
-keywords: 'Doroţcaia',
+keywords: 'dorotcaia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1501",
@@ -9709,7 +9709,7 @@ height: 150
 {
 id: "2382",
 name_ro: 'Grigoriopol "Ştefan cel Mare şi sfînt"',
-keywords: 'Grigoriopol "Ştefan cel Mare şi sfînt"',
+keywords: 'grigoriopol stefan cel mare si sfint',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1501",
@@ -9726,7 +9726,7 @@ height: 150
 {
 id: "2383",
 name_ro: 'Holercani',
-keywords: 'Holercani',
+keywords: 'holercani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1502",
@@ -9743,7 +9743,7 @@ height: 150
 {
 id: "2384",
 name_ro: 'Dubăsari "Mihai Eminescu"',
-keywords: 'Dubăsari "Mihai Eminescu"',
+keywords: 'dubasari mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1503",
@@ -9760,7 +9760,7 @@ height: 150
 {
 id: "2385",
 name_ro: 'Molovata "Ştefan cel Mare"',
-keywords: 'Molovata "Ştefan cel Mare"',
+keywords: 'molovata stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1504",
@@ -9777,7 +9777,7 @@ height: 150
 {
 id: "2386",
 name_ro: 'Coşniţa',
-keywords: 'Coşniţa',
+keywords: 'cosnita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1505",
@@ -9794,7 +9794,7 @@ height: 150
 {
 id: "2387",
 name_ro: 'Corjova',
-keywords: 'Corjova',
+keywords: 'corjova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1503",
@@ -9811,7 +9811,7 @@ height: 150
 {
 id: "2388",
 name_ro: 'Ustia',
-keywords: 'Ustia',
+keywords: 'ustia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1506",
@@ -9828,7 +9828,7 @@ height: 150
 {
 id: "2389",
 name_ro: 'Pîrîta',
-keywords: 'Pîrîta',
+keywords: 'pirita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1507",
@@ -9845,7 +9845,7 @@ height: 150
 {
 id: "2390",
 name_ro: 'Cocieri',
-keywords: 'Cocieri',
+keywords: 'cocieri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1502",
@@ -9862,7 +9862,7 @@ height: 150
 {
 id: "2391",
 name_ro: 'Roghi',
-keywords: 'Roghi',
+keywords: 'roghi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1508",
@@ -9879,7 +9879,7 @@ height: 150
 {
 id: "2392",
 name_ro: 'Pohrebea',
-keywords: 'Pohrebea',
+keywords: 'pohrebea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1509",
@@ -9896,7 +9896,7 @@ height: 150
 {
 id: "2393",
 name_ro: 'Marcăuţi',
-keywords: 'Marcăuţi',
+keywords: 'marcauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1510",
@@ -9913,7 +9913,7 @@ height: 150
 {
 id: "2394",
 name_ro: 'Molovata Nouă',
-keywords: 'Molovata Nouă',
+keywords: 'molovata noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1511",
@@ -9930,7 +9930,7 @@ height: 150
 {
 id: "2395",
 name_ro: 'Gimnaziul Chiurt',
-keywords: 'Gimnaziul Chiurt',
+keywords: 'gimnaziul chiurt',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1512",
@@ -9947,7 +9947,7 @@ height: 150
 {
 id: "2396",
 name_ro: 'Blesteni',
-keywords: 'Blesteni',
+keywords: 'blesteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1513",
@@ -9964,7 +9964,7 @@ height: 150
 {
 id: "2397",
 name_ro: 'Gimnaziul Rotunda',
-keywords: 'Gimnaziul Rotunda',
+keywords: 'gimnaziul rotunda',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1514",
@@ -9981,7 +9981,7 @@ height: 150
 {
 id: "2398",
 name_ro: 'Onesti',
-keywords: 'Onesti',
+keywords: 'onesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1515",
@@ -9998,7 +9998,7 @@ height: 150
 {
 id: "2399",
 name_ro: 'internat Cupcini',
-keywords: 'internat Cupcini',
+keywords: 'internat cupcini',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1516",
@@ -10015,7 +10015,7 @@ height: 150
 {
 id: "2400",
 name_ro: 'Gimnaziul Parcova',
-keywords: 'Gimnaziul Parcova',
+keywords: 'gimnaziul parcova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1517",
@@ -10032,7 +10032,7 @@ height: 150
 {
 id: "2401",
 name_ro: 'gimnaziul Vasile Rosca',
-keywords: 'gimnaziul Vasile Rosca',
+keywords: 'gimnaziul vasile rosca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1518",
@@ -10049,7 +10049,7 @@ height: 150
 {
 id: "2402",
 name_ro: 'Gimnaziul Alexeevca',
-keywords: 'Gimnaziul Alexeevca',
+keywords: 'gimnaziul alexeevca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1519",
@@ -10066,7 +10066,7 @@ height: 150
 {
 id: "2403",
 name_ro: 'Gimnaziul Burlanesti',
-keywords: 'Gimnaziul Burlanesti',
+keywords: 'gimnaziul burlanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1520",
@@ -10083,7 +10083,7 @@ height: 150
 {
 id: "2404",
 name_ro: 'Gimnaziul Viisoara',
-keywords: 'Gimnaziul Viisoara',
+keywords: 'gimnaziul viisoara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1521",
@@ -10100,7 +10100,7 @@ height: 150
 {
 id: "2405",
 name_ro: 'Corpaci',
-keywords: 'Corpaci',
+keywords: 'corpaci',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1522",
@@ -10117,7 +10117,7 @@ height: 150
 {
 id: "2406",
 name_ro: 'Gimnaziul Constantinovca',
-keywords: 'Gimnaziul Constantinovca',
+keywords: 'gimnaziul constantinovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1523",
@@ -10134,7 +10134,7 @@ height: 150
 {
 id: "2407",
 name_ro: 'Gimnaziul Cupcini',
-keywords: 'Gimnaziul Cupcini',
+keywords: 'gimnaziul cupcini',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1516",
@@ -10151,7 +10151,7 @@ height: 150
 {
 id: "2408",
 name_ro: 'Gimnaziul Cepeliuti',
-keywords: 'Gimnaziul Cepeliuti',
+keywords: 'gimnaziul cepeliuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1524",
@@ -10168,7 +10168,7 @@ height: 150
 {
 id: "2409",
 name_ro: 'Gimnaziul Lopatnic',
-keywords: 'Gimnaziul Lopatnic',
+keywords: 'gimnaziul lopatnic',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1525",
@@ -10185,7 +10185,7 @@ height: 150
 {
 id: "2410",
 name_ro: 'Gimnaziul Chetrosica Noua',
-keywords: 'Gimnaziul Chetrosica Noua',
+keywords: 'gimnaziul chetrosica noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1526",
@@ -10202,7 +10202,7 @@ height: 150
 {
 id: "2411",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Liceul Teoretic "Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1527",
@@ -10219,7 +10219,7 @@ height: 150
 {
 id: "2412",
 name_ro: 'Liceul Teoretic "Mihai Sadoveanu "',
-keywords: 'Liceul Teoretic "Mihai Sadoveanu "',
+keywords: 'liceul teoretic mihai sadoveanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1516",
@@ -10236,7 +10236,7 @@ height: 150
 {
 id: "2413",
 name_ro: 'Liceul Teoretic "Pan Halippa"',
-keywords: 'Liceul Teoretic "Pan Halippa"',
+keywords: 'liceul teoretic pan halippa',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1527",
@@ -10253,7 +10253,7 @@ height: 150
 {
 id: "2414",
 name_ro: 'Liceul Teoretic "Dmitrie Cantemir"',
-keywords: 'Liceul Teoretic "Dmitrie Cantemir"',
+keywords: 'liceul teoretic dmitrie cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1527",
@@ -10270,7 +10270,7 @@ height: 150
 {
 id: "2415",
 name_ro: 'Liceul Teoretic "Sofia Kovalevski"',
-keywords: 'Liceul Teoretic "Sofia Kovalevski"',
+keywords: 'liceul teoretic sofia kovalevski',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1516",
@@ -10287,7 +10287,7 @@ height: 150
 {
 id: "2416",
 name_ro: 'Gimnaziul Bratusenii Noi',
-keywords: 'Gimnaziul Bratusenii Noi',
+keywords: 'gimnaziul bratusenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1528",
@@ -10304,7 +10304,7 @@ height: 150
 {
 id: "2417",
 name_ro: 'Gimnaziul Gaspar',
-keywords: 'Gimnaziul Gaspar',
+keywords: 'gimnaziul gaspar',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1529",
@@ -10321,7 +10321,7 @@ height: 150
 {
 id: "2418",
 name_ro: 'Gimnaziul Tîrnova',
-keywords: 'Gimnaziul Tîrnova',
+keywords: 'gimnaziul tirnova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1530",
@@ -10338,7 +10338,7 @@ height: 150
 {
 id: "2419",
 name_ro: 'Şcoala Medie Hlinaia',
-keywords: 'Şcoala Medie Hlinaia',
+keywords: 'scoala medie hlinaia',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1531",
@@ -10355,7 +10355,7 @@ height: 150
 {
 id: "2420",
 name_ro: 'Liceul Teoretic Gordineşti',
-keywords: 'Liceul Teoretic Gordineşti',
+keywords: 'liceul teoretic gordinesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1532",
@@ -10372,7 +10372,7 @@ height: 150
 {
 id: "2421",
 name_ro: 'Gimnaziul Hincăuţi',
-keywords: 'Gimnaziul Hincăuţi',
+keywords: 'gimnaziul hincauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1533",
@@ -10389,7 +10389,7 @@ height: 150
 {
 id: "2422",
 name_ro: 'Liceul Teoretic Zăbriceni',
-keywords: 'Liceul Teoretic Zăbriceni',
+keywords: 'liceul teoretic zabriceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1534",
@@ -10406,7 +10406,7 @@ height: 150
 {
 id: "2423",
 name_ro: 'Liceul Teoretic "Vasile Stroiescu"',
-keywords: 'Liceul Teoretic "Vasile Stroiescu"',
+keywords: 'liceul teoretic vasile stroiescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1535",
@@ -10423,7 +10423,7 @@ height: 150
 {
 id: "2424",
 name_ro: 'Şcoala Medie Ruseni',
-keywords: 'Şcoala Medie Ruseni',
+keywords: 'scoala medie ruseni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1536",
@@ -10440,7 +10440,7 @@ height: 150
 {
 id: "2425",
 name_ro: 'Liceul Teoretic "Bratuseni"',
-keywords: 'Liceul Teoretic "Bratuseni"',
+keywords: 'liceul teoretic bratuseni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1537",
@@ -10457,7 +10457,7 @@ height: 150
 {
 id: "2426",
 name_ro: 'Goleni',
-keywords: 'Goleni',
+keywords: 'goleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1538",
@@ -10474,7 +10474,7 @@ height: 150
 {
 id: "2427",
 name_ro: 'Gimnaziul Stolniceni',
-keywords: 'Gimnaziul Stolniceni',
+keywords: 'gimnaziul stolniceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1539",
@@ -10491,7 +10491,7 @@ height: 150
 {
 id: "2428",
 name_ro: 'Şofrîncani',
-keywords: 'Şofrîncani',
+keywords: 'sofrincani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1540",
@@ -10508,7 +10508,7 @@ height: 150
 {
 id: "2429",
 name_ro: 'Terebna',
-keywords: 'Terebna',
+keywords: 'terebna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1541",
@@ -10525,7 +10525,7 @@ height: 150
 {
 id: "2430",
 name_ro: 'Fîntîna Albă',
-keywords: 'Fîntîna Albă',
+keywords: 'fintina alba',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1542",
@@ -10542,7 +10542,7 @@ height: 150
 {
 id: "2431",
 name_ro: 'Scoala Medie nr1',
-keywords: 'Scoala Medie nr1',
+keywords: 'scoala medie nr1',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1527",
@@ -10559,7 +10559,7 @@ height: 150
 {
 id: "2432",
 name_ro: 'Liceul Teoretic Trinca',
-keywords: 'Liceul Teoretic Trinca',
+keywords: 'liceul teoretic trinca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1543",
@@ -10576,7 +10576,7 @@ height: 150
 {
 id: "2433",
 name_ro: 'Gimnaziul Badragii Noi',
-keywords: 'Gimnaziul Badragii Noi',
+keywords: 'gimnaziul badragii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1544",
@@ -10593,7 +10593,7 @@ height: 150
 {
 id: "2434",
 name_ro: 'Gimnaziul Cuconeştii Noi',
-keywords: 'Gimnaziul Cuconeştii Noi',
+keywords: 'gimnaziul cuconestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1545",
@@ -10610,7 +10610,7 @@ height: 150
 {
 id: "2435",
 name_ro: 'Liceul Teoretic Feteşti',
-keywords: 'Liceul Teoretic Feteşti',
+keywords: 'liceul teoretic fetesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1546",
@@ -10627,7 +10627,7 @@ height: 150
 {
 id: "2436",
 name_ro: 'Hancăuţi',
-keywords: 'Hancăuţi',
+keywords: 'hancauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1547",
@@ -10644,7 +10644,7 @@ height: 150
 {
 id: "2437",
 name_ro: 'Liceul Teoretic "V.Suhomlinski"',
-keywords: 'Liceul Teoretic "V.Suhomlinski"',
+keywords: 'liceul teoretic v.suhomlinski',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1527",
@@ -10661,7 +10661,7 @@ height: 150
 {
 id: "2438",
 name_ro: 'Gimnaziul Bădragii Vechi',
-keywords: 'Gimnaziul Bădragii Vechi',
+keywords: 'gimnaziul badragii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1548",
@@ -10678,7 +10678,7 @@ height: 150
 {
 id: "2439",
 name_ro: 'Liceul Teologic de fete Edinet',
-keywords: 'Liceul Teologic de fete Edinet',
+keywords: 'liceul teologic de fete edinet',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1527",
@@ -10695,7 +10695,7 @@ height: 150
 {
 id: "2440",
 name_ro: 'Liceul teologic Zabriceni',
-keywords: 'Liceul teologic Zabriceni',
+keywords: 'liceul teologic zabriceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1534",
@@ -10712,7 +10712,7 @@ height: 150
 {
 id: "2441",
 name_ro: 'Liceul Teoretic Albineţul Vechi',
-keywords: 'Liceul Teoretic Albineţul Vechi',
+keywords: 'liceul teoretic albinetul vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1549",
@@ -10729,7 +10729,7 @@ height: 150
 {
 id: "2442",
 name_ro: 'Liceul Teoretic Marandeni',
-keywords: 'Liceul Teoretic Marandeni',
+keywords: 'liceul teoretic marandeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1550",
@@ -10746,7 +10746,7 @@ height: 150
 {
 id: "2443",
 name_ro: 'Liceul Teoretic "A.Mateevici"',
-keywords: 'Liceul Teoretic "A.Mateevici"',
+keywords: 'liceul teoretic a.mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1551",
@@ -10763,7 +10763,7 @@ height: 150
 {
 id: "2444",
 name_ro: 'gimnaziu Ciolacu Nou',
-keywords: 'gimnaziu Ciolacu Nou',
+keywords: 'gimnaziu ciolacu nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1552",
@@ -10780,7 +10780,7 @@ height: 150
 {
 id: "2445",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare şi Sfînt"',
-keywords: 'Liceul Teoretic "Ştefan cel Mare şi Sfînt"',
+keywords: 'liceul teoretic stefan cel mare si sfint',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1553",
@@ -10797,7 +10797,7 @@ height: 150
 {
 id: "2446",
 name_ro: 'Liceul Teoretic "D.Cantemir"',
-keywords: 'Liceul Teoretic "D.Cantemir"',
+keywords: 'liceul teoretic d.cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1554",
@@ -10814,7 +10814,7 @@ height: 150
 {
 id: "2447",
 name_ro: 'Liceul Teoretic "A. Puşkin"',
-keywords: 'Liceul Teoretic "A. Puşkin"',
+keywords: 'liceul teoretic a. puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1555",
@@ -10831,7 +10831,7 @@ height: 150
 {
 id: "2448",
 name_ro: 'Liceul Teoretic"Mihai Eminescu"',
-keywords: 'Liceul Teoretic"Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1555",
@@ -10848,7 +10848,7 @@ height: 150
 {
 id: "2449",
 name_ro: 'Liceul Teoretic Călineşti',
-keywords: 'Liceul Teoretic Călineşti',
+keywords: 'liceul teoretic calinesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1556",
@@ -10865,7 +10865,7 @@ height: 150
 {
 id: "2450",
 name_ro: 'Liceul Teoretic "Mihai Corlăteanu" Glingeni',
-keywords: 'Liceul Teoretic "Mihai Corlăteanu" Glingeni',
+keywords: 'liceul teoretic mihai corlateanu glingeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1557",
@@ -10882,7 +10882,7 @@ height: 150
 {
 id: "2451",
 name_ro: 'Liceul Teoretic "Grighore Vieru" Sarata Veche',
-keywords: 'Liceul Teoretic "Grighore Vieru" Sarata Veche',
+keywords: 'liceul teoretic grighore vieru sarata veche',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1558",
@@ -10899,7 +10899,7 @@ height: 150
 {
 id: "2452",
 name_ro: 'Gimnaziu Făleştii Noi',
-keywords: 'Gimnaziu Făleştii Noi',
+keywords: 'gimnaziu falestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1559",
@@ -10916,7 +10916,7 @@ height: 150
 {
 id: "2453",
 name_ro: 'Gimnaziu Musteaţa',
-keywords: 'Gimnaziu Musteaţa',
+keywords: 'gimnaziu musteata',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1560",
@@ -10933,7 +10933,7 @@ height: 150
 {
 id: "2454",
 name_ro: 'Gimnaziu Popovca',
-keywords: 'Gimnaziu Popovca',
+keywords: 'gimnaziu popovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1561",
@@ -10950,7 +10950,7 @@ height: 150
 {
 id: "2455",
 name_ro: 'Gimnaziu Fabr.Zah. nr.3',
-keywords: 'Gimnaziu Fabr.Zah. nr.3',
+keywords: 'gimnaziu fabr.zah. nr.3',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1555",
@@ -10967,7 +10967,7 @@ height: 150
 {
 id: "2456",
 name_ro: 'Şcoala Medie Horeşti',
-keywords: 'Şcoala Medie Horeşti',
+keywords: 'scoala medie horesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1562",
@@ -10984,7 +10984,7 @@ height: 150
 {
 id: "2457",
 name_ro: 'Şcoala Medie Izvoare',
-keywords: 'Şcoala Medie Izvoare',
+keywords: 'scoala medie izvoare',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1563",
@@ -11001,7 +11001,7 @@ height: 150
 {
 id: "2458",
 name_ro: 'Gimnaziu Egorovca',
-keywords: 'Gimnaziu Egorovca',
+keywords: 'gimnaziu egorovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1564",
@@ -11018,7 +11018,7 @@ height: 150
 {
 id: "2459",
 name_ro: 'Gimnaziul Pruteni',
-keywords: 'Gimnaziul Pruteni',
+keywords: 'gimnaziul pruteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1565",
@@ -11035,7 +11035,7 @@ height: 150
 {
 id: "2460",
 name_ro: 'Şcoala Medie Obreja Veche',
-keywords: 'Şcoala Medie Obreja Veche',
+keywords: 'scoala medie obreja veche',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1566",
@@ -11052,7 +11052,7 @@ height: 150
 {
 id: "2461",
 name_ro: 'Liceul Teoretic "V.Alecsandri" Scumpia',
-keywords: 'Liceul Teoretic "V.Alecsandri" Scumpia',
+keywords: 'liceul teoretic v.alecsandri scumpia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1567",
@@ -11069,7 +11069,7 @@ height: 150
 {
 id: "2462",
 name_ro: 'Liceul Teoretic "E.Coşeriu" Catranîc',
-keywords: 'Liceul Teoretic "E.Coşeriu" Catranîc',
+keywords: 'liceul teoretic e.coseriu catranic',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1568",
@@ -11086,7 +11086,7 @@ height: 150
 {
 id: "2463",
 name_ro: 'Gimnaziul Pompa',
-keywords: 'Gimnaziul Pompa',
+keywords: 'gimnaziul pompa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1569",
@@ -11103,7 +11103,7 @@ height: 150
 {
 id: "2464",
 name_ro: 'Liceul Teoretic " Ion Creangă "',
-keywords: 'Liceul Teoretic " Ion Creangă "',
+keywords: 'liceul teoretic ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1555",
@@ -11120,7 +11120,7 @@ height: 150
 {
 id: "2465",
 name_ro: 'Gimnaziul Internat orfani',
-keywords: 'Gimnaziul Internat orfani',
+keywords: 'gimnaziul internat orfani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1555",
@@ -11137,7 +11137,7 @@ height: 150
 {
 id: "2466",
 name_ro: 'Gimnaziul Logofteni',
-keywords: 'Gimnaziul Logofteni',
+keywords: 'gimnaziul logofteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1570",
@@ -11154,7 +11154,7 @@ height: 150
 {
 id: "2467",
 name_ro: 'Şcoala-auxiliară Socii Noi',
-keywords: 'Şcoala-auxiliară Socii Noi',
+keywords: 'scoala-auxiliara socii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1571",
@@ -11171,7 +11171,7 @@ height: 150
 {
 id: "2468",
 name_ro: 'Gimnaziul Işcalău',
-keywords: 'Gimnaziul Işcalău',
+keywords: 'gimnaziul iscalau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1572",
@@ -11188,7 +11188,7 @@ height: 150
 {
 id: "2469",
 name_ro: 'Gimnaziul Gara Catranic',
-keywords: 'Gimnaziul Gara Catranic',
+keywords: 'gimnaziul gara catranic',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1568",
@@ -11205,7 +11205,7 @@ height: 150
 {
 id: "2470",
 name_ro: 'Gimnaziul Suvorovca',
-keywords: 'Gimnaziul Suvorovca',
+keywords: 'gimnaziul suvorovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1573",
@@ -11222,7 +11222,7 @@ height: 150
 {
 id: "2471",
 name_ro: 'Gimnaziul Pînzăreni "Nicolaie Dabija"',
-keywords: 'Gimnaziul Pînzăreni "Nicolaie Dabija"',
+keywords: 'gimnaziul pinzareni nicolaie dabija',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1574",
@@ -11239,7 +11239,7 @@ height: 150
 {
 id: "2472",
 name_ro: 'Gimnaziul Chetriş',
-keywords: 'Gimnaziul Chetriş',
+keywords: 'gimnaziul chetris',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1575",
@@ -11256,7 +11256,7 @@ height: 150
 {
 id: "2473",
 name_ro: 'Gimnaziul Taxobeni',
-keywords: 'Gimnaziul Taxobeni',
+keywords: 'gimnaziul taxobeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1576",
@@ -11273,7 +11273,7 @@ height: 150
 {
 id: "2474",
 name_ro: 'Gimnaziul Bocani',
-keywords: 'Gimnaziul Bocani',
+keywords: 'gimnaziul bocani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1577",
@@ -11290,7 +11290,7 @@ height: 150
 {
 id: "2475",
 name_ro: 'Gimnaziul Nr.4 Făleşti',
-keywords: 'Gimnaziul Nr.4 Făleşti',
+keywords: 'gimnaziul nr.4 falesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1555",
@@ -11307,7 +11307,7 @@ height: 150
 {
 id: "2476",
 name_ro: 'Gimnaziul Ciolacu Vechi',
-keywords: 'Gimnaziul Ciolacu Vechi',
+keywords: 'gimnaziul ciolacu vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1578",
@@ -11324,7 +11324,7 @@ height: 150
 {
 id: "2477",
 name_ro: 'Gimnaziul Hiliuţi',
-keywords: 'Gimnaziul Hiliuţi',
+keywords: 'gimnaziul hiliuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1579",
@@ -11341,7 +11341,7 @@ height: 150
 {
 id: "2478",
 name_ro: 'Liceul Teoretic "D.Gherman" Risipeni',
-keywords: 'Liceul Teoretic "D.Gherman" Risipeni',
+keywords: 'liceul teoretic d.gherman risipeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1580",
@@ -11358,7 +11358,7 @@ height: 150
 {
 id: "2479",
 name_ro: 'Gimnaziul Obreja Noua',
-keywords: 'Gimnaziul Obreja Noua',
+keywords: 'gimnaziul obreja noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1581",
@@ -11375,7 +11375,7 @@ height: 150
 {
 id: "2480",
 name_ro: 'Gimnaziul Moldoveanca',
-keywords: 'Gimnaziul Moldoveanca',
+keywords: 'gimnaziul moldoveanca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1582",
@@ -11392,7 +11392,7 @@ height: 150
 {
 id: "2481",
 name_ro: 'Gimnaziul Burghelea',
-keywords: 'Gimnaziul Burghelea',
+keywords: 'gimnaziul burghelea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1583",
@@ -11409,7 +11409,7 @@ height: 150
 {
 id: "2482",
 name_ro: 'Gimnaziul Pietrosu',
-keywords: 'Gimnaziul Pietrosu',
+keywords: 'gimnaziul pietrosu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1584",
@@ -11426,7 +11426,7 @@ height: 150
 {
 id: "2483",
 name_ro: 'Gimnaziul Făgădău',
-keywords: 'Gimnaziul Făgădău',
+keywords: 'gimnaziul fagadau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1585",
@@ -11443,7 +11443,7 @@ height: 150
 {
 id: "2484",
 name_ro: 'Gimnaziul Ilenuţa',
-keywords: 'Gimnaziul Ilenuţa',
+keywords: 'gimnaziul ilenuta',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1586",
@@ -11460,7 +11460,7 @@ height: 150
 {
 id: "2485",
 name_ro: 'Gimnaziul Călugăr',
-keywords: 'Gimnaziul Călugăr',
+keywords: 'gimnaziul calugar',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1587",
@@ -11477,7 +11477,7 @@ height: 150
 {
 id: "2486",
 name_ro: 'Gimnaziul Sarata Nouă',
-keywords: 'Gimnaziul Sarata Nouă',
+keywords: 'gimnaziul sarata noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1588",
@@ -11494,7 +11494,7 @@ height: 150
 {
 id: "2487",
 name_ro: 'Gimnaziul Hitreşti',
-keywords: 'Gimnaziul Hitreşti',
+keywords: 'gimnaziul hitresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1589",
@@ -11511,7 +11511,7 @@ height: 150
 {
 id: "2488",
 name_ro: 'Gimnaziul Valea Rusului',
-keywords: 'Gimnaziul Valea Rusului',
+keywords: 'gimnaziul valea rusului',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1590",
@@ -11528,7 +11528,7 @@ height: 150
 {
 id: "2489",
 name_ro: 'Gimnaziul Doltu',
-keywords: 'Gimnaziul Doltu',
+keywords: 'gimnaziul doltu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1591",
@@ -11545,7 +11545,7 @@ height: 150
 {
 id: "2490",
 name_ro: 'Gimnaziul Hînceşti',
-keywords: 'Gimnaziul Hînceşti',
+keywords: 'gimnaziul hincesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1592",
@@ -11562,7 +11562,7 @@ height: 150
 {
 id: "2491",
 name_ro: 'Liceul Teoretic "Anton Cehov"',
-keywords: 'Liceul Teoretic "Anton Cehov"',
+keywords: 'liceul teoretic anton cehov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1593",
@@ -11579,7 +11579,7 @@ height: 150
 {
 id: "2492",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Liceul Teoretic "Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1594",
@@ -11596,7 +11596,7 @@ height: 150
 {
 id: "2493",
 name_ro: 'Liceul Teoretic "Vasile Alecsandri"',
-keywords: 'Liceul Teoretic "Vasile Alecsandri"',
+keywords: 'liceul teoretic vasile alecsandri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1595",
@@ -11613,7 +11613,7 @@ height: 150
 {
 id: "2494",
 name_ro: 'Liceul Teoretic "Ion Creangă"',
-keywords: 'Liceul Teoretic "Ion Creangă"',
+keywords: 'liceul teoretic ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1593",
@@ -11630,7 +11630,7 @@ height: 150
 {
 id: "2495",
 name_ro: 'Liceul Teoretic "Alexei Mateevici"',
-keywords: 'Liceul Teoretic "Alexei Mateevici"',
+keywords: 'liceul teoretic alexei mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1596",
@@ -11647,7 +11647,7 @@ height: 150
 {
 id: "2496",
 name_ro: 'Liceul Teoretic Cuhureştii de Sus',
-keywords: 'Liceul Teoretic Cuhureştii de Sus',
+keywords: 'liceul teoretic cuhurestii de sus',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1597",
@@ -11664,7 +11664,7 @@ height: 150
 {
 id: "2497",
 name_ro: 'Gimnaziul Dumitreni',
-keywords: 'Gimnaziul Dumitreni',
+keywords: 'gimnaziul dumitreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1598",
@@ -11681,7 +11681,7 @@ height: 150
 {
 id: "2498",
 name_ro: 'Gimnaziul Domulgeni',
-keywords: 'Gimnaziul Domulgeni',
+keywords: 'gimnaziul domulgeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1599",
@@ -11698,7 +11698,7 @@ height: 150
 {
 id: "2499",
 name_ro: 'Gimnaziul Cenuşa',
-keywords: 'Gimnaziul Cenuşa',
+keywords: 'gimnaziul cenusa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1600",
@@ -11715,7 +11715,7 @@ height: 150
 {
 id: "2500",
 name_ro: 'Gimnaziul Nicolaevca',
-keywords: 'Gimnaziul Nicolaevca',
+keywords: 'gimnaziul nicolaevca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1601",
@@ -11732,7 +11732,7 @@ height: 150
 {
 id: "2501",
 name_ro: 'Gimnaziul Ciripcău',
-keywords: 'Gimnaziul Ciripcău',
+keywords: 'gimnaziul ciripcau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1602",
@@ -11749,7 +11749,7 @@ height: 150
 {
 id: "2502",
 name_ro: 'Gimnaziul Gvozdova',
-keywords: 'Gimnaziul Gvozdova',
+keywords: 'gimnaziul gvozdova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1603",
@@ -11766,7 +11766,7 @@ height: 150
 {
 id: "2503",
 name_ro: 'Gimnaziul Cerniţa',
-keywords: 'Gimnaziul Cerniţa',
+keywords: 'gimnaziul cernita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1604",
@@ -11783,7 +11783,7 @@ height: 150
 {
 id: "2504",
 name_ro: 'Gimnaziul Hîrtop',
-keywords: 'Gimnaziul Hîrtop',
+keywords: 'gimnaziul hirtop',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1605",
@@ -11800,7 +11800,7 @@ height: 150
 {
 id: "2505",
 name_ro: 'Gimnaziul Izvoare',
-keywords: 'Gimnaziul Izvoare',
+keywords: 'gimnaziul izvoare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1606",
@@ -11817,7 +11817,7 @@ height: 150
 {
 id: "2506",
 name_ro: 'Gimnaziul Ivanovca',
-keywords: 'Gimnaziul Ivanovca',
+keywords: 'gimnaziul ivanovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1607",
@@ -11834,7 +11834,7 @@ height: 150
 {
 id: "2507",
 name_ro: 'Liceul Teoretic Ştefăneşti',
-keywords: 'Liceul Teoretic Ştefăneşti',
+keywords: 'liceul teoretic stefanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1608",
@@ -11851,7 +11851,7 @@ height: 150
 {
 id: "2508",
 name_ro: 'Liceul Teoretic Cunicea',
-keywords: 'Liceul Teoretic Cunicea',
+keywords: 'liceul teoretic cunicea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1609",
@@ -11868,7 +11868,7 @@ height: 150
 {
 id: "2509",
 name_ro: 'Gimnaziul Prodăneşti',
-keywords: 'Gimnaziul Prodăneşti',
+keywords: 'gimnaziul prodanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1610",
@@ -11885,7 +11885,7 @@ height: 150
 {
 id: "2510",
 name_ro: 'Gimnaziul Putineşti',
-keywords: 'Gimnaziul Putineşti',
+keywords: 'gimnaziul putinesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1611",
@@ -11902,7 +11902,7 @@ height: 150
 {
 id: "2511",
 name_ro: 'Ş. M. Iliciovca',
-keywords: 'Ş. M. Iliciovca',
+keywords: 's. m. iliciovca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1612",
@@ -11919,7 +11919,7 @@ height: 150
 {
 id: "2512",
 name_ro: 'Gimnaziul Gura Camencii',
-keywords: 'Gimnaziul Gura Camencii',
+keywords: 'gimnaziul gura camencii',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1613",
@@ -11936,7 +11936,7 @@ height: 150
 {
 id: "2513",
 name_ro: 'Şcoala Medie Ciutuleşti',
-keywords: 'Şcoala Medie Ciutuleşti',
+keywords: 'scoala medie ciutulesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1614",
@@ -11953,7 +11953,7 @@ height: 150
 {
 id: "2514",
 name_ro: 'Gimnaziul Coşerniţa',
-keywords: 'Gimnaziul Coşerniţa',
+keywords: 'gimnaziul cosernita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1615",
@@ -11970,7 +11970,7 @@ height: 150
 {
 id: "2515",
 name_ro: 'Şcoala Medie Bahrîneşti',
-keywords: 'Şcoala Medie Bahrîneşti',
+keywords: 'scoala medie bahrinesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1616",
@@ -11987,7 +11987,7 @@ height: 150
 {
 id: "2516",
 name_ro: 'Gimnaziul Zăluceni',
-keywords: 'Gimnaziul Zăluceni',
+keywords: 'gimnaziul zaluceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1617",
@@ -12004,7 +12004,7 @@ height: 150
 {
 id: "2517",
 name_ro: 'Liceul Teoretic "Mihai Eminescu"',
-keywords: 'Liceul Teoretic "Mihai Eminescu"',
+keywords: 'liceul teoretic mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1593",
@@ -12021,7 +12021,7 @@ height: 150
 {
 id: "2518",
 name_ro: 'Ş. M. Rădulenii Vechi',
-keywords: 'Ş. M. Rădulenii Vechi',
+keywords: 's. m. radulenii vechi',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1618",
@@ -12038,7 +12038,7 @@ height: 150
 {
 id: "2519",
 name_ro: 'Liceul Teoretic Frumuşica',
-keywords: 'Liceul Teoretic Frumuşica',
+keywords: 'liceul teoretic frumusica',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1619",
@@ -12055,7 +12055,7 @@ height: 150
 {
 id: "2520",
 name_ro: 'Gimnaziul Internat Napadova',
-keywords: 'Gimnaziul Internat Napadova',
+keywords: 'gimnaziul internat napadova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1620",
@@ -12072,7 +12072,7 @@ height: 150
 {
 id: "2521",
 name_ro: 'Gimnaziul Internat Văscăuţi',
-keywords: 'Gimnaziul Internat Văscăuţi',
+keywords: 'gimnaziul internat vascauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1621",
@@ -12089,7 +12089,7 @@ height: 150
 {
 id: "2522",
 name_ro: 'Şcoala auxiliară Mărculeşti',
-keywords: 'Şcoala auxiliară Mărculeşti',
+keywords: 'scoala auxiliara marculesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1622",
@@ -12106,7 +12106,7 @@ height: 150
 {
 id: "2523",
 name_ro: 'Şcoala primară Floreşti',
-keywords: 'Şcoala primară Floreşti',
+keywords: 'scoala primara floresti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1593",
@@ -12123,7 +12123,7 @@ height: 150
 {
 id: "2524",
 name_ro: 'Şcoala primară Bobuleşti',
-keywords: 'Şcoala primară Bobuleşti',
+keywords: 'scoala primara bobulesti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1623",
@@ -12140,7 +12140,7 @@ height: 150
 {
 id: "2525",
 name_ro: 'Şcoala primară Bursuc',
-keywords: 'Şcoala primară Bursuc',
+keywords: 'scoala primara bursuc',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1624",
@@ -12157,7 +12157,7 @@ height: 150
 {
 id: "2526",
 name_ro: 'Liceul Teoretic "Miron Costin"',
-keywords: 'Liceul Teoretic "Miron Costin"',
+keywords: 'liceul teoretic miron costin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1593",
@@ -12174,7 +12174,7 @@ height: 150
 {
 id: "2527",
 name_ro: 'Gimnaziul Alexeevca',
-keywords: 'Gimnaziul Alexeevca',
+keywords: 'gimnaziul alexeevca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1625",
@@ -12191,7 +12191,7 @@ height: 150
 {
 id: "2528",
 name_ro: 'Gimnaziul Serbeşti',
-keywords: 'Gimnaziul Serbeşti',
+keywords: 'gimnaziul serbesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1626",
@@ -12208,7 +12208,7 @@ height: 150
 {
 id: "2529",
 name_ro: 'Gimnaziul Trifăneşti',
-keywords: 'Gimnaziul Trifăneşti',
+keywords: 'gimnaziul trifanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1627",
@@ -12225,7 +12225,7 @@ height: 150
 {
 id: "2530",
 name_ro: 'Gimnaziul Temeleuţi',
-keywords: 'Gimnaziul Temeleuţi',
+keywords: 'gimnaziul temeleuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1628",
@@ -12242,7 +12242,7 @@ height: 150
 {
 id: "2531",
 name_ro: 'Gimnaziul Vertiujeni',
-keywords: 'Gimnaziul Vertiujeni',
+keywords: 'gimnaziul vertiujeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1629",
@@ -12259,7 +12259,7 @@ height: 150
 {
 id: "2532",
 name_ro: 'Gimnaziul Văscăuţi',
-keywords: 'Gimnaziul Văscăuţi',
+keywords: 'gimnaziul vascauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1621",
@@ -12276,7 +12276,7 @@ height: 150
 {
 id: "2533",
 name_ro: 'Ş. M. Prajila',
-keywords: 'Ş. M. Prajila',
+keywords: 's. m. prajila',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1630",
@@ -12293,7 +12293,7 @@ height: 150
 {
 id: "2534",
 name_ro: 'Gimnaziul Sevirova',
-keywords: 'Gimnaziul Sevirova',
+keywords: 'gimnaziul sevirova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1631",
@@ -12310,7 +12310,7 @@ height: 150
 {
 id: "2535",
 name_ro: 'Ş. M. Roşietici',
-keywords: 'Ş. M. Roşietici',
+keywords: 's. m. rosietici',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1632",
@@ -12327,7 +12327,7 @@ height: 150
 {
 id: "2536",
 name_ro: 'Gimnaziul Caşunca',
-keywords: 'Gimnaziul Caşunca',
+keywords: 'gimnaziul casunca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1633",
@@ -12344,7 +12344,7 @@ height: 150
 {
 id: "2537",
 name_ro: 'Ş. M- Tîrgul Vertiujeni',
-keywords: 'Ş. M- Tîrgul Vertiujeni',
+keywords: 's. m- tirgul vertiujeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1634",
@@ -12361,7 +12361,7 @@ height: 150
 {
 id: "2538",
 name_ro: 'Gimnaziul Japca',
-keywords: 'Ş. M. Japca',
+keywords: 's. m. japca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1635",
@@ -12378,7 +12378,7 @@ height: 150
 {
 id: "2539",
 name_ro: 'Ş. M. Cuhureştii de Jos',
-keywords: 'Ş. M. Cuhureştii de Jos',
+keywords: 's. m. cuhurestii de jos',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1636",
@@ -12395,7 +12395,7 @@ height: 150
 {
 id: "2540",
 name_ro: 'Ş. M. Vărvăreuca',
-keywords: 'Ş. M. Vărvăreuca',
+keywords: 's. m. varvareuca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1637",
@@ -12412,7 +12412,7 @@ height: 150
 {
 id: "2541",
 name_ro: 'Gimnaziul Gura Căinarului',
-keywords: 'Gimnaziul Gura Căinarului',
+keywords: 'gimnaziul gura cainarului',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1638",
@@ -12429,7 +12429,7 @@ height: 150
 {
 id: "2542",
 name_ro: 'Gimnaziul-grădiniţă Napadova',
-keywords: 'Gimnaziul-grădiniţă Napadova',
+keywords: 'gimnaziul-gradinita napadova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1620",
@@ -12446,7 +12446,7 @@ height: 150
 {
 id: "2543",
 name_ro: 'Gimnaziul Ion Vodă',
-keywords: 'Gimnaziul Ion Vodă',
+keywords: 'gimnaziul ion voda',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1639",
@@ -12463,7 +12463,7 @@ height: 150
 {
 id: "2544",
 name_ro: 'Gimnayiul Lunga',
-keywords: 'Gimnayiul Lunga',
+keywords: 'gimnayiul lunga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1640",
@@ -12480,7 +12480,7 @@ height: 150
 {
 id: "2545",
 name_ro: 'Liceul Teoretic Limbenii Vechi',
-keywords: 'Liceul Teoretic Limbenii Vechi',
+keywords: 'liceul teoretic limbenii vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1641",
@@ -12497,7 +12497,7 @@ height: 150
 {
 id: "2546",
 name_ro: 'Gimnaziu Duşmani',
-keywords: 'Gimnaziu Duşmani',
+keywords: 'gimnaziu dusmani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1642",
@@ -12514,7 +12514,7 @@ height: 150
 {
 id: "2547",
 name_ro: 'Liceul Teoretic Danu',
-keywords: 'Liceul Teoretic Danu',
+keywords: 'liceul teoretic danu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1643",
@@ -12531,7 +12531,7 @@ height: 150
 {
 id: "2548",
 name_ro: 'Liceul Teoretic V. Coroban Glodeni',
-keywords: 'Liceul Teoretic V. Coroban Glodeni',
+keywords: 'liceul teoretic v. coroban glodeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1644",
@@ -12548,7 +12548,7 @@ height: 150
 {
 id: "2549",
 name_ro: 'Liceul Teoretic Petrunea',
-keywords: 'Liceul Teoretic Petrunea',
+keywords: 'liceul teoretic petrunea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1645",
@@ -12565,7 +12565,7 @@ height: 150
 {
 id: "2550",
 name_ro: 'Liceul Teoretic Ciuciulea',
-keywords: 'Liceul Teoretic Ciuciulea',
+keywords: 'liceul teoretic ciuciulea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1646",
@@ -12582,7 +12582,7 @@ height: 150
 {
 id: "2551",
 name_ro: 'Liceul Teoretic Cobani',
-keywords: 'Liceul Teoretic Cobani',
+keywords: 'liceul teoretic cobani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1647",
@@ -12599,7 +12599,7 @@ height: 150
 {
 id: "2552",
 name_ro: 'Liceul Teoretic Fundurii Vechi',
-keywords: 'Liceul Teoretic Fundurii Vechi',
+keywords: 'liceul teoretic fundurii vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1648",
@@ -12616,7 +12616,7 @@ height: 150
 {
 id: "2553",
 name_ro: 'Liceul Teoretic Cuhneşti',
-keywords: 'Liceul Teoretic Cuhneşti',
+keywords: 'liceul teoretic cuhnesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1649",
@@ -12633,7 +12633,7 @@ height: 150
 {
 id: "2554",
 name_ro: 'Liceul Teoretic Balatina',
-keywords: 'Liceul Teoretic Balatina',
+keywords: 'liceul teoretic balatina',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1650",
@@ -12650,7 +12650,7 @@ height: 150
 {
 id: "2555",
 name_ro: 'Liceul Teoretic "Lev Tolstoi" Glodeni',
-keywords: 'Liceul Teoretic "Lev Tolstoi" Glodeni',
+keywords: 'liceul teoretic lev tolstoi glodeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1644",
@@ -12667,7 +12667,7 @@ height: 150
 {
 id: "2556",
 name_ro: 'Liceul Teoretic Hîjdieni',
-keywords: 'Liceul Teoretic Hîjdieni',
+keywords: 'liceul teoretic hijdieni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1651",
@@ -12684,7 +12684,7 @@ height: 150
 {
 id: "2557",
 name_ro: 'Gimnaziu Cajba',
-keywords: 'Gimnaziu Cajba',
+keywords: 'gimnaziu cajba',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1652",
@@ -12701,7 +12701,7 @@ height: 150
 {
 id: "2558",
 name_ro: 'Gimnaziu Vasile Coroban Camenca',
-keywords: 'Gimnaziu Vasile Coroban Camenca',
+keywords: 'gimnaziu vasile coroban camenca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1653",
@@ -12718,7 +12718,7 @@ height: 150
 {
 id: "2559",
 name_ro: 'Gimnaziu Buteşti',
-keywords: 'Gimnaziu Buteşti',
+keywords: 'gimnaziu butesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1654",
@@ -12735,7 +12735,7 @@ height: 150
 {
 id: "2560",
 name_ro: 'Gimnaziu Ustia',
-keywords: 'Gimnaziu Ustia',
+keywords: 'gimnaziu ustia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1655",
@@ -12752,7 +12752,7 @@ height: 150
 {
 id: "2561",
 name_ro: 'Gimnaziu Iabloana rus',
-keywords: 'Gimnaziu Iabloana rus',
+keywords: 'gimnaziu iabloana rus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1656",
@@ -12769,7 +12769,7 @@ height: 150
 {
 id: "2562",
 name_ro: 'Liceul Teoretic Sturzovca',
-keywords: 'Liceul Teoretic Sturzovca',
+keywords: 'liceul teoretic sturzovca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1657",
@@ -12786,7 +12786,7 @@ height: 150
 {
 id: "2563",
 name_ro: 'Gimnaziu Fundurii Noi',
-keywords: 'Gimnaziu Fundurii Noi',
+keywords: 'gimnaziu fundurii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1658",
@@ -12803,7 +12803,7 @@ height: 150
 {
 id: "2564",
 name_ro: 'Gimnaziu Tomeşti',
-keywords: 'Gimnaziu Tomeşti',
+keywords: 'gimnaziu tomesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1659",
@@ -12820,7 +12820,7 @@ height: 150
 {
 id: "2565",
 name_ro: 'Gimnaziu Limbenii Noi',
-keywords: 'Gimnaziu Limbenii Noi',
+keywords: 'gimnaziu limbenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1660",
@@ -12837,7 +12837,7 @@ height: 150
 {
 id: "2566",
 name_ro: 'Gimnaziu Clococenii Vechi',
-keywords: 'Gimnaziu Clococenii Vechi',
+keywords: 'gimnaziu clococenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1661",
@@ -12854,7 +12854,7 @@ height: 150
 {
 id: "2567",
 name_ro: 'Gimnaziu Iabloana',
-keywords: 'Gimnaziu Iabloana',
+keywords: 'gimnaziu iabloana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1656",
@@ -12871,7 +12871,7 @@ height: 150
 {
 id: "2568",
 name_ro: 'Gimnaziu Viişoara',
-keywords: 'Gimnaziu Viişoara',
+keywords: 'gimnaziu viisoara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1662",
@@ -12888,7 +12888,7 @@ height: 150
 {
 id: "2569",
 name_ro: 'Şcoala primară Glodeni',
-keywords: 'Şcoala primară Glodeni',
+keywords: 'scoala primara glodeni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1644",
@@ -12905,7 +12905,7 @@ height: 150
 {
 id: "2570",
 name_ro: 'Şcoala primară gr. Moara Donească',
-keywords: 'Şcoala primară gr. Moara Donească',
+keywords: 'scoala primara gr. moara doneasca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1663",
@@ -12922,7 +12922,7 @@ height: 150
 {
 id: "2571",
 name_ro: 'Liceul Teoretic "Dmitrie Cantemir"',
-keywords: 'Liceul Teoretic "Dmitrie Cantemir"',
+keywords: 'liceul teoretic dmitrie cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1644",
@@ -12939,7 +12939,7 @@ height: 150
 {
 id: "2572",
 name_ro: 'Gimnaziu Sturzovca',
-keywords: 'Gimnaziu Sturzovca',
+keywords: 'gimnaziu sturzovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1657",
@@ -12956,7 +12956,7 @@ height: 150
 {
 id: "2573",
 name_ro: 'Gimnaziul Nemţeni',
-keywords: 'Gimnaziul Nemţeni',
+keywords: 'gimnaziul nemteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1664",
@@ -12973,7 +12973,7 @@ height: 150
 {
 id: "2574",
 name_ro: 'Gimnaziul Căţeleni',
-keywords: 'Gimnaziul Căţeleni',
+keywords: 'gimnaziul cateleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1665",
@@ -12990,7 +12990,7 @@ height: 150
 {
 id: "2575",
 name_ro: 'Gimnaziul Fundul-Galbenei',
-keywords: 'Gimnaziul Fundul-Galbenei',
+keywords: 'gimnaziul fundul-galbenei',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1666",
@@ -13007,7 +13007,7 @@ height: 150
 {
 id: "2576",
 name_ro: 'Liceul Teoretic "M. Viteazul"',
-keywords: 'Liceul Teoretic "M. Viteazul"',
+keywords: 'liceul teoretic m. viteazul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1667",
@@ -13024,7 +13024,7 @@ height: 150
 {
 id: "2577",
 name_ro: 'Şcoala Medie Mereşeni',
-keywords: 'Şcoala Medie Mereşeni',
+keywords: 'scoala medie mereseni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1668",
@@ -13041,7 +13041,7 @@ height: 150
 {
 id: "2578",
 name_ro: 'Liceul Teoretic "Dimitrie Cantemir"',
-keywords: 'Liceul Teoretic "Dimitrie Cantemir"',
+keywords: 'liceul teoretic dimitrie cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1669",
@@ -13058,7 +13058,7 @@ height: 150
 {
 id: "2579",
 name_ro: 'Gimnaziul Stolniceni',
-keywords: 'Gimnaziul Stolniceni',
+keywords: 'gimnaziul stolniceni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1670",
@@ -13075,7 +13075,7 @@ height: 150
 {
 id: "2580",
 name_ro: 'Şcoala Primară Lăpuşna',
-keywords: 'Şcoala Primară Lăpuşna',
+keywords: 'scoala primara lapusna',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1671",
@@ -13092,7 +13092,7 @@ height: 150
 {
 id: "2581",
 name_ro: 'Liceul Teoretic Logăneşti',
-keywords: 'Liceul Teoretic Logăneşti',
+keywords: 'liceul teoretic loganesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1672",
@@ -13109,7 +13109,7 @@ height: 150
 {
 id: "2582",
 name_ro: 'Liceul Teoretic Mingir',
-keywords: 'Liceul Teoretic Mingir',
+keywords: 'liceul teoretic mingir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1673",
@@ -13126,7 +13126,7 @@ height: 150
 {
 id: "2583",
 name_ro: 'Gimnaziul Bozieni',
-keywords: 'Gimnaziul Bozieni',
+keywords: 'gimnaziul bozieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1674",
@@ -13143,7 +13143,7 @@ height: 150
 {
 id: "2584",
 name_ro: 'Liceul Teoretic Lăpuşna',
-keywords: 'Liceul Teoretic Lăpuşna',
+keywords: 'liceul teoretic lapusna',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1671",
@@ -13160,7 +13160,7 @@ height: 150
 {
 id: "2585",
 name_ro: 'Gimnaziul Cotul Morii',
-keywords: 'Gimnaziul Cotul Morii',
+keywords: 'gimnaziul cotul morii',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1675",
@@ -13177,7 +13177,7 @@ height: 150
 {
 id: "2586",
 name_ro: 'Liceul Teoretic "Ştefan Holban"',
-keywords: 'Liceul Teoretic "Ştefan Holban"',
+keywords: 'liceul teoretic stefan holban',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1676",
@@ -13194,7 +13194,7 @@ height: 150
 {
 id: "2587",
 name_ro: 'Liceul Teoretic "A.Donici"',
-keywords: 'Liceul Teoretic "A.Donici"',
+keywords: 'liceul teoretic a.donici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1677",
@@ -13211,7 +13211,7 @@ height: 150
 {
 id: "2588",
 name_ro: 'Liceul Teoretic "M. Lomonosov"',
-keywords: ' Lyceum Mikhail Lomonosov Chisinau',
+keywords: 'lyceum mikhail lomonosov chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1667",
@@ -13228,7 +13228,7 @@ height: 150
 {
 id: "2589",
 name_ro: 'Gimnaziul Pervomaiscoe',
-keywords: 'Gimnaziul Pervomaiscoe',
+keywords: 'gimnaziul pervomaiscoe',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1678",
@@ -13245,7 +13245,7 @@ height: 150
 {
 id: "2590",
 name_ro: 'Şcoala Medie Bujor',
-keywords: 'Şcoala Medie Bujor',
+keywords: 'scoala medie bujor',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1679",
@@ -13262,7 +13262,7 @@ height: 150
 {
 id: "2591",
 name_ro: 'Gimnaziul Boghiceni',
-keywords: 'Gimnaziul Boghiceni',
+keywords: 'gimnaziul boghiceni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1680",
@@ -13279,7 +13279,7 @@ height: 150
 {
 id: "2592",
 name_ro: 'Gimnaziul Bălceana',
-keywords: 'Gimnaziul Bălceana',
+keywords: 'gimnaziul balceana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1681",
@@ -13296,7 +13296,7 @@ height: 150
 {
 id: "2593",
 name_ro: 'Şcoala Internat Hînceşti',
-keywords: 'Şcoala Internat Hînceşti',
+keywords: 'scoala internat hincesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1667",
@@ -13313,7 +13313,7 @@ height: 150
 {
 id: "2594",
 name_ro: 'Gimnaziul Caracui',
-keywords: 'Gimnaziul Caracui',
+keywords: 'gimnaziul caracui',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1682",
@@ -13330,7 +13330,7 @@ height: 150
 {
 id: "2595",
 name_ro: 'Liceul Teoretic “Cezar Radu"',
-keywords: 'Liceul Teoretic “Cezar Radu"',
+keywords: 'liceul teoretic “cezar radu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1683",
@@ -13347,7 +13347,7 @@ height: 150
 {
 id: "2596",
 name_ro: 'Gimnaziul Internat Cărpineni',
-keywords: 'Gimnaziul Internat Cărpineni',
+keywords: 'gimnaziul internat carpineni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1676",
@@ -13364,7 +13364,7 @@ height: 150
 {
 id: "2597",
 name_ro: 'Gimnaziul Sofia',
-keywords: 'Gimnaziul Sofia',
+keywords: 'gimnaziul sofia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1684",
@@ -13381,7 +13381,7 @@ height: 150
 {
 id: "2598",
 name_ro: 'Şcoala Primară Mingir',
-keywords: 'Şcoala Primară Mingir',
+keywords: 'scoala primara mingir',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1673",
@@ -13398,7 +13398,7 @@ height: 150
 {
 id: "2599",
 name_ro: 'Gimnaziul Paşcani',
-keywords: 'Gimnaziul Paşcani',
+keywords: 'gimnaziul pascani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1685",
@@ -13415,7 +13415,7 @@ height: 150
 {
 id: "2600",
 name_ro: 'Gimnaziul Pereni',
-keywords: 'Gimnaziul Pereni',
+keywords: 'gimnaziul pereni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1686",
@@ -13432,7 +13432,7 @@ height: 150
 {
 id: "2601",
 name_ro: 'Liceul Teoretic "M. Sadoveanu"',
-keywords: 'Highschool M. Sadoveanu Chisinau',
+keywords: 'highschool m. sadoveanu chisinau',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1667",
@@ -13449,7 +13449,7 @@ height: 150
 {
 id: "2602",
 name_ro: 'Liceul Teoretic "M. Eminescu"',
-keywords: 'Liceul Teoretic "M. Eminescu"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1667",
@@ -13466,7 +13466,7 @@ height: 150
 {
 id: "2603",
 name_ro: 'Gimnaziul Sărăteni',
-keywords: 'Gimnaziul Sărăteni',
+keywords: 'gimnaziul sarateni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1687",
@@ -13483,7 +13483,7 @@ height: 150
 {
 id: "2604",
 name_ro: 'Gimnaziul Horjeşti',
-keywords: 'Gimnaziul Horjeşti',
+keywords: 'gimnaziul horjesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1688",
@@ -13500,7 +13500,7 @@ height: 150
 {
 id: "2605",
 name_ro: 'Gimnaziul Dancu',
-keywords: 'Gimnaziul Dancu',
+keywords: 'gimnaziul dancu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1689",
@@ -13517,7 +13517,7 @@ height: 150
 {
 id: "2606",
 name_ro: 'Gimnaziul Voinescu',
-keywords: 'Gimnaziul Voinescu',
+keywords: 'gimnaziul voinescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1690",
@@ -13534,7 +13534,7 @@ height: 150
 {
 id: "2607",
 name_ro: 'Liceul Teoretic "Universum"',
-keywords: 'Liceul Teoretic "Universum"',
+keywords: 'liceul teoretic universum',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1691",
@@ -13551,7 +13551,7 @@ height: 150
 {
 id: "2608",
 name_ro: 'Gimnaziul Tălăieşti',
-keywords: 'Gimnaziul Tălăieşti',
+keywords: 'gimnaziul talaiesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1692",
@@ -13568,7 +13568,7 @@ height: 150
 {
 id: "2609",
 name_ro: 'Liceul Teoretic Bobeica',
-keywords: 'Liceul Teoretic Bobeica',
+keywords: 'liceul teoretic bobeica',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1693",
@@ -13585,7 +13585,7 @@ height: 150
 {
 id: "2610",
 name_ro: 'Gimnaziul Cărpineni Nr.3',
-keywords: 'Gimnaziul Cărpineni Nr.3',
+keywords: 'gimnaziul carpineni nr.3',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1676",
@@ -13602,7 +13602,7 @@ height: 150
 {
 id: "2611",
 name_ro: 'Gimnaziul Negrea',
-keywords: 'Gimnaziul Negrea',
+keywords: 'gimnaziul negrea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1694",
@@ -13619,7 +13619,7 @@ height: 150
 {
 id: "2612",
 name_ro: 'Gimnaziul Cărpineni Nr.2',
-keywords: 'Gimnaziul Cărpineni Nr.2',
+keywords: 'gimnaziul carpineni nr.2',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1676",
@@ -13636,7 +13636,7 @@ height: 150
 {
 id: "2613",
 name_ro: 'Gimnaziul Secăreni',
-keywords: 'Gimnaziul Secăreni',
+keywords: 'gimnaziul secareni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1695",
@@ -13653,7 +13653,7 @@ height: 150
 {
 id: "2614",
 name_ro: 'Şcoala Medie Buţeni',
-keywords: 'Şcoala Medie Buţeni',
+keywords: 'scoala medie buteni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1696",
@@ -13670,7 +13670,7 @@ height: 150
 {
 id: "2615",
 name_ro: 'Gimnaziul Drăguşenii-Noi',
-keywords: 'Gimnaziul Drăguşenii-Noi',
+keywords: 'gimnaziul dragusenii-noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1697",
@@ -13687,7 +13687,7 @@ height: 150
 {
 id: "2616",
 name_ro: 'Gimnaziul Fîrlădeni',
-keywords: 'Gimnaziul Fîrlădeni',
+keywords: 'gimnaziul firladeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1698",
@@ -13704,7 +13704,7 @@ height: 150
 {
 id: "2617",
 name_ro: 'Liceul Teoretic "S.Andreev"',
-keywords: 'Liceul Teoretic "S.Andreev"',
+keywords: 'liceul teoretic s.andreev',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1699",
@@ -13721,7 +13721,7 @@ height: 150
 {
 id: "2618",
 name_ro: 'Gimnaziul Mireşti',
-keywords: 'Gimnaziul Mireşti',
+keywords: 'gimnaziul miresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1700",
@@ -13738,7 +13738,7 @@ height: 150
 {
 id: "2619",
 name_ro: 'Gimnaziul Oneşti',
-keywords: 'Gimnaziul Oneşti',
+keywords: 'gimnaziul onesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1701",
@@ -13755,7 +13755,7 @@ height: 150
 {
 id: "2620",
 name_ro: 'Gimnaziul Obileni',
-keywords: 'Gimnaziul Obileni',
+keywords: 'gimnaziul obileni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1702",
@@ -13772,7 +13772,7 @@ height: 150
 {
 id: "2621",
 name_ro: 'Gimnaziul Pogăneşti',
-keywords: 'Gimnaziul Pogăneşti',
+keywords: 'gimnaziul poganesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1703",
@@ -13789,7 +13789,7 @@ height: 150
 {
 id: "2622",
 name_ro: 'Gimnaziul Sărata-Mereşeni',
-keywords: 'Gimnaziul Sărata-Mereşeni',
+keywords: 'gimnaziul sarata-mereseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1704",
@@ -13806,7 +13806,7 @@ height: 150
 {
 id: "2623",
 name_ro: 'Gimnaziul Şipoteni',
-keywords: 'Gimnaziul Şipoteni',
+keywords: 'gimnaziul sipoteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1705",
@@ -13823,7 +13823,7 @@ height: 150
 {
 id: "2624",
 name_ro: 'Şcoala-internat auxiliară Sărata-Galbenă',
-keywords: 'Şcoala-internat auxiliară Sărata-Galbenă',
+keywords: 'scoala-internat auxiliara sarata-galbena',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1691",
@@ -13840,7 +13840,7 @@ height: 150
 {
 id: "2625",
 name_ro: 'Gimnaziul Călmăţui',
-keywords: 'Gimnaziul Călmăţui',
+keywords: 'gimnaziul calmatui',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1706",
@@ -13857,7 +13857,7 @@ height: 150
 {
 id: "2626",
 name_ro: 'Gimnaziul "Ksenia Evteeva"',
-keywords: 'Gimnaziul „Ksenia Evteeva”',
+keywords: 'gimnaziul „ksenia evteeva”',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1707",
@@ -13874,7 +13874,7 @@ height: 150
 {
 id: "2627",
 name_ro: 'Şcoala Medie Cărbuna',
-keywords: 'Şcoala Medie Cărbuna',
+keywords: 'scoala medie carbuna',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1708",
@@ -13891,7 +13891,7 @@ height: 150
 {
 id: "2628",
 name_ro: 'Liceul Teoretic "Ion Suruceanu" Suruceni',
-keywords: 'Liceul Teoretic "Ion Suruceanu" Suruceni',
+keywords: 'liceul teoretic ion suruceanu suruceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1709",
@@ -13908,7 +13908,7 @@ height: 150
 {
 id: "2629",
 name_ro: 'Liceul Teoretic Moleşti',
-keywords: 'Liceul Teoretic Moleşti',
+keywords: 'liceul teoretic molesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1710",
@@ -13925,7 +13925,7 @@ height: 150
 {
 id: "2630",
 name_ro: 'Liceul teoretic Mihai Eminescu Ulmu',
-keywords: 'Liceul teoretic Mihai Eminescu Ulmu',
+keywords: 'liceul teoretic mihai eminescu ulmu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1711",
@@ -13942,7 +13942,7 @@ height: 150
 {
 id: "2631",
 name_ro: 'Gimnaziul Gangura',
-keywords: 'Gimnaziul Gangura',
+keywords: 'gimnaziul gangura',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1712",
@@ -13959,7 +13959,7 @@ height: 150
 {
 id: "2632",
 name_ro: 'Gimnaziul Dănceni',
-keywords: 'Gimnaziul Dănceni',
+keywords: 'gimnaziul danceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1713",
@@ -13976,7 +13976,7 @@ height: 150
 {
 id: "2633",
 name_ro: 'Gimnaziul Misovca',
-keywords: 'Gimnaziul Misovca',
+keywords: 'gimnaziul misovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1714",
@@ -13993,7 +13993,7 @@ height: 150
 {
 id: "2634",
 name_ro: 'Şcoala Medie Cigîrleni',
-keywords: 'Şcoala Medie Cigîrleni',
+keywords: 'scoala medie cigirleni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1715",
@@ -14010,7 +14010,7 @@ height: 150
 {
 id: "2635",
 name_ro: 'Liceul Teoretic Dmitrii Cantemir Văsieni',
-keywords: 'Liceul Teoretic Dmitrii Cantemir Văsieni',
+keywords: 'liceul teoretic dmitrii cantemir vasieni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1716",
@@ -14027,7 +14027,7 @@ height: 150
 {
 id: "2636",
 name_ro: 'Liceul teoretic Ana Muntean Ialoveni',
-keywords: 'Liceul teoretic Ana Muntean Ialoveni',
+keywords: 'liceul teoretic ana muntean ialoveni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1717",
@@ -14044,7 +14044,7 @@ height: 150
 {
 id: "2637",
 name_ro: 'Gimnaziul Horodca',
-keywords: 'Gimnaziul Horodca',
+keywords: 'gimnaziul horodca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1718",
@@ -14061,7 +14061,7 @@ height: 150
 {
 id: "2638",
 name_ro: 'Gimnaziul Văsieni',
-keywords: 'Gimnaziul Văsieni',
+keywords: 'gimnaziul vasieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1716",
@@ -14078,7 +14078,7 @@ height: 150
 {
 id: "2639",
 name_ro: 'Gimnaziul Văratic',
-keywords: 'Gimnaziul Văratic',
+keywords: 'gimnaziul varatic',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1719",
@@ -14095,7 +14095,7 @@ height: 150
 {
 id: "2640",
 name_ro: 'Gimnaziul Sociteni',
-keywords: 'Gimnaziul Sociteni',
+keywords: 'gimnaziul sociteni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1720",
@@ -14112,7 +14112,7 @@ height: 150
 {
 id: "2641",
 name_ro: 'Gimnaziul Pojoreni',
-keywords: 'Gimnaziul Pojoreni',
+keywords: 'gimnaziul pojoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1721",
@@ -14129,7 +14129,7 @@ height: 150
 {
 id: "2642",
 name_ro: 'Gimnaziul Malcoci',
-keywords: 'Gimnaziul Malcoci',
+keywords: 'gimnaziul malcoci',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1722",
@@ -14146,7 +14146,7 @@ height: 150
 {
 id: "2643",
 name_ro: 'Şcoala Primară Piatra Albă',
-keywords: 'Şcoala Primară Piatra Albă',
+keywords: 'scoala primara piatra alba',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1723",
@@ -14163,7 +14163,7 @@ height: 150
 {
 id: "2644",
 name_ro: 'Liceul Teoretic "Aurel David" Bardar',
-keywords: 'Liceul Teoretic "Aurel David" Bardar',
+keywords: 'liceul teoretic aurel david bardar',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1724",
@@ -14180,7 +14180,7 @@ height: 150
 {
 id: "2645",
 name_ro: 'Liceul Teoretic Horeşti',
-keywords: 'Liceul Teoretic Horeşti',
+keywords: 'liceul teoretic horesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1725",
@@ -14197,7 +14197,7 @@ height: 150
 {
 id: "2646",
 name_ro: 'Liceul Teoretic Costeşti',
-keywords: 'Liceul Teoretic Costeşti',
+keywords: 'liceul teoretic costesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1726",
@@ -14214,7 +14214,7 @@ height: 150
 {
 id: "2647",
 name_ro: 'Liceul Teoretic "Olymp" Costeşti',
-keywords: 'Liceul Teoretic "Olymp" Costeşti',
+keywords: 'liceul teoretic olymp costesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1726",
@@ -14231,7 +14231,7 @@ height: 150
 {
 id: "2648",
 name_ro: 'Cimnaziul Mileştii Noi',
-keywords: 'Cimnaziul Mileştii Noi',
+keywords: 'cimnaziul milestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1727",
@@ -14248,7 +14248,7 @@ height: 150
 {
 id: "2649",
 name_ro: 'Gimnaziul Ialoveni',
-keywords: 'Gimnaziul Ialoveni',
+keywords: 'gimnaziul ialoveni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1717",
@@ -14265,7 +14265,7 @@ height: 150
 {
 id: "2650",
 name_ro: 'Liceul Teoretic Ţipala',
-keywords: 'Liceul Teoretic Ţipala',
+keywords: 'liceul teoretic tipala',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1728",
@@ -14282,7 +14282,7 @@ height: 150
 {
 id: "2651",
 name_ro: 'Gimnaziul Costeşti',
-keywords: 'Gimnaziul Costeşti',
+keywords: 'gimnaziul costesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1726",
@@ -14299,7 +14299,7 @@ height: 150
 {
 id: "2652",
 name_ro: 'Liceul Teoretic "Petre Ştefănucă" Ialoveni',
-keywords: 'Liceul Teoretic "Petre ?tefănucă" Ialoveni',
+keywords: 'liceul teoretic petre ?tefanuca ialoveni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1717",
@@ -14316,7 +14316,7 @@ height: 150
 {
 id: "2653",
 name_ro: 'Şcoala Primară Ruseştii Vechi',
-keywords: 'Şcoala Primară Ruseştii Vechi',
+keywords: 'scoala primara rusestii vechi',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1729",
@@ -14333,7 +14333,7 @@ height: 150
 {
 id: "2654",
 name_ro: 'Şcoala Primară "Ion Creangă" Ialoveni',
-keywords: 'Şcoala Primară "Ion Creangă" Ialoveni',
+keywords: 'scoala primara ion creanga ialoveni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1717",
@@ -14350,7 +14350,7 @@ height: 150
 {
 id: "2655",
 name_ro: 'Liceul Teoretic "Mihai Bîrcă" Mileştii Mici',
-keywords: 'Liceul Teoretic "Mihai Bîrcă" Mileştii Mici',
+keywords: 'liceul teoretic mihai birca milestii mici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1730",
@@ -14367,7 +14367,7 @@ height: 150
 {
 id: "2656",
 name_ro: 'Liceul Teoretic Ruseştii Noi',
-keywords: 'Liceul Teoretic Ruseştii Noi',
+keywords: 'liceul teoretic rusestii noi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1731",
@@ -14384,7 +14384,7 @@ height: 150
 {
 id: "2657",
 name_ro: 'Liceul Teoretic Răzeni',
-keywords: 'Liceul Teoretic Răzeni',
+keywords: 'liceul teoretic razeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1732",
@@ -14401,7 +14401,7 @@ height: 150
 {
 id: "2658",
 name_ro: 'Liceul Teoretic Zîmbreni',
-keywords: 'Liceul Teoretic Zîmbreni',
+keywords: 'liceul teoretic zimbreni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1725",
@@ -14418,7 +14418,7 @@ height: 150
 {
 id: "2659",
 name_ro: 'Gimnaziul Hansca',
-keywords: 'Gimnaziul Hansca',
+keywords: 'gimnaziul hansca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1733",
@@ -14435,7 +14435,7 @@ height: 150
 {
 id: "2660",
 name_ro: 'Liceul Teoretic Puhoi',
-keywords: 'Liceul Teoretic Puhoi',
+keywords: 'liceul teoretic puhoi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1734",
@@ -14452,7 +14452,7 @@ height: 150
 {
 id: "2661",
 name_ro: 'Gimnaziul Nimoreni',
-keywords: 'Gimnaziul Nimoreni',
+keywords: 'gimnaziul nimoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1735",
@@ -14469,7 +14469,7 @@ height: 150
 {
 id: "2662",
 name_ro: 'Constantin Spataru',
-keywords: '"Constantin Spataru"',
+keywords: ' constantin spataru',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1736",
@@ -14486,7 +14486,7 @@ height: 150
 {
 id: "2663",
 name_ro: 'Şcoala medie Tigheci',
-keywords: 'Şcoala medie Tigheci',
+keywords: 'scoala medie tigheci',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1737",
@@ -14503,7 +14503,7 @@ height: 150
 {
 id: "2664",
 name_ro: 'Gimnaziu Tochile-Raducani',
-keywords: 'Gimnaziu Tochile-Raducani',
+keywords: 'gimnaziu tochile-raducani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1738",
@@ -14520,7 +14520,7 @@ height: 150
 {
 id: "2665",
 name_ro: 'gimnaziul Saratica Veche',
-keywords: 'gimnaziul Saratica Veche',
+keywords: 'gimnaziul saratica veche',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1739",
@@ -14537,7 +14537,7 @@ height: 150
 {
 id: "2666",
 name_ro: 'L.Tolstoi',
-keywords: '"L.Tolstoi"',
+keywords: ' l.tolstoi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1736",
@@ -14554,7 +14554,7 @@ height: 150
 {
 id: "2667",
 name_ro: 'gimnaziul Tomaiul Nou',
-keywords: 'gimnaziul Tomaiul Nou',
+keywords: 'gimnaziul tomaiul nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1740",
@@ -14571,7 +14571,7 @@ height: 150
 {
 id: "2668",
 name_ro: 'gimnaziul Sarateni',
-keywords: 'gimnaziul Sarateni',
+keywords: 'gimnaziul sarateni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1741",
@@ -14588,7 +14588,7 @@ height: 150
 {
 id: "2669",
 name_ro: 'gimnaziul Sirma',
-keywords: 'gimnaziul Sirma',
+keywords: 'gimnaziul sirma',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1742",
@@ -14605,7 +14605,7 @@ height: 150
 {
 id: "2670",
 name_ro: 'scoala medie Colibabovca',
-keywords: 'scoala medie Colibabovca',
+keywords: 'scoala medie colibabovca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1743",
@@ -14622,7 +14622,7 @@ height: 150
 {
 id: "2671",
 name_ro: 'gimnaziul Sarata-Rezesi',
-keywords: 'gimnaziul Sarata-Rezesi',
+keywords: 'gimnaziul sarata-rezesi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1744",
@@ -14639,7 +14639,7 @@ height: 150
 {
 id: "2672",
 name_ro: 'Şcoala medie Iargara',
-keywords: 'Şcoala medie Iargara',
+keywords: 'scoala medie iargara',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1745",
@@ -14656,7 +14656,7 @@ height: 150
 {
 id: "2673",
 name_ro: 'Gimnaziul Orac',
-keywords: 'Gimnaziul Orac',
+keywords: 'gimnaziul orac',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1746",
@@ -14673,7 +14673,7 @@ height: 150
 {
 id: "2674",
 name_ro: 'Mihai Eminescu',
-keywords: '"Mihai Eminescu"',
+keywords: ' mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1736",
@@ -14690,7 +14690,7 @@ height: 150
 {
 id: "2675",
 name_ro: 'Mihai Viteazul',
-keywords: '"Mihai Viteazul"',
+keywords: ' mihai viteazul',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1747",
@@ -14707,7 +14707,7 @@ height: 150
 {
 id: "2676",
 name_ro: 'Gimnaziu Cupcui',
-keywords: 'Gimnaziu Cupcui',
+keywords: 'gimnaziu cupcui',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1748",
@@ -14724,7 +14724,7 @@ height: 150
 {
 id: "2677",
 name_ro: 'Gimnaziul Băiuş',
-keywords: 'Gimnaziul Băiuş',
+keywords: 'gimnaziul baius',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1749",
@@ -14741,7 +14741,7 @@ height: 150
 {
 id: "2678",
 name_ro: 'Gimnaziul Beştemac',
-keywords: '"Gimnaziul Beştemac"',
+keywords: ' gimnaziul bestemac',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1750",
@@ -14758,7 +14758,7 @@ height: 150
 {
 id: "2679",
 name_ro: 'gimnaziul Troita',
-keywords: 'gimnaziul Troita',
+keywords: 'gimnaziul troita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1751",
@@ -14775,7 +14775,7 @@ height: 150
 {
 id: "2680",
 name_ro: 'gimnaziul-internat Leova',
-keywords: 'gimnaziul-internat Leova',
+keywords: 'gimnaziul-internat leova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1736",
@@ -14792,7 +14792,7 @@ height: 150
 {
 id: "2681",
 name_ro: 'gimnaziul Ceadir',
-keywords: 'gimnaziul Ceadir',
+keywords: 'gimnaziul ceadir',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1752",
@@ -14809,7 +14809,7 @@ height: 150
 {
 id: "2682",
 name_ro: 'gimnaziul Vozneseni',
-keywords: 'gimnaziul Vozneseni',
+keywords: 'gimnaziul vozneseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1753",
@@ -14826,7 +14826,7 @@ height: 150
 {
 id: "2683",
 name_ro: 'Scoala Auxiliară-Internat',
-keywords: 'Scoala Auxiliară-Internat',
+keywords: 'scoala auxiliara-internat',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1754",
@@ -14843,7 +14843,7 @@ height: 150
 {
 id: "2684",
 name_ro: 'Gimnaziul Borogani',
-keywords: 'Gimnaziul Borogani',
+keywords: 'gimnaziul borogani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1755",
@@ -14860,7 +14860,7 @@ height: 150
 {
 id: "2685",
 name_ro: 'gimnaziul Covurlui',
-keywords: 'gimnaziul Covurlui',
+keywords: 'gimnaziul covurlui',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1756",
@@ -14877,7 +14877,7 @@ height: 150
 {
 id: "2686",
 name_ro: 'Şcoala medie Borogani',
-keywords: 'Şcoala medie Borogani',
+keywords: 'scoala medie borogani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1755",
@@ -14894,7 +14894,7 @@ height: 150
 {
 id: "2687",
 name_ro: 'scoala medie Cneazevca',
-keywords: 'scoala medie Cneazevca',
+keywords: 'scoala medie cneazevca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1757",
@@ -14911,7 +14911,7 @@ height: 150
 {
 id: "2688",
 name_ro: 'scoala primara Romanovca',
-keywords: 'scoala primara Romanovca',
+keywords: 'scoala primara romanovca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1758",
@@ -14928,7 +14928,7 @@ height: 150
 {
 id: "2689",
 name_ro: 'Lucian Blaga',
-keywords: '" Lucian Blaga "',
+keywords: ' lucian blaga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1745",
@@ -14945,7 +14945,7 @@ height: 150
 {
 id: "2690",
 name_ro: 'scoala medie Filipeni',
-keywords: 'scoala medie Filipeni',
+keywords: 'scoala medie filipeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1759",
@@ -14962,7 +14962,7 @@ height: 150
 {
 id: "2691",
 name_ro: 'scoala medie Sarata Noua',
-keywords: 'scoala medie Sarata Noua',
+keywords: 'scoala medie sarata noua',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1754",
@@ -14979,7 +14979,7 @@ height: 150
 {
 id: "2692",
 name_ro: 'Scoala Medie Tomai',
-keywords: 'Scoala Medie Tomai',
+keywords: 'scoala medie tomai',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1760",
@@ -14996,7 +14996,7 @@ height: 150
 {
 id: "2693",
 name_ro: 'Gimnaziu Saratica Noua',
-keywords: 'Gimnaziu Saratica Noua',
+keywords: 'gimnaziu saratica noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1761",
@@ -15013,7 +15013,7 @@ height: 150
 {
 id: "2694",
 name_ro: 'gimnaziul Hanasenii Noi',
-keywords: 'gimnaziul Hanasenii Noi',
+keywords: 'gimnaziul hanasenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1762",
@@ -15030,7 +15030,7 @@ height: 150
 {
 id: "2695",
 name_ro: 'Dimitrie Cantemir',
-keywords: '"Dimitrie Cantemir"',
+keywords: ' dimitrie cantemir',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1736",
@@ -15047,7 +15047,7 @@ height: 150
 {
 id: "2696",
 name_ro: 'Liceu Teoretic Milesti',
-keywords: 'Liceu Teoretic Milesti',
+keywords: 'liceu teoretic milesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1763",
@@ -15064,7 +15064,7 @@ height: 150
 {
 id: "2697",
 name_ro: 'Liceul Teoretic "Boris Cazacu"',
-keywords: 'Liceul Teoretic "Boris Cazacu"',
+keywords: 'liceul teoretic boris cazacu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1764",
@@ -15081,7 +15081,7 @@ height: 150
 {
 id: "2698",
 name_ro: 'Liceul Teoretic "Ştefan cel Mare"',
-keywords: 'Liceul Teoretic "Ştefan cel Mare"',
+keywords: 'liceul teoretic stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1764",
@@ -15098,7 +15098,7 @@ height: 150
 {
 id: "2699",
 name_ro: 'Gimnaziul Valea-Trestieni',
-keywords: 'Gimnaziul Valea-Trestieni',
+keywords: 'gimnaziul valea-trestieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1765",
@@ -15115,7 +15115,7 @@ height: 150
 {
 id: "2700",
 name_ro: 'Gimnaziul Vînători',
-keywords: 'Gimnaziul Vînători',
+keywords: 'gimnaziul vinatori',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1766",
@@ -15132,7 +15132,7 @@ height: 150
 {
 id: "2701",
 name_ro: 'Gimnaziul Vulcăneşti',
-keywords: 'Gimnaziul Vulcăneşti',
+keywords: 'gimnaziul vulcanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1767",
@@ -15149,7 +15149,7 @@ height: 150
 {
 id: "2702",
 name_ro: 'Gimnaziul Zberoaia',
-keywords: 'Gimnaziul Zberoaia',
+keywords: 'gimnaziul zberoaia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1768",
@@ -15166,7 +15166,7 @@ height: 150
 {
 id: "2703",
 name_ro: 'Gimnaziul "Mihai Eminescu"',
-keywords: 'Gimnaziul "Mihai Eminescu"',
+keywords: 'gimnaziul mihai eminescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1764",
@@ -15183,7 +15183,7 @@ height: 150
 {
 id: "2704",
 name_ro: 'Gimnaziul Marinici',
-keywords: 'Gimnaziul Marinici',
+keywords: 'gimnaziul marinici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1769",
@@ -15200,7 +15200,7 @@ height: 150
 {
 id: "2705",
 name_ro: 'Liceul Teoretic Selişte',
-keywords: 'Liceul Teoretic Selişte',
+keywords: 'liceul teoretic seliste',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1770",
@@ -15217,7 +15217,7 @@ height: 150
 {
 id: "2706",
 name_ro: 'Gimnaziul Şendreni',
-keywords: 'Gimnaziul Şendreni',
+keywords: 'gimnaziul sendreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1771",
@@ -15234,7 +15234,7 @@ height: 150
 {
 id: "2707",
 name_ro: 'Gimnaziul "Ion Creanga"',
-keywords: 'Gimnaziul "Ion Creanga"',
+keywords: 'gimnaziul ion creanga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1772",
@@ -15251,7 +15251,7 @@ height: 150
 {
 id: "2708",
 name_ro: 'Şcoala primară-gradinita Nisporeni',
-keywords: 'Şcoala primară-gradinita Nisporeni',
+keywords: 'scoala primara-gradinita nisporeni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1764",
@@ -15268,7 +15268,7 @@ height: 150
 {
 id: "2709",
 name_ro: 'Gimnaziul Bărboieni',
-keywords: 'Gimnaziul Bărboieni',
+keywords: 'gimnaziul barboieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1773",
@@ -15285,7 +15285,7 @@ height: 150
 {
 id: "2710",
 name_ro: 'Gimnaziul Isăicani',
-keywords: 'Gimnaziul Isăicani',
+keywords: 'gimnaziul isaicani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1774",
@@ -15302,7 +15302,7 @@ height: 150
 {
 id: "2711",
 name_ro: 'Gimnaziul Cristeşti',
-keywords: 'Gimnaziul Cristeşti',
+keywords: 'gimnaziul cristesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1775",
@@ -15319,7 +15319,7 @@ height: 150
 {
 id: "2712",
 name_ro: 'Gimnaziul Bălăneşti',
-keywords: 'Gimnaziul Bălăneşti',
+keywords: 'gimnaziul balanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1776",
@@ -15336,7 +15336,7 @@ height: 150
 {
 id: "2713",
 name_ro: 'Gimnaziul Bolţun',
-keywords: 'Gimnaziul Bolţun',
+keywords: 'gimnaziul boltun',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1777",
@@ -15353,7 +15353,7 @@ height: 150
 {
 id: "2714",
 name_ro: 'Gimnaziul Bursuc',
-keywords: 'Gimnaziul Bursuc',
+keywords: 'gimnaziul bursuc',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1778",
@@ -15370,7 +15370,7 @@ height: 150
 {
 id: "2715",
 name_ro: 'Gimnaziul Brătuleni',
-keywords: 'Gimnaziul Brătuleni',
+keywords: 'gimnaziul bratuleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1779",
@@ -15387,7 +15387,7 @@ height: 150
 {
 id: "2716",
 name_ro: 'Gimnaziul Călimăneşti',
-keywords: 'Gimnaziul Călimăneşti',
+keywords: 'gimnaziul calimanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1780",
@@ -15404,7 +15404,7 @@ height: 150
 {
 id: "2717",
 name_ro: 'Gimnaziul Ciuteşti',
-keywords: 'Gimnaziul Ciuteşti',
+keywords: 'gimnaziul ciutesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1781",
@@ -15421,7 +15421,7 @@ height: 150
 {
 id: "2718",
 name_ro: 'Gimnaziul Cîrneşti',
-keywords: 'Gimnaziul Cîrneşti',
+keywords: 'gimnaziul cirnesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1782",
@@ -15438,7 +15438,7 @@ height: 150
 {
 id: "2719",
 name_ro: 'Gimnaziul Vărzăreşti',
-keywords: 'Gimnaziul Vărzăreşti',
+keywords: 'gimnaziul varzaresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1783",
@@ -15455,7 +15455,7 @@ height: 150
 {
 id: "2720",
 name_ro: 'Gimnaziul Găureni',
-keywords: 'Gimnaziul Găureni',
+keywords: 'gimnaziul gaureni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1784",
@@ -15472,7 +15472,7 @@ height: 150
 {
 id: "2721",
 name_ro: 'Liceul Teoretic "Mircea Eliade"',
-keywords: 'Liceul Teoretic "Mircea Eliade"',
+keywords: 'liceul teoretic mircea eliade',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1764",
@@ -15489,7 +15489,7 @@ height: 150
 {
 id: "2722",
 name_ro: 'Gimnaziul Băcşeni',
-keywords: 'Gimnaziul Băcşeni',
+keywords: 'gimnaziul bacseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1785",
@@ -15506,7 +15506,7 @@ height: 150
 {
 id: "2723",
 name_ro: 'Liceul Teoretic Bălăureşti',
-keywords: 'Liceul Teoretic Bălăureşti',
+keywords: 'liceul teoretic balauresti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1786",
@@ -15523,7 +15523,7 @@ height: 150
 {
 id: "2724",
 name_ro: 'Liceul Teoretic "Grigore Vieru"',
-keywords: 'Liceul Teoretic "Grigore Vieru"',
+keywords: 'liceul teoretic grigore vieru',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1787",
@@ -15540,7 +15540,7 @@ height: 150
 {
 id: "2725",
 name_ro: 'Liceul Teoretic "Alexandru cel Bun"',
-keywords: 'Liceul Teoretic "Alexandru cel Bun"',
+keywords: 'liceul teoretic alexandru cel bun',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1783",
@@ -15557,7 +15557,7 @@ height: 150
 {
 id: "2726",
 name_ro: 'Liceul Teoretic "Valeriu Bulicanu"',
-keywords: 'Liceul Teoretic "Valeriu Bulicanu"',
+keywords: 'liceul teoretic valeriu bulicanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1788",
@@ -15574,7 +15574,7 @@ height: 150
 {
 id: "2727",
 name_ro: 'Gimnaziul Şişcani',
-keywords: 'Gimnaziul Şişcani',
+keywords: 'gimnaziul siscani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1789",
@@ -15591,7 +15591,7 @@ height: 150
 {
 id: "2728",
 name_ro: 'Gimnaziul "V.Dumbravă"',
-keywords: 'Gimnaziul "V.Dumbravă"',
+keywords: 'gimnaziul v.dumbrava',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1790",
@@ -15608,7 +15608,7 @@ height: 150
 {
 id: "2729",
 name_ro: 'Şcoala Auxiliară',
-keywords: 'Şcoala Auxiliară',
+keywords: 'scoala auxiliara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1764",
@@ -15625,7 +15625,7 @@ height: 150
 {
 id: "2730",
 name_ro: 'Liceul Teoretic "Prometeu"',
-keywords: 'Liceul Teoretic "Prometeu"',
+keywords: 'liceul teoretic prometeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1791",
@@ -15642,7 +15642,7 @@ height: 150
 {
 id: "2731",
 name_ro: 'gimnaziul Verejeni',
-keywords: 'gimnaziul Verejeni',
+keywords: 'gimnaziul verejeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1792",
@@ -15659,7 +15659,7 @@ height: 150
 {
 id: "2732",
 name_ro: 'gimnaziul Ocniţa',
-keywords: 'gimnaziul Ocniţa',
+keywords: 'gimnaziul ocnita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1793",
@@ -15676,7 +15676,7 @@ height: 150
 {
 id: "2733",
 name_ro: 'Liceul Teoretic "M. Eminescu"',
-keywords: 'Liceul Teoretic "M. Eminescu"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1794",
@@ -15693,7 +15693,7 @@ height: 150
 {
 id: "2734",
 name_ro: 'Gimnaziul Codreni',
-keywords: 'Gimnaziul Codreni',
+keywords: 'gimnaziul codreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1795",
@@ -15710,7 +15710,7 @@ height: 150
 {
 id: "2735",
 name_ro: 'gimnaziul Paladia',
-keywords: 'gimnaziul Paladia',
+keywords: 'gimnaziul paladia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1796",
@@ -15727,7 +15727,7 @@ height: 150
 {
 id: "2736",
 name_ro: 'gimnaziul Dîngeni',
-keywords: 'gimnaziul Dîngeni',
+keywords: 'gimnaziul dingeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1797",
@@ -15744,7 +15744,7 @@ height: 150
 {
 id: "2737",
 name_ro: 'gimnaziul Otaci',
-keywords: 'gimnaziul Otaci',
+keywords: 'gimnaziul otaci',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1794",
@@ -15761,7 +15761,7 @@ height: 150
 {
 id: "2738",
 name_ro: 'Liceul Teoretic " Ştefan cel Mare"',
-keywords: 'Liceul Teoretic " Ştefan cel Mare"',
+keywords: 'liceul teoretic stefan cel mare',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1798",
@@ -15778,7 +15778,7 @@ height: 150
 {
 id: "2739",
 name_ro: 'Liceul Teoretic Grinăuţi',
-keywords: 'Liceul Teoretic Grinăuţi',
+keywords: 'liceul teoretic grinauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1799",
@@ -15795,7 +15795,7 @@ height: 150
 {
 id: "2740",
 name_ro: 'gimnaziul Gîrbova',
-keywords: 'gimnaziul Gîrbova',
+keywords: 'gimnaziul girbova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1800",
@@ -15812,7 +15812,7 @@ height: 150
 {
 id: "2741",
 name_ro: 'Liceul Teoretic "D. Cantemir"',
-keywords: 'Liceul Teoretic "D. Cantemir"',
+keywords: 'liceul teoretic d. cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1793",
@@ -15829,7 +15829,7 @@ height: 150
 {
 id: "2742",
 name_ro: 'gimnaziul Mereşeuca',
-keywords: 'gimnaziul Mereşeuca',
+keywords: 'gimnaziul mereseuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1801",
@@ -15846,7 +15846,7 @@ height: 150
 {
 id: "2743",
 name_ro: 'gimnaziul Mihălăşeni',
-keywords: 'gimnaziul Mihălăşeni',
+keywords: 'gimnaziul mihalaseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1802",
@@ -15863,7 +15863,7 @@ height: 150
 {
 id: "2744",
 name_ro: 'gimnaziul Corestăuţi',
-keywords: 'gimnaziul Corestăuţi',
+keywords: 'gimnaziul corestauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1803",
@@ -15880,7 +15880,7 @@ height: 150
 {
 id: "2745",
 name_ro: 'gimnaziul Unguri',
-keywords: 'gimnaziul Unguri',
+keywords: 'gimnaziul unguri',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1804",
@@ -15897,7 +15897,7 @@ height: 150
 {
 id: "2746",
 name_ro: 'Liceul Teoretic Rujniţa',
-keywords: 'Liceul Teoretic Rujniţa',
+keywords: 'liceul teoretic rujnita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1805",
@@ -15914,7 +15914,7 @@ height: 150
 {
 id: "2747",
 name_ro: 'Liceul Teoretic Ocniţa',
-keywords: 'Liceul Teoretic Ocniţa',
+keywords: 'liceul teoretic ocnita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1793",
@@ -15931,7 +15931,7 @@ height: 150
 {
 id: "2748",
 name_ro: 'Şcoala Medie "P. Zadnipru"',
-keywords: 'Şcoala Medie "P. Zadnipru"',
+keywords: 'scoala medie p. zadnipru',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1806",
@@ -15948,7 +15948,7 @@ height: 150
 {
 id: "2749",
 name_ro: 'Gimnaziul Naslavcea',
-keywords: 'Gimnaziul Naslavcea',
+keywords: 'gimnaziul naslavcea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1807",
@@ -15965,7 +15965,7 @@ height: 150
 {
 id: "2750",
 name_ro: 'Gimnaziul Vălcineţ',
-keywords: 'Gimnaziul Vălcineţ',
+keywords: 'gimnaziul valcinet',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1808",
@@ -15982,7 +15982,7 @@ height: 150
 {
 id: "2751",
 name_ro: 'Liceul Teoretic "M. Sadoveanu"',
-keywords: 'Liceul Teoretic "M. Sadoveanu"',
+keywords: 'liceul teoretic m. sadoveanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1793",
@@ -15999,7 +15999,7 @@ height: 150
 {
 id: "2752",
 name_ro: 'gimnaziul Lencăuţi',
-keywords: 'gimnaziul Lencăuţi',
+keywords: 'gimnaziul lencauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1809",
@@ -16016,7 +16016,7 @@ height: 150
 {
 id: "2753",
 name_ro: 'Şcoala Medie Hădărăuţi',
-keywords: 'Şcoala Medie Hădărăuţi',
+keywords: 'scoala medie hadarauti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1810",
@@ -16033,7 +16033,7 @@ height: 150
 {
 id: "2754",
 name_ro: 'Liceul Teoretic "Em. Loteanu"',
-keywords: 'Liceul Teoretic "Em. Loteanu"',
+keywords: 'liceul teoretic em. loteanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1811",
@@ -16050,7 +16050,7 @@ height: 150
 {
 id: "2755",
 name_ro: 'Liceul Teoretic "C. Stamati"',
-keywords: 'Liceul Teoretic "C. Stamati"',
+keywords: 'liceul teoretic c. stamati',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1793",
@@ -16067,7 +16067,7 @@ height: 150
 {
 id: "2756",
 name_ro: 'gimnaziu-gradinital Frunze',
-keywords: 'gimnaziu-gradinital Frunze',
+keywords: 'gimnaziu-gradinital frunze',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1812",
@@ -16084,7 +16084,7 @@ height: 150
 {
 id: "2757",
 name_ro: 'gimnaziul Calaraşeuca',
-keywords: 'gimnaziul Calaraşeuca',
+keywords: 'gimnaziul calaraseuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1813",
@@ -16101,7 +16101,7 @@ height: 150
 {
 id: "2758",
 name_ro: 'Gimnaziul Berezouca',
-keywords: 'Gimnaziul Berezouca',
+keywords: 'gimnaziul berezouca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1814",
@@ -16118,7 +16118,7 @@ height: 150
 {
 id: "2759",
 name_ro: 'gimnaziul -grădiniţă Bîrnova',
-keywords: 'gimnaziul -grădiniţă Bîrnova',
+keywords: 'gimnaziul -gradinita birnova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1815",
@@ -16135,7 +16135,7 @@ height: 150
 {
 id: "2760",
 name_ro: 'Centrul educational Gimnaziu-gradinital "Mihai Moraru"',
-keywords: 'Centrul educational Gimnaziu-gradinital "Mihai Moraru"',
+keywords: 'centrul educational gimnaziu-gradinital mihai moraru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1816",
@@ -16152,7 +16152,7 @@ height: 150
 {
 id: "2761",
 name_ro: 'Gimnaziul Brăviceni',
-keywords: 'Gimnaziul Brăviceni',
+keywords: 'gimnaziul braviceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1817",
@@ -16169,7 +16169,7 @@ height: 150
 {
 id: "2762",
 name_ro: 'Gimnaziul Breanova',
-keywords: 'Gimnaziul Breanova',
+keywords: 'gimnaziul breanova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1818",
@@ -16186,7 +16186,7 @@ height: 150
 {
 id: "2763",
 name_ro: 'Gimnaziul Butuceni',
-keywords: 'Gimnaziul Butuceni',
+keywords: 'gimnaziul butuceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1819",
@@ -16203,7 +16203,7 @@ height: 150
 {
 id: "2764",
 name_ro: 'Gimnaziul Camencea',
-keywords: 'Gimnaziul Camencea',
+keywords: 'gimnaziul camencea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1820",
@@ -16220,7 +16220,7 @@ height: 150
 {
 id: "2765",
 name_ro: 'Gimnaziul Cişmea',
-keywords: 'Gimnaziul Cişmea',
+keywords: 'gimnaziul cismea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1821",
@@ -16237,7 +16237,7 @@ height: 150
 {
 id: "2766",
 name_ro: 'Gimnaziul Cucuruzeni',
-keywords: 'Gimnaziul Cucuruzeni',
+keywords: 'gimnaziul cucuruzeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1822",
@@ -16254,7 +16254,7 @@ height: 150
 {
 id: "2767",
 name_ro: 'Centrul Educational "Gimnaziu - gradinita" Dîşcova',
-keywords: 'Centrul Educational "Gimnaziu - gradinita" Dîşcova',
+keywords: 'centrul educational gimnaziu - gradinita discova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1823",
@@ -16271,7 +16271,7 @@ height: 150
 {
 id: "2768",
 name_ro: 'Gimnaziul Bolohan',
-keywords: 'Gimnaziul Bolohan',
+keywords: 'gimnaziul bolohan',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1824",
@@ -16288,7 +16288,7 @@ height: 150
 {
 id: "2769",
 name_ro: 'Liceul Teoretic "Vasile Lupu"',
-keywords: 'Liceul Teoretic "Vasile Lupu"',
+keywords: 'liceul teoretic vasile lupu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1825",
@@ -16305,7 +16305,7 @@ height: 150
 {
 id: "2770",
 name_ro: 'Centrul educational Gimnaziu- gradinita Cucuruzenii de Sus',
-keywords: 'Centrul educational Gimnaziu- gradinita Cucuruzenii de Sus',
+keywords: 'centrul educational gimnaziu- gradinita cucuruzenii de sus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1826",
@@ -16322,7 +16322,7 @@ height: 150
 {
 id: "2771",
 name_ro: 'Centrul Educational "Gimnaziul - gradinita" Clişova',
-keywords: 'Centrul Educational "Gimnaziul - gradinita" Clişova',
+keywords: 'centrul educational gimnaziul - gradinita clisova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1827",
@@ -16339,7 +16339,7 @@ height: 150
 {
 id: "2772",
 name_ro: 'Centrul Educational "Gimnaziul - gradinita"Berezlogi',
-keywords: 'Centrul Educational "Gimnaziul - gradinita"Berezlogi',
+keywords: 'centrul educational gimnaziul - gradinita berezlogi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1828",
@@ -16356,7 +16356,7 @@ height: 150
 {
 id: "2773",
 name_ro: 'Gimnaziul Lucaşeuca',
-keywords: 'Gimnaziul Lucaşeuca',
+keywords: 'gimnaziul lucaseuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1829",
@@ -16373,7 +16373,7 @@ height: 150
 {
 id: "2774",
 name_ro: 'Centrul eductional "Gimnaziu- gradinita" Bulăieşti',
-keywords: 'Centrul eductional "Gimnaziu- gradinita" Bulăieşti',
+keywords: 'centrul eductional gimnaziu- gradinita bulaiesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1830",
@@ -16390,7 +16390,7 @@ height: 150
 {
 id: "2775",
 name_ro: 'Şcoala Medie Pohribeni',
-keywords: 'Şcoala Medie Pohribeni',
+keywords: 'scoala medie pohribeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1831",
@@ -16407,7 +16407,7 @@ height: 150
 {
 id: "2776",
 name_ro: 'Gimnaziul Chiperceni',
-keywords: 'Gimnaziul Chiperceni',
+keywords: 'gimnaziul chiperceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1832",
@@ -16424,7 +16424,7 @@ height: 150
 {
 id: "2777",
 name_ro: 'Gimnaziul Puţintei',
-keywords: 'Gimnaziul Puţintei',
+keywords: 'gimnaziul putintei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1833",
@@ -16441,7 +16441,7 @@ height: 150
 {
 id: "2778",
 name_ro: 'Şcoala Medie Jora de Jos',
-keywords: 'Şcoala Medie Jora de Jos',
+keywords: 'scoala medie jora de jos',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1834",
@@ -16458,7 +16458,7 @@ height: 150
 {
 id: "2779",
 name_ro: 'Şcoala Medie Ghetlova',
-keywords: 'Şcoala Medie Ghetlova',
+keywords: 'scoala medie ghetlova',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1835",
@@ -16475,7 +16475,7 @@ height: 150
 {
 id: "2780",
 name_ro: 'Liceul Teoretic "Dimitrii Cantemir"',
-keywords: 'Liceul Teoretic "Dimitrii Cantemir"',
+keywords: 'liceul teoretic dimitrii cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1836",
@@ -16492,7 +16492,7 @@ height: 150
 {
 id: "2781",
 name_ro: 'Liceul Teoretic "Mihail Lomonosov"',
-keywords: 'Liceul Teoretic "Mihail Lomonosov"',
+keywords: 'liceul teoretic mihail lomonosov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1837",
@@ -16509,7 +16509,7 @@ height: 150
 {
 id: "2782",
 name_ro: 'Liceul Teoretic "Alecu Russo"',
-keywords: 'Liceul Teoretic "Alecu Russo"',
+keywords: 'liceul teoretic alecu russo',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1837",
@@ -16526,7 +16526,7 @@ height: 150
 {
 id: "2783",
 name_ro: 'Gimnaziul Niculăeuca',
-keywords: 'Gimnaziul Niculăeuca',
+keywords: 'gimnaziul niculaeuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1838",
@@ -16543,7 +16543,7 @@ height: 150
 {
 id: "2784",
 name_ro: 'Gimnaziul Donici',
-keywords: 'Gimnaziul Donici',
+keywords: 'gimnaziul donici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1839",
@@ -16560,7 +16560,7 @@ height: 150
 {
 id: "2785",
 name_ro: 'Liceul Teoretic "Alexandru Donici"',
-keywords: 'Liceul Teoretic "Alexandru Donici"',
+keywords: 'liceul teoretic alexandru donici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1840",
@@ -16577,7 +16577,7 @@ height: 150
 {
 id: "2786",
 name_ro: 'Gimnaziul Zahoreni',
-keywords: 'Gimnaziul Zahoreni',
+keywords: 'gimnaziul zahoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1841",
@@ -16594,7 +16594,7 @@ height: 150
 {
 id: "2787",
 name_ro: 'Centrul educational Gimnaziu- gradinita Sirota',
-keywords: 'Centrul educational Gimnaziu- gradinita Sirota',
+keywords: 'centrul educational gimnaziu- gradinita sirota',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1842",
@@ -16611,7 +16611,7 @@ height: 150
 {
 id: "2788",
 name_ro: 'Gimnaziul Step- Soci',
-keywords: 'Gimnaziul Step- Soci',
+keywords: 'gimnaziul step- soci',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1843",
@@ -16628,7 +16628,7 @@ height: 150
 {
 id: "2789",
 name_ro: 'Gimnaziul Şercani',
-keywords: 'Gimnaziul Şercani',
+keywords: 'gimnaziul sercani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1844",
@@ -16645,7 +16645,7 @@ height: 150
 {
 id: "2790",
 name_ro: 'Gimnaziul Tabăra',
-keywords: 'Gimnaziul Tabăra',
+keywords: 'gimnaziul tabara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1845",
@@ -16662,7 +16662,7 @@ height: 150
 {
 id: "2791",
 name_ro: 'Gimnaziul "Ion Creangă"',
-keywords: 'Gimnaziul "Ion Creangă"',
+keywords: 'gimnaziul ion creanga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1846",
@@ -16679,7 +16679,7 @@ height: 150
 {
 id: "2792",
 name_ro: 'Gimnaziul Ivancea',
-keywords: 'Gimnaziul Ivancea',
+keywords: 'gimnaziul ivancea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1847",
@@ -16696,7 +16696,7 @@ height: 150
 {
 id: "2793",
 name_ro: 'Gimnaziul Vîşcăuţi',
-keywords: 'Gimnaziul Vîşcăuţi',
+keywords: 'gimnaziul viscauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1848",
@@ -16713,7 +16713,7 @@ height: 150
 {
 id: "2794",
 name_ro: 'Gimaziul Selişte',
-keywords: 'Gimaziul Selişte',
+keywords: 'gimaziul seliste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1849",
@@ -16730,7 +16730,7 @@ height: 150
 {
 id: "2795",
 name_ro: 'Centrul educational "Gimnaziu - gradinita" Voroteţ',
-keywords: 'Centrul educational "Gimnaziu - gradinita" Voroteţ',
+keywords: 'centrul educational gimnaziu - gradinita vorotet',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1850",
@@ -16747,7 +16747,7 @@ height: 150
 {
 id: "2796",
 name_ro: 'Gimnaziul Trebijeni',
-keywords: 'Gimnaziul Trebijeni',
+keywords: 'gimnaziul trebijeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1851",
@@ -16764,7 +16764,7 @@ height: 150
 {
 id: "2797",
 name_ro: 'Gimnaziul Zorile',
-keywords: 'Gimnaziul Zorile',
+keywords: 'gimnaziul zorile',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1852",
@@ -16781,7 +16781,7 @@ height: 150
 {
 id: "2798",
 name_ro: 'Centrul educational Gimnaziu-gradinita Susleni',
-keywords: 'Centrul educational Gimnaziu-gradinita Susleni',
+keywords: 'centrul educational gimnaziu-gradinita susleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1825",
@@ -16798,7 +16798,7 @@ height: 150
 {
 id: "2799",
 name_ro: 'Şcoala Primară - gradinita Fedoreuca',
-keywords: 'Şcoala Primară - gradinita Fedoreuca',
+keywords: 'scoala primara - gradinita fedoreuca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1853",
@@ -16815,7 +16815,7 @@ height: 150
 {
 id: "2800",
 name_ro: 'Liceul Teoretic Bieşti',
-keywords: 'Liceul Teoretic Bieşti',
+keywords: 'liceul teoretic biesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1854",
@@ -16832,7 +16832,7 @@ height: 150
 {
 id: "2801",
 name_ro: 'Gimnaziul Isacova',
-keywords: 'Gimnaziul Isacova',
+keywords: 'gimnaziul isacova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1855",
@@ -16849,7 +16849,7 @@ height: 150
 {
 id: "2802",
 name_ro: 'Gimnaziul Furceni',
-keywords: 'Gimnaziul Furceni',
+keywords: 'gimnaziul furceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1856",
@@ -16866,7 +16866,7 @@ height: 150
 {
 id: "2803",
 name_ro: 'Centrul educational Gimnaziu-gradinita Mitoc',
-keywords: 'Centrul educational Gimnaziu-gradinita Mitoc',
+keywords: 'centrul educational gimnaziu-gradinita mitoc',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1857",
@@ -16883,7 +16883,7 @@ height: 150
 {
 id: "2804",
 name_ro: 'Gimnaziul Vatici',
-keywords: 'Gimnaziul Vatici',
+keywords: 'gimnaziul vatici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1858",
@@ -16900,7 +16900,7 @@ height: 150
 {
 id: "2805",
 name_ro: 'Gimnaziul internat Orhei',
-keywords: 'Gimnaziul internat Orhei',
+keywords: 'gimnaziul internat orhei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1837",
@@ -16917,7 +16917,7 @@ height: 150
 {
 id: "2806",
 name_ro: 'Gimnaziul Sămănanca',
-keywords: 'Gimnaziul Sămănanca',
+keywords: 'gimnaziul samananca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1859",
@@ -16934,7 +16934,7 @@ height: 150
 {
 id: "2807",
 name_ro: 'Centrul educational Gimnaziu-gradinita Izvoare',
-keywords: 'Centrul educational Gimnaziu-gradinita Izvoare',
+keywords: 'centrul educational gimnaziu-gradinita izvoare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1860",
@@ -16951,7 +16951,7 @@ height: 150
 {
 id: "2808",
 name_ro: 'Gimnaziul tip- sanatorial Ivancea',
-keywords: 'Gimnaziul tip- sanatorial Ivancea',
+keywords: 'gimnaziul tip- sanatorial ivancea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1847",
@@ -16968,7 +16968,7 @@ height: 150
 {
 id: "2809",
 name_ro: 'Centrul Educaţional "gimnaziu-grădiniţă Hulboaca',
-keywords: 'Centrul Educaţional "gimnaziu-grădiniţă Hulboaca',
+keywords: 'centrul educational gimnaziu-gradinita hulboaca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1861",
@@ -16985,7 +16985,7 @@ height: 150
 {
 id: "2810",
 name_ro: 'Gimnaziul Mălăieşti',
-keywords: 'Gimnaziul Mălăieşti',
+keywords: 'gimnaziul malaiesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1862",
@@ -17002,7 +17002,7 @@ height: 150
 {
 id: "2811",
 name_ro: 'Gimnaziul Mana',
-keywords: 'Gimnaziul Mana',
+keywords: 'gimnaziul mana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1863",
@@ -17019,7 +17019,7 @@ height: 150
 {
 id: "2812",
 name_ro: 'Gimnaziul Jora de Sus',
-keywords: 'Gimnaziul Jora de Sus',
+keywords: 'gimnaziul jora de sus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1864",
@@ -17036,7 +17036,7 @@ height: 150
 {
 id: "2813",
 name_ro: 'Gimnaziul Morozeni',
-keywords: 'Gimnaziul Morozeni',
+keywords: 'gimnaziul morozeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1865",
@@ -17053,7 +17053,7 @@ height: 150
 {
 id: "2814",
 name_ro: 'Gimnaziul Hîjdieni',
-keywords: 'Gimnaziul Hîjdieni',
+keywords: 'gimnaziul hijdieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1866",
@@ -17070,7 +17070,7 @@ height: 150
 {
 id: "2815",
 name_ro: 'Gimnaziul "Mihai Eminescu"',
-keywords: 'Gimnaziul "Mihai Eminescu"',
+keywords: 'gimnaziul mihai eminescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1837",
@@ -17087,7 +17087,7 @@ height: 150
 {
 id: "2816",
 name_ro: 'Gimnaziul "Ion şi Doina Aldea Teodorovici"',
-keywords: 'Gimnaziul "Ion şi Doina Aldea Teodorovici"',
+keywords: 'gimnaziul ion si doina aldea teodorovici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1837",
@@ -17104,7 +17104,7 @@ height: 150
 {
 id: "2817",
 name_ro: 'Gimnaziul nr. 6',
-keywords: 'Gimnaziul nr. 6',
+keywords: 'gimnaziul nr. 6',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1837",
@@ -17121,7 +17121,7 @@ height: 150
 {
 id: "2818",
 name_ro: 'Centrul educational "Gimnaziu - gradinita" Pohorniceni',
-keywords: 'Centrul educational "Gimnaziu - gradinita" Pohorniceni',
+keywords: 'centrul educational gimnaziu - gradinita pohorniceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1867",
@@ -17138,7 +17138,7 @@ height: 150
 {
 id: "2819",
 name_ro: 'Gimnaziul Pelivan',
-keywords: 'Gimnaziul Pelivan',
+keywords: 'gimnaziul pelivan',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1868",
@@ -17155,7 +17155,7 @@ height: 150
 {
 id: "2820",
 name_ro: 'Gimnaziul Piatra',
-keywords: 'Gimnaziul Piatra',
+keywords: 'gimnaziul piatra',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1869",
@@ -17172,7 +17172,7 @@ height: 150
 {
 id: "2821",
 name_ro: 'Centrul educational "Gimnaziu - gradinita" Podgoreni',
-keywords: 'Centrul educational "Gimnaziu - gradinita" Podgoreni',
+keywords: 'centrul educational gimnaziu - gradinita podgoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1870",
@@ -17189,7 +17189,7 @@ height: 150
 {
 id: "2822",
 name_ro: 'Centrul educational "Gimnaziu - gradinita" Mîrzeşti',
-keywords: 'Centrul educational "Gimnaziu - gradinita" Mîrzeşti',
+keywords: 'centrul educational gimnaziu - gradinita mirzesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1871",
@@ -17206,7 +17206,7 @@ height: 150
 {
 id: "2823",
 name_ro: 'Liceul Teoretic "Onisifor Ghibu"',
-keywords: 'Liceul Teoretic "Onisifor Ghibu"',
+keywords: 'liceul teoretic onisifor ghibu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1837",
@@ -17223,7 +17223,7 @@ height: 150
 {
 id: "2824",
 name_ro: 'Liceul Teoretic "Ion Luca Caragiale"',
-keywords: 'Liceul Teoretic "Ion Luca Caragiale"',
+keywords: 'liceul teoretic ion luca caragiale',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1837",
@@ -17240,7 +17240,7 @@ height: 150
 {
 id: "2825",
 name_ro: 'Tarasova',
-keywords: 'Tarasov Gymnasium',
+keywords: 'tarasov gymnasium',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1872",
@@ -17257,7 +17257,7 @@ height: 150
 {
 id: "2826",
 name_ro: 'Cinişeuţi - internat',
-keywords: 'Cinişeuţi - internat',
+keywords: 'ciniseuti - internat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1873",
@@ -17274,7 +17274,7 @@ height: 150
 {
 id: "2827",
 name_ro: 'ŞP Ţîpova',
-keywords: 'ŞP Ţîpova',
+keywords: 'sp tipova',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1874",
@@ -17291,7 +17291,7 @@ height: 150
 {
 id: "2828",
 name_ro: 'Ţareuca',
-keywords: 'Ţareuca',
+keywords: 'tareuca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1875",
@@ -17308,7 +17308,7 @@ height: 150
 {
 id: "2829",
 name_ro: 'ŞP Mincenii de Sus',
-keywords: 'ŞP Mincenii de Sus',
+keywords: 'sp mincenii de sus',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1876",
@@ -17325,7 +17325,7 @@ height: 150
 {
 id: "2830",
 name_ro: 'Cinişeuţi',
-keywords: 'Cinişeuţi',
+keywords: 'ciniseuti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1873",
@@ -17342,7 +17342,7 @@ height: 150
 {
 id: "2831",
 name_ro: 'Pecişte',
-keywords: 'Pecişte',
+keywords: 'peciste',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1877",
@@ -17359,7 +17359,7 @@ height: 150
 {
 id: "2832",
 name_ro: 'Mateuţi',
-keywords: 'Mateuţi',
+keywords: 'mateuti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1878",
@@ -17376,7 +17376,7 @@ height: 150
 {
 id: "2833",
 name_ro: 'Meşeni',
-keywords: 'Meşeni',
+keywords: 'meseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1879",
@@ -17393,7 +17393,7 @@ height: 150
 {
 id: "2834",
 name_ro: 'Pripiceni - Răzeşi',
-keywords: 'Pripiceni - Răzeşi',
+keywords: 'pripiceni - razesi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1880",
@@ -17410,7 +17410,7 @@ height: 150
 {
 id: "2835",
 name_ro: 'Păpăuţi',
-keywords: 'Păpăuţi',
+keywords: 'papauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1881",
@@ -17427,7 +17427,7 @@ height: 150
 {
 id: "2836",
 name_ro: 'Solonceni',
-keywords: 'Solonceni',
+keywords: 'solonceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1882",
@@ -17444,7 +17444,7 @@ height: 150
 {
 id: "2837",
 name_ro: 'Sîrcova',
-keywords: 'Sîrcova',
+keywords: 'sircova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1883",
@@ -17461,7 +17461,7 @@ height: 150
 {
 id: "2838",
 name_ro: 'Trifeşti',
-keywords: 'Trifeşti',
+keywords: 'trifesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1884",
@@ -17478,7 +17478,7 @@ height: 150
 {
 id: "2839",
 name_ro: 'Echimăuţi',
-keywords: 'Echimăuţi',
+keywords: 'echimauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1885",
@@ -17495,7 +17495,7 @@ height: 150
 {
 id: "2840",
 name_ro: 'Slobozia Horodişte',
-keywords: 'Slobozia Horodişte',
+keywords: 'slobozia horodiste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1886",
@@ -17512,7 +17512,7 @@ height: 150
 {
 id: "2841",
 name_ro: 'ŞP Roşcana',
-keywords: 'ŞP Roşcana',
+keywords: 'sp roscana',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1887",
@@ -17529,7 +17529,7 @@ height: 150
 {
 id: "2842",
 name_ro: 'Ţahnăuţi',
-keywords: 'Ţahnăuţi',
+keywords: 'tahnauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1888",
@@ -17546,7 +17546,7 @@ height: 150
 {
 id: "2843",
 name_ro: 'Mincenii de Jos',
-keywords: 'Mincenii de Jos',
+keywords: 'mincenii de jos',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1889",
@@ -17563,7 +17563,7 @@ height: 150
 {
 id: "2844",
 name_ro: 'Ciorna',
-keywords: 'Ciorna',
+keywords: 'ciorna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1890",
@@ -17580,7 +17580,7 @@ height: 150
 {
 id: "2845",
 name_ro: 'Gimnaziul Rezina',
-keywords: 'Gimnaziul Rezina',
+keywords: 'gimnaziul rezina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1891",
@@ -17597,7 +17597,7 @@ height: 150
 {
 id: "2846",
 name_ro: 'Saharna Veche',
-keywords: 'Saharna Veche',
+keywords: 'saharna veche',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1892",
@@ -17614,7 +17614,7 @@ height: 150
 {
 id: "2847",
 name_ro: 'Horodişte',
-keywords: 'Horodişte',
+keywords: 'horodiste',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1893",
@@ -17631,7 +17631,7 @@ height: 150
 {
 id: "2848",
 name_ro: 'Otac',
-keywords: 'Otac',
+keywords: 'otac',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1894",
@@ -17648,7 +17648,7 @@ height: 150
 {
 id: "2849",
 name_ro: 'L/T "Ion Creangă" Cuizăuca',
-keywords: 'L/T "Ion Creangă" Cuizăuca',
+keywords: 'liceul teoretic ion creanga cuizauca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1895",
@@ -17665,7 +17665,7 @@ height: 150
 {
 id: "2850",
 name_ro: 'Cogîlniceni',
-keywords: 'Cogîlniceni',
+keywords: 'cogilniceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1896",
@@ -17682,7 +17682,7 @@ height: 150
 {
 id: "2851",
 name_ro: 'Pereni',
-keywords: 'Pereni',
+keywords: 'pereni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1897",
@@ -17699,7 +17699,7 @@ height: 150
 {
 id: "2852",
 name_ro: 'Gordineşti',
-keywords: 'Gordineşti',
+keywords: 'gordinesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1898",
@@ -17716,7 +17716,7 @@ height: 150
 {
 id: "2853",
 name_ro: 'Lalova',
-keywords: 'Lalova',
+keywords: 'lalova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1899",
@@ -17733,7 +17733,7 @@ height: 150
 {
 id: "2854",
 name_ro: 'Ghiduleni',
-keywords: 'Ghiduleni',
+keywords: 'ghiduleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1900",
@@ -17750,7 +17750,7 @@ height: 150
 {
 id: "2855",
 name_ro: 'Saharna Nouă',
-keywords: 'Saharna Nouă',
+keywords: 'saharna noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1901",
@@ -17767,7 +17767,7 @@ height: 150
 {
 id: "2856",
 name_ro: 'ŞP Piscăreşti',
-keywords: 'ŞP Piscăreşti',
+keywords: 'sp piscaresti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1902",
@@ -17784,7 +17784,7 @@ height: 150
 {
 id: "2857",
 name_ro: 'L/T Ignăţei',
-keywords: 'L/T Ignăţei',
+keywords: 'liceul teoretic ignatei',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1903",
@@ -17801,7 +17801,7 @@ height: 150
 {
 id: "2858",
 name_ro: 'Buşăuca',
-keywords: 'Buşăuca',
+keywords: 'busauca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1904",
@@ -17818,7 +17818,7 @@ height: 150
 {
 id: "2859",
 name_ro: 'Lipceni',
-keywords: 'Lipceni',
+keywords: 'lipceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1905",
@@ -17835,7 +17835,7 @@ height: 150
 {
 id: "2860",
 name_ro: 'L/T"Ştefan cel Mare" Rezina',
-keywords: 'L/T"Ştefan cel Mare" Rezina',
+keywords: 'liceul teoretic stefan cel mare rezina',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1891",
@@ -17852,7 +17852,7 @@ height: 150
 {
 id: "2861",
 name_ro: 'L/T"A.S.Puşkin" Rezina',
-keywords: 'L/T"A.S.Puşkin" Rezina',
+keywords: 'liceul teoretic a.s.puskin rezina',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1891",
@@ -17869,7 +17869,7 @@ height: 150
 {
 id: "2862",
 name_ro: 'L/T "Alexandru cel Bun" Rezina',
-keywords: 'L/T "Alexandru cel Bun" Rezina',
+keywords: 'liceul teoretic alexandru cel bun rezina',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1891",
@@ -17886,7 +17886,7 @@ height: 150
 {
 id: "2863",
 name_ro: 'Buciuşca',
-keywords: 'Buciuşca',
+keywords: 'buciusca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1906",
@@ -17903,7 +17903,7 @@ height: 150
 {
 id: "2864",
 name_ro: 'Gimnaziul Mihăileni',
-keywords: 'Gimnaziul Mihăileni',
+keywords: 'gimnaziul mihaileni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1907",
@@ -17920,7 +17920,7 @@ height: 150
 {
 id: "2865",
 name_ro: 'Gimnaziul Păscăuţi',
-keywords: 'Gimnaziul Păscăuţi',
+keywords: 'gimnaziul pascauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1908",
@@ -17937,7 +17937,7 @@ height: 150
 {
 id: "2866",
 name_ro: 'Gimnaziul Duruitoarea Noua',
-keywords: 'Gimnaziul Duruitoarea Noua',
+keywords: 'gimnaziul duruitoarea noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1909",
@@ -17954,7 +17954,7 @@ height: 150
 {
 id: "2867",
 name_ro: 'Gimnaziul Petruşeni',
-keywords: 'Gimnaziul Petruşeni',
+keywords: 'gimnaziul petruseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1910",
@@ -17971,7 +17971,7 @@ height: 150
 {
 id: "2868",
 name_ro: 'Gimnaziul Moşeni',
-keywords: 'Gimnaziul Moşeni',
+keywords: 'gimnaziul moseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1911",
@@ -17988,7 +17988,7 @@ height: 150
 {
 id: "2869",
 name_ro: 'Gimn. "Aurel Scobioală" Mălăieşti',
-keywords: 'Gimn. "Aurel Scobioală" Mălăieşti',
+keywords: 'gimn. aurel scobioala malaiesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1912",
@@ -18005,7 +18005,7 @@ height: 150
 {
 id: "2870",
 name_ro: 'Şcoala Medie Aluniş',
-keywords: 'Şcoala Medie Aluniş',
+keywords: 'scoala medie alunis',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1913",
@@ -18022,7 +18022,7 @@ height: 150
 {
 id: "2871",
 name_ro: 'Şcoala Medie Hiliuţi',
-keywords: 'Şcoala Medie Hiliuţi',
+keywords: 'scoala medie hiliuti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1914",
@@ -18039,7 +18039,7 @@ height: 150
 {
 id: "2872",
 name_ro: 'Gimnaziul Grinăuţi',
-keywords: 'Gimnaziul Grinăuţi',
+keywords: 'gimnaziul grinauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1915",
@@ -18056,7 +18056,7 @@ height: 150
 {
 id: "2873",
 name_ro: 'Gimnaziul Cucuietii Vechi',
-keywords: 'Gimnaziul Cucuietii Vechi',
+keywords: 'gimnaziul cucuietii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1916",
@@ -18073,7 +18073,7 @@ height: 150
 {
 id: "2874",
 name_ro: 'Gimnaziul Ciubara',
-keywords: 'Gimnaziul Ciubara',
+keywords: 'gimnaziul ciubara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1917",
@@ -18090,7 +18090,7 @@ height: 150
 {
 id: "2875",
 name_ro: 'Liceul Teoretic Varatic',
-keywords: 'Liceul Teoretic Varatic',
+keywords: 'liceul teoretic varatic',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1918",
@@ -18107,7 +18107,7 @@ height: 150
 {
 id: "2876",
 name_ro: 'Şcoala Medie Şaptebani',
-keywords: 'Şcoala Medie Şaptebani',
+keywords: 'scoala medie saptebani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1919",
@@ -18124,7 +18124,7 @@ height: 150
 {
 id: "2877",
 name_ro: 'Liceul Teoretic Recea',
-keywords: 'Liceul Teoretic Recea',
+keywords: 'liceul teoretic recea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1920",
@@ -18141,7 +18141,7 @@ height: 150
 {
 id: "2878",
 name_ro: 'Gimn. " Valeriu Gherig" Pîrjota',
-keywords: 'Gimn. " Valeriu Gherig" Pîrjota',
+keywords: 'gimn. valeriu gherig pirjota',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1921",
@@ -18158,7 +18158,7 @@ height: 150
 {
 id: "2879",
 name_ro: 'Gimnaziul Pociumbăuţi',
-keywords: 'Gimnaziul Pociumbăuţi',
+keywords: 'gimnaziul pociumbauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1922",
@@ -18175,7 +18175,7 @@ height: 150
 {
 id: "2880",
 name_ro: 'Gimnaziul "Adela Zbîrciog" Horodişte',
-keywords: 'Gimnaziul "Adela Zbîrciog" Horodişte',
+keywords: 'gimnaziul adela zbirciog horodiste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1923",
@@ -18192,7 +18192,7 @@ height: 150
 {
 id: "2881",
 name_ro: 'Gimnaziu "Gheorghe Rîşcanu"',
-keywords: 'Gimnaziu "Gheorghe Rîşcanu"',
+keywords: 'gimnaziu gheorghe riscanu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1924",
@@ -18209,7 +18209,7 @@ height: 150
 {
 id: "2882",
 name_ro: 'Gimnaziul Singureni',
-keywords: 'Gimnaziul Singureni',
+keywords: 'gimnaziul singureni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1925",
@@ -18226,7 +18226,7 @@ height: 150
 {
 id: "2883",
 name_ro: 'Gimnaziul Sturzeni',
-keywords: 'Gimnaziul Sturzeni',
+keywords: 'gimnaziul sturzeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1926",
@@ -18243,7 +18243,7 @@ height: 150
 {
 id: "2884",
 name_ro: 'Şcoală primară-grădiniţă Sverdiac',
-keywords: 'Şcoală primară-grădiniţă Sverdiac',
+keywords: 'scoala primara-gradinita sverdiac',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1927",
@@ -18260,7 +18260,7 @@ height: 150
 {
 id: "2885",
 name_ro: 'Gimnaziul Gălăşeni',
-keywords: 'Gimnaziul Gălăşeni',
+keywords: 'gimnaziul galaseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1928",
@@ -18277,7 +18277,7 @@ height: 150
 {
 id: "2886",
 name_ro: 'Şcoala primară Uşurei',
-keywords: 'Şcoala primară Uşurei',
+keywords: 'scoala primara usurei',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1929",
@@ -18294,7 +18294,7 @@ height: 150
 {
 id: "2887",
 name_ro: 'Şcoala Auxiliară Costeşti',
-keywords: 'Şcoala Auxiliară Costeşti',
+keywords: 'scoala auxiliara costesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1930",
@@ -18311,7 +18311,7 @@ height: 150
 {
 id: "2888",
 name_ro: 'Gimnaziul Ştiubeieni',
-keywords: 'Gimnaziul Ştiubeieni',
+keywords: 'gimnaziul stiubeieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1931",
@@ -18328,7 +18328,7 @@ height: 150
 {
 id: "2889",
 name_ro: 'Gimnaziul Răcăria',
-keywords: 'Gimnaziul Răcăria',
+keywords: 'gimnaziul racaria',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1932",
@@ -18345,7 +18345,7 @@ height: 150
 {
 id: "2890",
 name_ro: 'Liceul Teoretic "Eugen Coşeriu "',
-keywords: 'Liceul Teoretic "Eugen Coşeriu "',
+keywords: 'liceul teoretic eugen coseriu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1907",
@@ -18362,7 +18362,7 @@ height: 150
 {
 id: "2891",
 name_ro: 'Gimnaziul Rămăzani',
-keywords: 'Gimnaziul Rămăzani',
+keywords: 'gimnaziul ramazani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1933",
@@ -18379,7 +18379,7 @@ height: 150
 {
 id: "2892",
 name_ro: 'Liceul Teoretic "Leonid Gherman"',
-keywords: 'Liceul Teoretic "Leonid Gherman"',
+keywords: 'liceul teoretic leonid gherman',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1934",
@@ -18396,7 +18396,7 @@ height: 150
 {
 id: "2893",
 name_ro: 'Gimnaziul Pociumbeni',
-keywords: 'Gimnaziul Pociumbeni',
+keywords: 'gimnaziul pociumbeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1935",
@@ -18413,7 +18413,7 @@ height: 150
 {
 id: "2894",
 name_ro: 'Liceul Teoretic "Dimitrie Cantemir"',
-keywords: 'Liceul Teoretic "Dimitrie Cantemir"',
+keywords: 'liceul teoretic dimitrie cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1924",
@@ -18430,7 +18430,7 @@ height: 150
 {
 id: "2895",
 name_ro: 'Gimnaziul Branişte',
-keywords: 'Gimnaziul Branişte',
+keywords: 'gimnaziul braniste',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1936",
@@ -18447,7 +18447,7 @@ height: 150
 {
 id: "2896",
 name_ro: 'Liceul Teoretic "Silvian Lucaci "',
-keywords: 'Liceul Teoretic "Silvian Lucaci "',
+keywords: 'liceul teoretic silvian lucaci',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1930",
@@ -18464,7 +18464,7 @@ height: 150
 {
 id: "2897",
 name_ro: 'Gimnaziul Mălăieşti',
-keywords: 'Gimnaziul Mălăieşti',
+keywords: 'gimnaziul malaiesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1912",
@@ -18481,7 +18481,7 @@ height: 150
 {
 id: "2898",
 name_ro: 'Liceul Teoretic "Liviu Damian"',
-keywords: 'Liceul Teoretic "Liviu Damian"',
+keywords: 'liceul teoretic liviu damian',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1924",
@@ -18498,7 +18498,7 @@ height: 150
 {
 id: "2899",
 name_ro: 'Liceul Teoretic Corlăteni',
-keywords: 'Liceul Teoretic Corlăteni',
+keywords: 'liceul teoretic corlateni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1937",
@@ -18515,7 +18515,7 @@ height: 150
 {
 id: "2900",
 name_ro: 'Gimnaziul Borosenii Noi',
-keywords: 'Gimnaziul Borosenii Noi',
+keywords: 'gimnaziul borosenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1938",
@@ -18532,7 +18532,7 @@ height: 150
 {
 id: "2901",
 name_ro: 'Liceul Teoretic "Constantin Popovici"',
-keywords: 'Liceul Teoretic "Constantin Popovici"',
+keywords: 'liceul teoretic constantin popovici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1939",
@@ -18549,7 +18549,7 @@ height: 150
 {
 id: "2902",
 name_ro: 'Gimnaziul Vasileuţi',
-keywords: 'Gimnaziul Vasileuţi',
+keywords: 'gimnaziul vasileuti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1940",
@@ -18566,7 +18566,7 @@ height: 150
 {
 id: "2903",
 name_ro: 'Gimnaziul Malinovscoe',
-keywords: 'Gimnaziul Malinovscoe',
+keywords: 'gimnaziul malinovscoe',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1941",
@@ -18583,7 +18583,7 @@ height: 150
 {
 id: "2904",
 name_ro: 'Gimnaziul "Anton Crihan"',
-keywords: 'Gimnaziul "Anton Crihan"',
+keywords: 'gimnaziul anton crihan',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1942",
@@ -18600,7 +18600,7 @@ height: 150
 {
 id: "2905",
 name_ro: 'Şcoala Medie Coşcodeni',
-keywords: 'Şcoala Medie Coşcodeni',
+keywords: 'scoala medie coscodeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1943",
@@ -18617,7 +18617,7 @@ height: 150
 {
 id: "2906",
 name_ro: 'Gimnaziul Heciul Nou',
-keywords: 'Gimnaziul Heciul Nou',
+keywords: 'gimnaziul heciul nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1944",
@@ -18634,7 +18634,7 @@ height: 150
 {
 id: "2907",
 name_ro: 'Gimnaziul Ţîpleţeşti',
-keywords: 'Gimnaziul Ţîpleţeşti',
+keywords: 'gimnaziul tipletesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1945",
@@ -18651,7 +18651,7 @@ height: 150
 {
 id: "2908",
 name_ro: 'Gimnaziul Grigorăuca',
-keywords: 'Gimnaziul Grigorăuca',
+keywords: 'gimnaziul grigorauca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1946",
@@ -18668,7 +18668,7 @@ height: 150
 {
 id: "2909",
 name_ro: 'Liceul Teoretic ,,V Alexandri " Drăgăneşti',
-keywords: 'Liceul Teoretic ,,V Alexandri " Drăgăneşti',
+keywords: 'liceul teoretic v alexandri draganesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1947",
@@ -18685,7 +18685,7 @@ height: 150
 {
 id: "2910",
 name_ro: 'Liceul Teoretic "I. Creangă"',
-keywords: 'Liceul Teoretic "I. Creangă"',
+keywords: 'liceul teoretic i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1948",
@@ -18702,7 +18702,7 @@ height: 150
 {
 id: "2911",
 name_ro: 'Liceul Teoretic "Luceafărul"',
-keywords: 'Liceul Teoretic "Luceafărul"',
+keywords: 'liceul teoretic luceafarul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1949",
@@ -18719,7 +18719,7 @@ height: 150
 {
 id: "2912",
 name_ro: 'Liceul Teoretic "A. Agapie"',
-keywords: 'Liceul Teoretic "A. Agapie"',
+keywords: 'liceul teoretic a. agapie',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1950",
@@ -18736,7 +18736,7 @@ height: 150
 {
 id: "2913",
 name_ro: 'Liceul Teoretic "N. Casso"',
-keywords: 'Liceul Teoretic "N. Casso"',
+keywords: 'liceul teoretic n. casso',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1951",
@@ -18753,7 +18753,7 @@ height: 150
 {
 id: "2914",
 name_ro: 'Gimnaziul Valea-Norocului',
-keywords: 'Gimnaziul Valea-Norocului',
+keywords: 'gimnaziul valea-norocului',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1952",
@@ -18770,7 +18770,7 @@ height: 150
 {
 id: "2915",
 name_ro: 'Şcoala Primară Răzălăi',
-keywords: 'Şcoala Primară Răzălăi',
+keywords: 'scoala primara razalai',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1953",
@@ -18787,7 +18787,7 @@ height: 150
 {
 id: "2916",
 name_ro: 'Scoala Primara Grigoreşti',
-keywords: 'Scoala Primara Grigoreşti',
+keywords: 'scoala primara grigoresti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1954",
@@ -18804,7 +18804,7 @@ height: 150
 {
 id: "2917",
 name_ro: 'Liceul Teoretic "A. Russo"',
-keywords: 'Liceul Teoretic "A. Russo"',
+keywords: 'liceul teoretic a. russo',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1955",
@@ -18821,7 +18821,7 @@ height: 150
 {
 id: "2918",
 name_ro: 'Liceul Teoretic "P. Halippa"',
-keywords: 'Liceul Teoretic "P. Halippa"',
+keywords: 'liceul teoretic p. halippa',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1956",
@@ -18838,7 +18838,7 @@ height: 150
 {
 id: "2919",
 name_ro: 'Scoala Primara Bocancea-Schit',
-keywords: 'Scoala Primara Bocancea-Schit',
+keywords: 'scoala primara bocancea-schit',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1957",
@@ -18855,7 +18855,7 @@ height: 150
 {
 id: "2920",
 name_ro: 'Scoala Primara Gura-Oituz',
-keywords: 'Scoala Primara Gura-Oituz',
+keywords: 'scoala primara gura-oituz',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1958",
@@ -18872,7 +18872,7 @@ height: 150
 {
 id: "2921",
 name_ro: 'Liceul Teoretic "D. Cantemir"',
-keywords: 'Liceul Teoretic "D. Cantemir"',
+keywords: 'liceul teoretic d. cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1942",
@@ -18889,7 +18889,7 @@ height: 150
 {
 id: "2922",
 name_ro: 'Liceul Teoretic "M. Eminescu"',
-keywords: 'Liceul Teoretic "M. Eminescu"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1942",
@@ -18906,7 +18906,7 @@ height: 150
 {
 id: "2923",
 name_ro: 'L.T. "Olimp"',
-keywords: 'L.T. "Olimp"',
+keywords: 'l.t. olimp',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1942",
@@ -18923,7 +18923,7 @@ height: 150
 {
 id: "2924",
 name_ro: 'Gimnaziul Copăceni',
-keywords: 'Gimnaziul Copăceni',
+keywords: 'gimnaziul copaceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1959",
@@ -18940,7 +18940,7 @@ height: 150
 {
 id: "2925",
 name_ro: 'Şcoala Primară Tăura Nouă',
-keywords: 'Şcoala Primară Tăura Nouă',
+keywords: 'scoala primara taura noua',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1960",
@@ -18957,7 +18957,7 @@ height: 150
 {
 id: "2926",
 name_ro: 'Şcoala Primară Vrăneşti',
-keywords: 'Şcoala Primară Vrăneşti',
+keywords: 'scoala primara vranesti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1961",
@@ -18974,7 +18974,7 @@ height: 150
 {
 id: "2927",
 name_ro: 'Gimnaziul Dobrogea Veche',
-keywords: 'Gimnaziul Dobrogea Veche',
+keywords: 'gimnaziul dobrogea veche',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1962",
@@ -18991,7 +18991,7 @@ height: 150
 {
 id: "2928",
 name_ro: 'Gimnaziul Ţîpleşti',
-keywords: 'Gimnaziul Ţîpleşti',
+keywords: 'gimnaziul tiplesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1963",
@@ -19008,7 +19008,7 @@ height: 150
 {
 id: "2929",
 name_ro: 'Gimnaziul Izvoare',
-keywords: 'Gimnaziul Izvoare',
+keywords: 'gimnaziul izvoare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1964",
@@ -19025,7 +19025,7 @@ height: 150
 {
 id: "2930",
 name_ro: 'Gimnaziul Bursuceni',
-keywords: 'Gimnaziul Bursuceni',
+keywords: 'gimnaziul bursuceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1965",
@@ -19042,7 +19042,7 @@ height: 150
 {
 id: "2931",
 name_ro: 'Gimnaziul Slobozia-Chişcăreni',
-keywords: 'Gimnaziul Slobozia-Chişcăreni',
+keywords: 'gimnaziul slobozia-chiscareni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1966",
@@ -19059,7 +19059,7 @@ height: 150
 {
 id: "2932",
 name_ro: 'Gimnaziul Bălăşeşti',
-keywords: 'Gimnaziul Bălăşeşti',
+keywords: 'gimnaziul balasesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1967",
@@ -19076,7 +19076,7 @@ height: 150
 {
 id: "2933",
 name_ro: 'Gimnaziul Cotiujenii Mici',
-keywords: 'Gimnaziul Cotiujenii Mici',
+keywords: 'gimnaziul cotiujenii mici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1968",
@@ -19093,7 +19093,7 @@ height: 150
 {
 id: "2934",
 name_ro: 'Gimnaziul Slobozia-Măgura',
-keywords: 'Gimnaziul Slobozia-Măgura',
+keywords: 'gimnaziul slobozia-magura',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1969",
@@ -19110,7 +19110,7 @@ height: 150
 {
 id: "2935",
 name_ro: 'Gimnaziul Prepeliţa',
-keywords: 'Gimnaziul Prepeliţa',
+keywords: 'gimnaziul prepelita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1970",
@@ -19127,7 +19127,7 @@ height: 150
 {
 id: "2936",
 name_ro: 'Gimnaziul Ciuciuieni',
-keywords: 'Gimnaziul Ciuciuieni',
+keywords: 'gimnaziul ciuciuieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1971",
@@ -19144,7 +19144,7 @@ height: 150
 {
 id: "2937",
 name_ro: 'Gimnaziul Cozeşti',
-keywords: 'Gimnaziul Cozeşti',
+keywords: 'gimnaziul cozesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1972",
@@ -19161,7 +19161,7 @@ height: 150
 {
 id: "2938",
 name_ro: 'Gimnaziul Sacarovca',
-keywords: 'Gimnaziul Sacarovca',
+keywords: 'gimnaziul sacarovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1973",
@@ -19178,7 +19178,7 @@ height: 150
 {
 id: "2939",
 name_ro: 'Gimnaziul Heciul Vechi',
-keywords: 'Gimnaziul Heciul Vechi',
+keywords: 'gimnaziul heciul vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1974",
@@ -19195,7 +19195,7 @@ height: 150
 {
 id: "2940",
 name_ro: 'Gimnaziul Bobletici',
-keywords: 'Gimnaziul Bobletici',
+keywords: 'gimnaziul bobletici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1975",
@@ -19212,7 +19212,7 @@ height: 150
 {
 id: "2941",
 name_ro: 'Şcoala Primară Alexeuca',
-keywords: 'Şcoala Primară Alexeuca',
+keywords: 'scoala primara alexeuca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1976",
@@ -19229,7 +19229,7 @@ height: 150
 {
 id: "2942",
 name_ro: 'Gimnaziul Coada Iazului',
-keywords: 'Gimnaziul Coada Iazului',
+keywords: 'gimnaziul coada iazului',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1977",
@@ -19246,7 +19246,7 @@ height: 150
 {
 id: "2943",
 name_ro: 'Gimnaziul Dumbrăviţa',
-keywords: 'Gimnaziul Dumbrăviţa',
+keywords: 'gimnaziul dumbravita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1978",
@@ -19263,7 +19263,7 @@ height: 150
 {
 id: "2944",
 name_ro: 'Gimnaziul Alexandreni',
-keywords: 'Gimnaziul Alexandreni',
+keywords: 'gimnaziul alexandreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1979",
@@ -19280,7 +19280,7 @@ height: 150
 {
 id: "2945",
 name_ro: 'Gimnaziul Iezărenii Vechi',
-keywords: 'Gimnaziul Iezărenii Vechi',
+keywords: 'gimnaziul iezarenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1980",
@@ -19297,7 +19297,7 @@ height: 150
 {
 id: "2946",
 name_ro: 'Gimnaziul Marineşti',
-keywords: 'Gimnaziul Marineşti',
+keywords: 'gimnaziul marinesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1981",
@@ -19314,7 +19314,7 @@ height: 150
 {
 id: "2947",
 name_ro: 'Gimnaziul Bilicenii Noi',
-keywords: 'Gimnaziul Bilicenii Noi',
+keywords: 'gimnaziul bilicenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1982",
@@ -19331,7 +19331,7 @@ height: 150
 {
 id: "2948",
 name_ro: 'Gimnaziul Bilicenii Vechi',
-keywords: 'Gimnaziul Bilicenii Vechi',
+keywords: 'gimnaziul bilicenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1983",
@@ -19348,7 +19348,7 @@ height: 150
 {
 id: "2949",
 name_ro: 'Gimnaziul Mihailovca',
-keywords: 'Gimnaziul Mihailovca',
+keywords: 'gimnaziul mihailovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1984",
@@ -19365,7 +19365,7 @@ height: 150
 {
 id: "2950",
 name_ro: 'Gimnaziul Tăura Veche',
-keywords: 'Gimnaziul Tăura Veche',
+keywords: 'gimnaziul taura veche',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1985",
@@ -19382,7 +19382,7 @@ height: 150
 {
 id: "2951",
 name_ro: 'Gimnaziul Sloveanca',
-keywords: 'Gimnaziul Sloveanca',
+keywords: 'gimnaziul sloveanca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1986",
@@ -19399,7 +19399,7 @@ height: 150
 {
 id: "2952",
 name_ro: 'Gimnaziul Mîndreştii Noi',
-keywords: 'Gimnaziul Mîndreştii Noi',
+keywords: 'gimnaziul mindrestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1987",
@@ -19416,7 +19416,7 @@ height: 150
 {
 id: "2953",
 name_ro: 'Gimnaziul Ţambula',
-keywords: 'Gimnaziul Ţambula',
+keywords: 'gimnaziul tambula',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1988",
@@ -19433,7 +19433,7 @@ height: 150
 {
 id: "2954",
 name_ro: 'Gimnaziul Petrovca',
-keywords: 'Gimnaziul Petrovca',
+keywords: 'gimnaziul petrovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1989",
@@ -19450,7 +19450,7 @@ height: 150
 {
 id: "2955",
 name_ro: 'Gimnaziul Poiana',
-keywords: 'Gimnaziul Poiana',
+keywords: 'gimnaziul poiana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1990",
@@ -19467,7 +19467,7 @@ height: 150
 {
 id: "2956",
 name_ro: 'Liceul teoretic Cuşmirca',
-keywords: 'Liceul teoretic Cuşmirca',
+keywords: 'liceul teoretic cusmirca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1991",
@@ -19484,7 +19484,7 @@ height: 150
 {
 id: "2957",
 name_ro: 'Gimnaziul "M. Eminescu", Parcani',
-keywords: 'Gimnaziul "M. Eminescu", Parcani',
+keywords: 'gimnaziul m. eminescu  parcani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1992",
@@ -19501,7 +19501,7 @@ height: 150
 {
 id: "2958",
 name_ro: 'Gimnaziul Receşti',
-keywords: 'Gimnaziul Receşti',
+keywords: 'gimnaziul recesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1993",
@@ -19518,7 +19518,7 @@ height: 150
 {
 id: "2959",
 name_ro: 'Liceul teoretic Cotiujenii Mari',
-keywords: 'Liceul teoretic Cotiujenii Mari',
+keywords: 'liceul teoretic cotiujenii mari',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1994",
@@ -19535,7 +19535,7 @@ height: 150
 {
 id: "2960",
 name_ro: 'Gimnaziul Salcia',
-keywords: 'Gimnaziul Salcia',
+keywords: 'gimnaziul salcia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1995",
@@ -19552,7 +19552,7 @@ height: 150
 {
 id: "2961",
 name_ro: 'Gimnaziul Şipca',
-keywords: 'Gimnaziul Şipca',
+keywords: 'gimnaziul sipca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1996",
@@ -19569,7 +19569,7 @@ height: 150
 {
 id: "2962",
 name_ro: 'Şcoala primara Curătura',
-keywords: 'Şcoala primara Curătura',
+keywords: 'scoala primara curatura',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1997",
@@ -19586,7 +19586,7 @@ height: 150
 {
 id: "2963",
 name_ro: 'Gimnaziul Fuzăuca',
-keywords: 'Gimnaziul Fuzăuca',
+keywords: 'gimnaziul fuzauca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1998",
@@ -19603,7 +19603,7 @@ height: 150
 {
 id: "2964",
 name_ro: 'Şcoala primara Şoldăneşti',
-keywords: 'Şcoala primara Şoldăneşti',
+keywords: 'scoala primara soldanesti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1994",
@@ -19620,7 +19620,7 @@ height: 150
 {
 id: "2965",
 name_ro: 'Gimnaziul Cot',
-keywords: 'Gimnaziul Cot',
+keywords: 'gimnaziul cot',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1999",
@@ -19637,7 +19637,7 @@ height: 150
 {
 id: "2966",
 name_ro: 'Liceul teoretic " Dumitru Matcovschi" Vadul-Raşcov',
-keywords: 'Liceul teoretic " Dumitru Matcovschi" Vadul-Raşcov',
+keywords: 'liceul teoretic dumitru matcovschi vadul-rascov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2000",
@@ -19654,7 +19654,7 @@ height: 150
 {
 id: "2967",
 name_ro: 'Liceul teoretic Răspopeni',
-keywords: 'Liceul teoretic Răspopeni',
+keywords: 'liceul teoretic raspopeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2001",
@@ -19671,7 +19671,7 @@ height: 150
 {
 id: "2968",
 name_ro: 'Gimnaziul Socola',
-keywords: 'Gimnaziul Socola',
+keywords: 'gimnaziul socola',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2002",
@@ -19688,7 +19688,7 @@ height: 150
 {
 id: "2969",
 name_ro: 'Şcoala medie Sămăşcani',
-keywords: 'Şcoala medie Sămăşcani',
+keywords: 'scoala medie samascani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2003",
@@ -19705,7 +19705,7 @@ height: 150
 {
 id: "2970",
 name_ro: 'Gimnaziul Rogojeni',
-keywords: 'Gimnaziul Rogojeni',
+keywords: 'gimnaziul rogojeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2004",
@@ -19722,7 +19722,7 @@ height: 150
 {
 id: "2971",
 name_ro: 'Gimnaziul " Andrei Lupan", Mihuleni',
-keywords: 'Gimnaziul " Andrei Lupan", Mihuleni',
+keywords: 'gimnaziul andrei lupan  mihuleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2005",
@@ -19739,7 +19739,7 @@ height: 150
 {
 id: "2972",
 name_ro: 'Gimnaziul Glinjeni',
-keywords: 'Gimnaziul Glinjeni',
+keywords: 'gimnaziul glinjeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2006",
@@ -19756,7 +19756,7 @@ height: 150
 {
 id: "2973",
 name_ro: 'Gimnaziul "A. Grosu"',
-keywords: 'Gimnaziul "A. Grosu"',
+keywords: 'gimnaziul a. grosu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2007",
@@ -19773,7 +19773,7 @@ height: 150
 {
 id: "2974",
 name_ro: 'Liceul teoretic Olişcani',
-keywords: 'Liceul teoretic Olişcani',
+keywords: 'liceul teoretic oliscani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2008",
@@ -19790,7 +19790,7 @@ height: 150
 {
 id: "2975",
 name_ro: 'Gimnaziul Găuzeni',
-keywords: 'Gimnaziul Găuzeni',
+keywords: 'gimnaziul gauzeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2009",
@@ -19807,7 +19807,7 @@ height: 150
 {
 id: "2976",
 name_ro: 'Gimnaziul Cobîlea',
-keywords: 'Gimnaziul Cobîlea',
+keywords: 'gimnaziul cobilea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2010",
@@ -19824,7 +19824,7 @@ height: 150
 {
 id: "2977",
 name_ro: 'Şcoala medie Alcedar',
-keywords: 'Şcoala medie Alcedar',
+keywords: 'scoala medie alcedar',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2011",
@@ -19841,7 +19841,7 @@ height: 150
 {
 id: "2978",
 name_ro: 'Liceul teoretic" Ştefan cel Mare", Şoldăneşti',
-keywords: 'Liceul teoretic" Ştefan cel Mare", Şoldăneşti',
+keywords: 'liceul teoretic stefan cel mare  soldanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1994",
@@ -19858,7 +19858,7 @@ height: 150
 {
 id: "2979",
 name_ro: 'Gimnaziul Chipesca',
-keywords: 'Gimnaziul Chipesca',
+keywords: 'gimnaziul chipesca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2012",
@@ -19875,7 +19875,7 @@ height: 150
 {
 id: "2980",
 name_ro: 'Liceul teoretic " Alexei Mateevici"Şoldăneşti',
-keywords: 'Liceul teoretic " Alexei Mateevici"Şoldăneşti',
+keywords: 'liceul teoretic alexei mateevici soldanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1994",
@@ -19892,7 +19892,7 @@ height: 150
 {
 id: "2981",
 name_ro: 'Gimnaziu Cotiujenii Mari',
-keywords: 'Gimnaziu Cotiujenii Mari',
+keywords: 'gimnaziu cotiujenii mari',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2013",
@@ -19909,7 +19909,7 @@ height: 150
 {
 id: "2982",
 name_ro: 'Gimnaziul "Gr. Eftodiev"',
-keywords: 'Gimnaziul "Gr. Eftodiev"',
+keywords: 'gimnaziul gr. eftodiev',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2014",
@@ -19926,7 +19926,7 @@ height: 150
 {
 id: "2983",
 name_ro: 'Liceul teoretic Cobîlea',
-keywords: 'Liceul teoretic Cobîlea',
+keywords: 'liceul teoretic cobilea',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2010",
@@ -19943,7 +19943,7 @@ height: 150
 {
 id: "2984",
 name_ro: 'Gimnaziul Pohoarna',
-keywords: 'Gimnaziul Pohoarna',
+keywords: 'gimnaziul pohoarna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2015",
@@ -19960,7 +19960,7 @@ height: 150
 {
 id: "2985",
 name_ro: 'Gimnaziul Climăuţii de Jos',
-keywords: 'Gimnaziul Climăuţii de Jos',
+keywords: 'gimnaziul climautii de jos',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2016",
@@ -19977,7 +19977,7 @@ height: 150
 {
 id: "2986",
 name_ro: 'Şcoala primară Vanţina',
-keywords: 'Şcoala primară Vanţina',
+keywords: 'scoala primara vantina',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2017",
@@ -19994,7 +19994,7 @@ height: 150
 {
 id: "2987",
 name_ro: 'Şcoala primară Ruslanovca',
-keywords: 'Şcoala primară Ruslanovca',
+keywords: 'scoala primara ruslanovca',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2018",
@@ -20011,7 +20011,7 @@ height: 150
 {
 id: "2988",
 name_ro: 'Şcoala primară Mălcăuţi',
-keywords: 'Şcoala primară Mălcăuţi',
+keywords: 'scoala primara malcauti',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2019",
@@ -20028,7 +20028,7 @@ height: 150
 {
 id: "2989",
 name_ro: 'Şcoala primară Bulbocii Noi',
-keywords: 'Şcoala primară Bulbocii Noi',
+keywords: 'scoala primara bulbocii noi',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2020",
@@ -20045,7 +20045,7 @@ height: 150
 {
 id: "2990",
 name_ro: 'Şcoala primară Dumbrăveni',
-keywords: 'Şcoala primară Dumbrăveni',
+keywords: 'scoala primara dumbraveni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2021",
@@ -20062,7 +20062,7 @@ height: 150
 {
 id: "2991",
 name_ro: 'Şcoala primară Floriceni',
-keywords: 'Şcoala primară Floriceni',
+keywords: 'scoala primara floriceni',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2022",
@@ -20079,7 +20079,7 @@ height: 150
 {
 id: "2992",
 name_ro: 'gimnaziul Pîrliţa',
-keywords: 'gimnaziul Pîrliţa',
+keywords: 'gimnaziul pirlita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2023",
@@ -20096,7 +20096,7 @@ height: 150
 {
 id: "2993",
 name_ro: 'gimnaziul Şolcani',
-keywords: 'gimnaziul Şolcani',
+keywords: 'gimnaziul solcani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2024",
@@ -20113,7 +20113,7 @@ height: 150
 {
 id: "2994",
 name_ro: 'gimnaziul Vădeni',
-keywords: 'gimnaziul Vădeni',
+keywords: 'gimnaziul vadeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2025",
@@ -20130,7 +20130,7 @@ height: 150
 {
 id: "2995",
 name_ro: 'Gimnaziul Vărăncău',
-keywords: 'Gimnaziul Vărăncău',
+keywords: 'gimnaziul varancau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2026",
@@ -20147,7 +20147,7 @@ height: 150
 {
 id: "2996",
 name_ro: 'gimnaziul Dărcăuţi',
-keywords: 'gimnaziul Dărcăuţi',
+keywords: 'gimnaziul darcauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2027",
@@ -20164,7 +20164,7 @@ height: 150
 {
 id: "2997",
 name_ro: 'gimnaziul Egoreni',
-keywords: 'gimnaziul Egoreni',
+keywords: 'gimnaziul egoreni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2028",
@@ -20181,7 +20181,7 @@ height: 150
 {
 id: "2998",
 name_ro: 'gimnaziul Trifăuţi',
-keywords: 'gimnaziul Trifăuţi',
+keywords: 'gimnaziul trifauti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2029",
@@ -20198,7 +20198,7 @@ height: 150
 {
 id: "2999",
 name_ro: 'gimnziul Oclanda',
-keywords: 'gimnziul Oclanda',
+keywords: 'gimnziul oclanda',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2030",
@@ -20215,7 +20215,7 @@ height: 150
 {
 id: "3000",
 name_ro: 'Gimnaziul Parcani',
-keywords: 'Gimnaziul Parcani',
+keywords: 'gimnaziul parcani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2031",
@@ -20232,7 +20232,7 @@ height: 150
 {
 id: "3001",
 name_ro: 'gimnaziul Regina Maria',
-keywords: 'gimnaziul Regina Maria',
+keywords: 'gimnaziul regina maria',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2032",
@@ -20249,7 +20249,7 @@ height: 150
 {
 id: "3002",
 name_ro: 'gimnaziul Radi-Cereşnovaţ',
-keywords: 'gimnaziul Radi-Cereşnovaţ',
+keywords: 'gimnaziul radi-ceresnovat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2033",
@@ -20266,7 +20266,7 @@ height: 150
 {
 id: "3003",
 name_ro: 'gimnaziul Schineni',
-keywords: 'gimnaziul Schineni',
+keywords: 'gimnaziul schineni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2034",
@@ -20283,7 +20283,7 @@ height: 150
 {
 id: "3004",
 name_ro: 'gimnaziul Slobozia-Cremene',
-keywords: 'gimnaziul Slobozia-Cremene',
+keywords: 'gimnaziul slobozia-cremene',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2035",
@@ -20300,7 +20300,7 @@ height: 150
 {
 id: "3005",
 name_ro: 'gimnaziul Slobozia-Vărăncău',
-keywords: 'gimnaziul Slobozia-Vărăncău',
+keywords: 'gimnaziul slobozia-varancau',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2036",
@@ -20317,7 +20317,7 @@ height: 150
 {
 id: "3006",
 name_ro: 'gimnaziul Soloneţ',
-keywords: 'gimnaziul Soloneţ',
+keywords: 'gimnaziul solonet',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2037",
@@ -20334,7 +20334,7 @@ height: 150
 {
 id: "3007",
 name_ro: 'gimnaziul Holoşniţa',
-keywords: 'gimnaziul Holoşniţa',
+keywords: 'gimnaziul holosnita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2038",
@@ -20351,7 +20351,7 @@ height: 150
 {
 id: "3008",
 name_ro: 'Lliceul "A. Porcescu",',
-keywords: 'Lliceul "A. Porcescu",',
+keywords: 'liceul a. porcescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2039",
@@ -20368,7 +20368,7 @@ height: 150
 {
 id: "3009",
 name_ro: 'gimnaziul Cremenciug',
-keywords: 'gimnaziul Cremenciug',
+keywords: 'gimnaziul cremenciug',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2040",
@@ -20385,7 +20385,7 @@ height: 150
 {
 id: "3010",
 name_ro: 'Liceul "P.Rareş"',
-keywords: 'Liceul "P.Rareş"',
+keywords: 'liceul p.rares',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2041",
@@ -20402,7 +20402,7 @@ height: 150
 {
 id: "3011",
 name_ro: 'Liceul "G. Vieru"',
-keywords: 'Liceul "G. Vieru"',
+keywords: 'liceul g. vieru',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2042",
@@ -20419,7 +20419,7 @@ height: 150
 {
 id: "3012",
 name_ro: 'Liceul Bădiceni',
-keywords: 'Liceul Bădiceni',
+keywords: 'liceul badiceni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2043",
@@ -20436,7 +20436,7 @@ height: 150
 {
 id: "3013",
 name_ro: 'Liceul Rubleniţa',
-keywords: 'Liceul Rubleniţa',
+keywords: 'liceul rublenita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2044",
@@ -20453,7 +20453,7 @@ height: 150
 {
 id: "3014",
 name_ro: 'Liceul "I.Creangă"',
-keywords: 'Liceul "I.Creangă"',
+keywords: 'liceul i.creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2041",
@@ -20470,7 +20470,7 @@ height: 150
 {
 id: "3015",
 name_ro: 'Gimnaziul Şeptelici',
-keywords: 'Gimnaziul Şeptelici',
+keywords: 'gimnaziul septelici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2045",
@@ -20487,7 +20487,7 @@ height: 150
 {
 id: "3016",
 name_ro: 'Şcoala medie Bulboci',
-keywords: 'Şcoala medie Bulboci',
+keywords: 'scoala medie bulboci',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2046",
@@ -20504,7 +20504,7 @@ height: 150
 {
 id: "3017",
 name_ro: 'Şcoala medie Stoicani',
-keywords: 'Şcoala medie Stoicani',
+keywords: 'scoala medie stoicani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2047",
@@ -20521,7 +20521,7 @@ height: 150
 {
 id: "3018",
 name_ro: 'Liceul "Cosăuţi"',
-keywords: 'Liceul "Cosăuţi"',
+keywords: 'liceul cosauti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2048",
@@ -20538,7 +20538,7 @@ height: 150
 {
 id: "3019",
 name_ro: 'Gimnaziul Hristici',
-keywords: 'Gimnaziul Hristici',
+keywords: 'gimnaziul hristici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2049",
@@ -20555,7 +20555,7 @@ height: 150
 {
 id: "3020",
 name_ro: 'Gimnaziul Iarova',
-keywords: 'Gimnaziul Iarova',
+keywords: 'gimnaziul iarova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2050",
@@ -20572,7 +20572,7 @@ height: 150
 {
 id: "3021",
 name_ro: 'Liceul Nimereuca',
-keywords: 'Liceul Nimereuca',
+keywords: 'liceul nimereuca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2051",
@@ -20589,7 +20589,7 @@ height: 150
 {
 id: "3022",
 name_ro: 'Gimnaziul Ocolina',
-keywords: 'Gimnaziul Ocolina',
+keywords: 'gimnaziul ocolina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2052",
@@ -20606,7 +20606,7 @@ height: 150
 {
 id: "3023",
 name_ro: 'gimnaziul Iorjniţa',
-keywords: 'gimnaziul Iorjniţa',
+keywords: 'gimnaziul iorjnita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2053",
@@ -20623,7 +20623,7 @@ height: 150
 {
 id: "3024",
 name_ro: 'şcoala medie Băxani',
-keywords: 'şcoala medie Băxani',
+keywords: 'scoala medie baxani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2054",
@@ -20640,7 +20640,7 @@ height: 150
 {
 id: "3025",
 name_ro: 'gimnaziul Voloave',
-keywords: 'gimnaziul Voloave',
+keywords: 'gimnaziul voloave',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2055",
@@ -20657,7 +20657,7 @@ height: 150
 {
 id: "3026",
 name_ro: 'gimnaziul Voloviţa',
-keywords: 'gimnaziul Voloviţa',
+keywords: 'gimnaziul volovita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2056",
@@ -20674,7 +20674,7 @@ height: 150
 {
 id: "3027",
 name_ro: 'gimnaziul Zastînca',
-keywords: 'gimnaziul Zastînca',
+keywords: 'gimnaziul zastinca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2057",
@@ -20691,7 +20691,7 @@ height: 150
 {
 id: "3028",
 name_ro: 'gimnaziul Cerlina',
-keywords: 'gimnaziul Cerlina',
+keywords: 'gimnaziul cerlina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2058",
@@ -20742,7 +20742,7 @@ height: 150
 {
 id: "3031",
 name_ro: 'gimnaziul Ţepilova',
-keywords: 'gimnaziul Ţepilova',
+keywords: 'gimnaziul tepilova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2059",
@@ -20759,7 +20759,7 @@ height: 150
 {
 id: "3032",
 name_ro: 'Gimnaziul Dubna',
-keywords: 'Gimnaziul Dubna',
+keywords: 'gimnaziul dubna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2060",
@@ -20776,7 +20776,7 @@ height: 150
 {
 id: "3033",
 name_ro: 'Liceul Visoca',
-keywords: 'Liceul Visoca',
+keywords: 'liceul visoca',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2061",
@@ -20793,7 +20793,7 @@ height: 150
 {
 id: "3034",
 name_ro: 'Şcoala medie Tătărăuca Veche',
-keywords: 'Şcoala medie Tătărăuca Veche',
+keywords: 'scoala medie tatarauca veche',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2062",
@@ -20810,7 +20810,7 @@ height: 150
 {
 id: "3035",
 name_ro: 'Gimnaziul Rudi',
-keywords: 'Gimnaziul Rudi',
+keywords: 'gimnaziul rudi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2063",
@@ -20827,7 +20827,7 @@ height: 150
 {
 id: "3036",
 name_ro: 'Şcoala primară Tătărăuca Nouă',
-keywords: 'Şcoala primară Tătărăuca Nouă',
+keywords: 'scoala primara tatarauca noua',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2064",
@@ -20844,7 +20844,7 @@ height: 150
 {
 id: "3037",
 name_ro: 'Şcoala primară Slobozia Nouă',
-keywords: 'Şcoala primară Slobozia Nouă',
+keywords: 'scoala primara slobozia noua',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2065",
@@ -20861,7 +20861,7 @@ height: 150
 {
 id: "3038",
 name_ro: 'Şcoala internat Visoca',
-keywords: 'Şcoala internat Visoca',
+keywords: 'scoala internat visoca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2061",
@@ -20878,7 +20878,7 @@ height: 150
 {
 id: "3039",
 name_ro: 'Şcoala primară Sobari',
-keywords: 'Şcoala primară Sobari',
+keywords: 'scoala primara sobari',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2066",
@@ -20895,7 +20895,7 @@ height: 150
 {
 id: "3040",
 name_ro: 'Şcoala primară Niorcani',
-keywords: 'Şcoala primară Niorcani',
+keywords: 'scoala primara niorcani',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2067",
@@ -20912,7 +20912,7 @@ height: 150
 {
 id: "3041",
 name_ro: 'Liceul Racovăţ',
-keywords: 'Liceul Racovăţ',
+keywords: 'liceul racovat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2068",
@@ -20929,7 +20929,7 @@ height: 150
 {
 id: "3042",
 name_ro: 'Liceul "C.Stere"',
-keywords: 'Liceul "C.Stere"',
+keywords: 'liceul c.stere',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2041",
@@ -20946,7 +20946,7 @@ height: 150
 {
 id: "3043",
 name_ro: 'Liceul "A.Puşkin"',
-keywords: 'Liceul "A.Puşkin"',
+keywords: 'liceul a.puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2041",
@@ -20963,7 +20963,7 @@ height: 150
 {
 id: "3044",
 name_ro: 'Gimnaziul Cureşniţa',
-keywords: 'Gimnaziul Cureşniţa',
+keywords: 'gimnaziul curesnita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2069",
@@ -20980,7 +20980,7 @@ height: 150
 {
 id: "3045",
 name_ro: 'Şcoala specială Soloneţ',
-keywords: 'Şcoala specială Soloneţ',
+keywords: 'scoala speciala solonet',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2037",
@@ -20997,7 +20997,7 @@ height: 150
 {
 id: "3046",
 name_ro: 'Ion Creangă',
-keywords: 'Ion Creangă',
+keywords: 'ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2070",
@@ -21014,7 +21014,7 @@ height: 150
 {
 id: "3047",
 name_ro: 'Mihai Sîrghi',
-keywords: 'Mihai Sîrghi',
+keywords: 'mihai sirghi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2071",
@@ -21031,7 +21031,7 @@ height: 150
 {
 id: "3048",
 name_ro: 'Popeasca',
-keywords: 'Popeasca',
+keywords: 'popeasca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2072",
@@ -21048,7 +21048,7 @@ height: 150
 {
 id: "3049",
 name_ro: 'Ştefan Vodă',
-keywords: 'Ştefan Vodă',
+keywords: 'stefan voda',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2073",
@@ -21065,7 +21065,7 @@ height: 150
 {
 id: "3050",
 name_ro: 'Viişoara',
-keywords: 'Viişoara',
+keywords: 'viisoara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2074",
@@ -21082,7 +21082,7 @@ height: 150
 {
 id: "3051",
 name_ro: 'Şcoala Auxuliară Internat Popeasca',
-keywords: 'Şcoala Auxuliară Internat Popeasca',
+keywords: 'scoala auxuliara internat popeasca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2072",
@@ -21099,7 +21099,7 @@ height: 150
 {
 id: "3052",
 name_ro: 'Alava',
-keywords: 'Alava',
+keywords: 'alava',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2075",
@@ -21116,7 +21116,7 @@ height: 150
 {
 id: "3053",
 name_ro: 'Ştefan Ciobanu',
-keywords: 'Ştefan Ciobanu',
+keywords: 'stefan ciobanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2076",
@@ -21133,7 +21133,7 @@ height: 150
 {
 id: "3054",
 name_ro: 'Răscăieţii Noi',
-keywords: 'Răscăieţii Noi',
+keywords: 'rascaietii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2077",
@@ -21150,7 +21150,7 @@ height: 150
 {
 id: "3055",
 name_ro: 'Marianca de Jos',
-keywords: 'Marianca de Jos',
+keywords: 'marianca de jos',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2078",
@@ -21167,7 +21167,7 @@ height: 150
 {
 id: "3056",
 name_ro: 'Ion Creangă',
-keywords: 'Ion Creangă',
+keywords: 'ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2079",
@@ -21184,7 +21184,7 @@ height: 150
 {
 id: "3057",
 name_ro: 'Purcari',
-keywords: 'Purcari',
+keywords: 'purcari',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2080",
@@ -21201,7 +21201,7 @@ height: 150
 {
 id: "3058",
 name_ro: 'Mihai Eminescu',
-keywords: 'Mihai Eminescu',
+keywords: 'mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2081",
@@ -21218,7 +21218,7 @@ height: 150
 {
 id: "3059",
 name_ro: 'Mihai Viteazu',
-keywords: 'Mihai Viteazu',
+keywords: 'mihai viteazu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2082",
@@ -21235,7 +21235,7 @@ height: 150
 {
 id: "3060",
 name_ro: 'B.P.Haşdeu',
-keywords: '"B.P.Haşdeu"',
+keywords: ' b.p.hasdeu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2083",
@@ -21252,7 +21252,7 @@ height: 150
 {
 id: "3061",
 name_ro: 'Brezoaia',
-keywords: 'Brezoaia',
+keywords: 'brezoaia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2084",
@@ -21269,7 +21269,7 @@ height: 150
 {
 id: "3062",
 name_ro: 'Volintiri',
-keywords: 'Volintiri',
+keywords: 'volintiri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2085",
@@ -21286,7 +21286,7 @@ height: 150
 {
 id: "3063",
 name_ro: 'Ecaterina Malcoci',
-keywords: 'Ecaterina Malcoci',
+keywords: 'ecaterina malcoci',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2086",
@@ -21303,7 +21303,7 @@ height: 150
 {
 id: "3064",
 name_ro: 'Palanca',
-keywords: 'Palanca',
+keywords: 'palanca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2087",
@@ -21320,7 +21320,7 @@ height: 150
 {
 id: "3065",
 name_ro: 'CAPLANI',
-keywords: 'CAPLANI',
+keywords: 'caplani',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2088",
@@ -21337,7 +21337,7 @@ height: 150
 {
 id: "3066",
 name_ro: 'Olăneşti',
-keywords: 'Olăneşti',
+keywords: 'olanesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2083",
@@ -21354,7 +21354,7 @@ height: 150
 {
 id: "3067",
 name_ro: 'Dimitrie Cantemir',
-keywords: 'Dimitrie Cantemir',
+keywords: 'dimitrie cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2073",
@@ -21371,7 +21371,7 @@ height: 150
 {
 id: "3068",
 name_ro: 'Răscăieţi',
-keywords: 'Răscăieţi',
+keywords: 'rascaieti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2089",
@@ -21388,7 +21388,7 @@ height: 150
 {
 id: "3069",
 name_ro: 'Ştefăneşti',
-keywords: 'Ştefăneşti',
+keywords: 'stefanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2090",
@@ -21405,7 +21405,7 @@ height: 150
 {
 id: "3070",
 name_ro: 'Alexandru cel Bun',
-keywords: 'Alexandru cel Bun',
+keywords: 'alexandru cel bun',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2091",
@@ -21422,7 +21422,7 @@ height: 150
 {
 id: "3071",
 name_ro: 'Semionovca',
-keywords: 'Semionovca',
+keywords: 'semionovca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2092",
@@ -21439,7 +21439,7 @@ height: 150
 {
 id: "3072",
 name_ro: 'Talmaza',
-keywords: 'Talmaza',
+keywords: 'talmaza',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2076",
@@ -21456,7 +21456,7 @@ height: 150
 {
 id: "3073",
 name_ro: 'Tudora',
-keywords: 'Tudora',
+keywords: 'tudora',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2093",
@@ -21473,7 +21473,7 @@ height: 150
 {
 id: "3074",
 name_ro: 'Feşteliţa',
-keywords: 'Feşteliţa',
+keywords: 'festelita',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2094",
@@ -21490,7 +21490,7 @@ height: 150
 {
 id: "3075",
 name_ro: 'Gimnaziul Ghelăuza',
-keywords: 'Gimnaziul Ghelăuza',
+keywords: 'gimnaziul ghelauza',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2095",
@@ -21507,7 +21507,7 @@ height: 150
 {
 id: "3076",
 name_ro: 'Gimnaziul Grebleşti',
-keywords: 'Gimnaziul Grebleşti',
+keywords: 'gimnaziul greblesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2096",
@@ -21524,7 +21524,7 @@ height: 150
 {
 id: "3077",
 name_ro: 'Gimnaziul Bucovăţ',
-keywords: 'Gimnaziul Bucovăţ',
+keywords: 'gimnaziul bucovat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2097",
@@ -21541,7 +21541,7 @@ height: 150
 {
 id: "3078",
 name_ro: 'Gimnaziul Drăguşeni',
-keywords: 'Gimnaziul Drăguşeni',
+keywords: 'gimnaziul draguseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2098",
@@ -21558,7 +21558,7 @@ height: 150
 {
 id: "3079",
 name_ro: 'Şcoala Medie Recea',
-keywords: 'Şcoala Medie Recea',
+keywords: 'scoala medie recea',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2099",
@@ -21575,7 +21575,7 @@ height: 150
 {
 id: "3080",
 name_ro: 'Nicolai Nekrasov',
-keywords: 'Nicolai Nekrasov',
+keywords: 'nicolai nekrasov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2100",
@@ -21592,7 +21592,7 @@ height: 150
 {
 id: "3081",
 name_ro: 'Şcoala Medie Rădeni',
-keywords: 'Şcoala Medie Rădeni',
+keywords: 'scoala medie radeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2101",
@@ -21609,7 +21609,7 @@ height: 150
 {
 id: "3082",
 name_ro: 'Mihai Curicheru',
-keywords: 'Mihai Curicheru',
+keywords: 'mihai curicheru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2102",
@@ -21626,7 +21626,7 @@ height: 150
 {
 id: "3083",
 name_ro: 'Gimnaziul "Mihai Viteazul"',
-keywords: 'Gimnaziul "Mihai Viteazul"',
+keywords: 'gimnaziul mihai viteazul',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2100",
@@ -21643,7 +21643,7 @@ height: 150
 {
 id: "3084",
 name_ro: 'Gimnaziul Lupa-Recea',
-keywords: 'Gimnaziul Lupa-Recea',
+keywords: 'gimnaziul lupa-recea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2103",
@@ -21660,7 +21660,7 @@ height: 150
 {
 id: "3085",
 name_ro: 'Gimnaziul Pănăşeşti',
-keywords: 'Gimnaziul Pănăşeşti',
+keywords: 'gimnaziul panasesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2104",
@@ -21677,7 +21677,7 @@ height: 150
 {
 id: "3086",
 name_ro: 'Gimnaziul Chirianaca',
-keywords: 'Gimnaziul Chirianaca',
+keywords: 'gimnaziul chirianaca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2105",
@@ -21694,7 +21694,7 @@ height: 150
 {
 id: "3087",
 name_ro: 'Şcoala Medie Căpriana',
-keywords: 'Şcoala Medie Căpriana',
+keywords: 'scoala medie capriana',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2106",
@@ -21711,7 +21711,7 @@ height: 150
 {
 id: "3088",
 name_ro: 'Liceul Zubteşti',
-keywords: 'Liceul Zubteşti',
+keywords: 'liceul zubtesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2107",
@@ -21728,7 +21728,7 @@ height: 150
 {
 id: "3089",
 name_ro: 'Ion Vatamanu',
-keywords: 'Ion Vatamanu',
+keywords: 'ion vatamanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2100",
@@ -21745,7 +21745,7 @@ height: 150
 {
 id: "3090",
 name_ro: 'Mitropolit Nestor Vornicescu',
-keywords: 'Mitropolit Nestor Vornicescu',
+keywords: 'mitropolit nestor vornicescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2108",
@@ -21762,7 +21762,7 @@ height: 150
 {
 id: "3091",
 name_ro: 'Gimnaziul Ţigăneşti',
-keywords: 'Gimnaziul Ţigăneşti',
+keywords: 'gimnaziul tiganesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2109",
@@ -21779,7 +21779,7 @@ height: 150
 {
 id: "3092",
 name_ro: 'Alecu Russo',
-keywords: 'Alecu Russo',
+keywords: 'alecu russo',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2110",
@@ -21796,7 +21796,7 @@ height: 150
 {
 id: "3093",
 name_ro: 'Gimnaziul Voinova',
-keywords: 'Gimnaziul Voinova',
+keywords: 'gimnaziul voinova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2111",
@@ -21813,7 +21813,7 @@ height: 150
 {
 id: "3094",
 name_ro: 'I. Inculeţ',
-keywords: 'I. Inculeţ',
+keywords: 'i. inculet',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2112",
@@ -21830,7 +21830,7 @@ height: 150
 {
 id: "3095",
 name_ro: 'Liceul Teoretic Romăneşti',
-keywords: 'Liceul Teoretic Romăneşti',
+keywords: 'liceul teoretic romanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2113",
@@ -21847,7 +21847,7 @@ height: 150
 {
 id: "3096",
 name_ro: 'Gimnaziul Tătăreşti',
-keywords: 'Gimnaziul Tătăreşti',
+keywords: 'gimnaziul tataresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2114",
@@ -21864,7 +21864,7 @@ height: 150
 {
 id: "3097",
 name_ro: 'Gimnaziul Negreşti',
-keywords: 'Gimnaziul Negreşti',
+keywords: 'gimnaziul negresti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2115",
@@ -21881,7 +21881,7 @@ height: 150
 {
 id: "3098",
 name_ro: 'Gimnaziul Oneşti',
-keywords: 'Gimnaziul Oneşti',
+keywords: 'gimnaziul onesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2116",
@@ -21898,7 +21898,7 @@ height: 150
 {
 id: "3099",
 name_ro: 'Gimnaziul Roşcani',
-keywords: 'Gimnaziul Roşcani',
+keywords: 'gimnaziul roscani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2117",
@@ -21915,7 +21915,7 @@ height: 150
 {
 id: "3100",
 name_ro: 'Gimnaziul Saca',
-keywords: 'Gimnaziul Saca',
+keywords: 'gimnaziul saca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2118",
@@ -21932,7 +21932,7 @@ height: 150
 {
 id: "3101",
 name_ro: 'Mihai Eminescu',
-keywords: 'Mihai Eminescu',
+keywords: 'mihai eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2100",
@@ -21949,7 +21949,7 @@ height: 150
 {
 id: "3102",
 name_ro: 'Ion Creangă',
-keywords: 'Ion Creangă',
+keywords: 'ion creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2119",
@@ -21966,7 +21966,7 @@ height: 150
 {
 id: "3103",
 name_ro: 'Şcoala Medie Codreanca',
-keywords: 'Şcoala Medie Codreanca',
+keywords: 'scoala medie codreanca',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2120",
@@ -21983,7 +21983,7 @@ height: 150
 {
 id: "3104",
 name_ro: 'V. Slobozenco',
-keywords: 'V. Slobozenco',
+keywords: 'v. slobozenco',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2121",
@@ -22000,7 +22000,7 @@ height: 150
 {
 id: "3105",
 name_ro: 'LICEUL TEORETIC INTERNAŢIONAL DE MANAGEMENT',
-keywords: 'LICEUL TEORETIC INTERNAŢIONAL DE MANAGEMENT',
+keywords: 'liceul teoretic international de management',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2100",
@@ -22017,7 +22017,7 @@ height: 150
 {
 id: "3106",
 name_ro: 'Gimnaziul Cojuşna',
-keywords: 'Gimnaziul Cojuşna',
+keywords: 'gimnaziul cojusna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2110",
@@ -22034,7 +22034,7 @@ height: 150
 {
 id: "3107",
 name_ro: 'Gimnaziul Dolna',
-keywords: 'Gimnaziul Dolna',
+keywords: 'gimnaziul dolna',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2122",
@@ -22051,7 +22051,7 @@ height: 150
 {
 id: "3108",
 name_ro: 'Şcoala internat auxiliară',
-keywords: 'Şcoala internat auxiliară',
+keywords: 'scoala internat auxiliara',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2100",
@@ -22068,7 +22068,7 @@ height: 150
 {
 id: "3109",
 name_ro: 'Liceul Teoretic Sireţi',
-keywords: 'Liceul Teoretic Sireţi',
+keywords: 'liceul teoretic sireti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2123",
@@ -22085,7 +22085,7 @@ height: 150
 {
 id: "3110",
 name_ro: 'Universul',
-keywords: 'Universul',
+keywords: 'universul',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2124",
@@ -22102,7 +22102,7 @@ height: 150
 {
 id: "3111",
 name_ro: 'Gimnaziul Stejăreni',
-keywords: 'Gimnaziul Stejăreni',
+keywords: 'gimnaziul stejareni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2125",
@@ -22119,7 +22119,7 @@ height: 150
 {
 id: "3112",
 name_ro: 'Gim internat Străşeni',
-keywords: 'Gim internat Străşeni',
+keywords: 'gim internat straseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2100",
@@ -22136,7 +22136,7 @@ height: 150
 {
 id: "3113",
 name_ro: 'Şcoala Medie Găleşti',
-keywords: 'Şcoala Medie Găleşti',
+keywords: 'scoala medie galesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2126",
@@ -22153,7 +22153,7 @@ height: 150
 {
 id: "3114",
 name_ro: 'LICEUL TEORETIC ALBOTA DE SUS',
-keywords: 'LICEUL TEORETIC ALBOTA DE SUS',
+keywords: 'liceul teoretic albota de sus',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2127",
@@ -22170,7 +22170,7 @@ height: 150
 {
 id: "3115",
 name_ro: 'LICEUL H.BOTEV VALEA PERJEI',
-keywords: 'LICEUL H.BOTEV VALEA PERJEI',
+keywords: 'liceul h.botev valea perjei',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2128",
@@ -22187,7 +22187,7 @@ height: 150
 {
 id: "3116",
 name_ro: 'LICEUL TEORETIC BUDĂI',
-keywords: 'LICEUL TEORETIC BUDĂI',
+keywords: 'liceul teoretic budai',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2129",
@@ -22204,7 +22204,7 @@ height: 150
 {
 id: "3117",
 name_ro: 'Gimnaziul rus Musaitu',
-keywords: 'Gimnaziul rus Musaitu',
+keywords: 'gimnaziul rus musaitu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2130",
@@ -22221,7 +22221,7 @@ height: 150
 {
 id: "3118",
 name_ro: 'Gimnaziul Novosiolovca',
-keywords: 'Gimnaziul Novosiolovca',
+keywords: 'gimnaziul novosiolovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2131",
@@ -22238,7 +22238,7 @@ height: 150
 {
 id: "3119",
 name_ro: 'Gimnaziul Sofievca',
-keywords: 'Gimnaziul Sofievca',
+keywords: 'gimnaziul sofievca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2132",
@@ -22255,7 +22255,7 @@ height: 150
 {
 id: "3120",
 name_ro: 'GIMNAZIUL RUS TARACLIA',
-keywords: 'GIMNAZIUL RUS TARACLIA',
+keywords: 'gimnaziul rus taraclia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2133",
@@ -22272,7 +22272,7 @@ height: 150
 {
 id: "3121",
 name_ro: 'LICEUL TVARDIŢA',
-keywords: 'LICEUL TVARDIŢA',
+keywords: 'liceul tvardita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2134",
@@ -22289,7 +22289,7 @@ height: 150
 {
 id: "3122",
 name_ro: 'LICEUL TEORETIC CAIRACLIA',
-keywords: 'LICEUL TEORETIC CAIRACLIA',
+keywords: 'liceul teoretic cairaclia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2135",
@@ -22306,7 +22306,7 @@ height: 150
 {
 id: "3123",
 name_ro: 'Gimnaziul moldo-rus Balabanu',
-keywords: 'Gimnaziul moldo-rus Balabanu',
+keywords: 'gimnaziul moldo-rus balabanu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2136",
@@ -22323,7 +22323,7 @@ height: 150
 {
 id: "3124",
 name_ro: 'Gimnaziul Hîrtop',
-keywords: 'Gimnaziul Hîrtop',
+keywords: 'gimnaziul hirtop',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2137",
@@ -22340,7 +22340,7 @@ height: 150
 {
 id: "3125",
 name_ro: 'LICEUL TEORETIC CIUMAI',
-keywords: 'LICEUL TEORETIC CIUMAI',
+keywords: 'liceul teoretic ciumai',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2138",
@@ -22357,7 +22357,7 @@ height: 150
 {
 id: "3126",
 name_ro: 'GIMNAZIUL RUS TVARDIŢA',
-keywords: 'GIMNAZIUL RUS TVARDIŢA',
+keywords: 'gimnaziul rus tvardita',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2134",
@@ -22374,7 +22374,7 @@ height: 150
 {
 id: "3127",
 name_ro: 'Gimnaziul Albota de Jos',
-keywords: 'Gimnaziul Albota de Jos',
+keywords: 'gimnaziul albota de jos',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2139",
@@ -22391,7 +22391,7 @@ height: 150
 {
 id: "3128",
 name_ro: 'LICEUL CORTEN',
-keywords: 'LICEUL CORTEN',
+keywords: 'liceul corten',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2140",
@@ -22408,7 +22408,7 @@ height: 150
 {
 id: "3129",
 name_ro: 'GIMNAZIUL VALEA PERJEI',
-keywords: 'GIMNAZIUL VALEA PERJEI',
+keywords: 'gimnaziul valea perjei',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2128",
@@ -22425,7 +22425,7 @@ height: 150
 {
 id: "3130",
 name_ro: 'LICEUL TEORETIC "O. Panov"',
-keywords: 'LICEUL TEORETIC "O. Panov"',
+keywords: 'liceul teoretic o. panov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2133",
@@ -22442,7 +22442,7 @@ height: 150
 {
 id: "3131",
 name_ro: 'LICEUL TEORETIC NR 2',
-keywords: 'LICEUL TEORETIC NR 2',
+keywords: 'liceul teoretic nr 2',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2133",
@@ -22459,7 +22459,7 @@ height: 150
 {
 id: "3132",
 name_ro: 'GIMNAZIUL ALUATU',
-keywords: 'GIMNAZIUL ALUATU',
+keywords: 'gimnaziul aluatu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2141",
@@ -22476,7 +22476,7 @@ height: 150
 {
 id: "3133",
 name_ro: 'LICEUL TEORETIC I.VAZOV',
-keywords: 'LICEUL TEORETIC I.VAZOV',
+keywords: 'liceul teoretic i.vazov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2133",
@@ -22493,7 +22493,7 @@ height: 150
 {
 id: "3134",
 name_ro: 'Liceul Teoretic Negureni',
-keywords: 'Liceul Teoretic Negureni',
+keywords: 'liceul teoretic negureni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2142",
@@ -22510,7 +22510,7 @@ height: 150
 {
 id: "3135",
 name_ro: 'Şcoala Medie Ineşti',
-keywords: 'Şcoala Medie Ineşti',
+keywords: 'scoala medie inesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2143",
@@ -22527,7 +22527,7 @@ height: 150
 {
 id: "3136",
 name_ro: 'Şcoala Medie Ordaşei',
-keywords: 'Şcoala Medie Ordaşei',
+keywords: 'scoala medie ordasei',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2144",
@@ -22544,7 +22544,7 @@ height: 150
 {
 id: "3137",
 name_ro: 'Şcoala Medie Hirişeni',
-keywords: 'Şcoala Medie Hirişeni',
+keywords: 'scoala medie hiriseni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2145",
@@ -22561,7 +22561,7 @@ height: 150
 {
 id: "3138",
 name_ro: 'Şcoala Medie Crăsnăşeni',
-keywords: 'Şcoala Medie Crăsnăşeni',
+keywords: 'scoala medie crasnaseni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2146",
@@ -22578,7 +22578,7 @@ height: 150
 {
 id: "3139",
 name_ro: 'Gimnaziul Băneştii Noi',
-keywords: 'Gimnaziul Băneştii Noi',
+keywords: 'gimnaziul banestii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2147",
@@ -22595,7 +22595,7 @@ height: 150
 {
 id: "3140",
 name_ro: 'Şcoala Medie Leuşeni',
-keywords: 'Şcoala Medie Leuşeni',
+keywords: 'scoala medie leuseni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2148",
@@ -22612,7 +22612,7 @@ height: 150
 {
 id: "3141",
 name_ro: 'Gimnaziul Vadul Leca',
-keywords: 'Gimnaziul Vadul Leca',
+keywords: 'gimnaziul vadul leca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2149",
@@ -22629,7 +22629,7 @@ height: 150
 {
 id: "3142",
 name_ro: 'şc. alolingvă Teleneşti',
-keywords: 'şc. alolingvă Teleneşti',
+keywords: 'sc. alolingva telenesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2150",
@@ -22646,7 +22646,7 @@ height: 150
 {
 id: "3143",
 name_ro: 'Gimnaziul Ciulucani',
-keywords: 'Gimnaziul Ciulucani',
+keywords: 'gimnaziul ciulucani',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2151",
@@ -22663,7 +22663,7 @@ height: 150
 {
 id: "3144",
 name_ro: 'Gimnaziul Bogzeşti',
-keywords: 'Gimnaziul Bogzeşti',
+keywords: 'gimnaziul bogzesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2152",
@@ -22680,7 +22680,7 @@ height: 150
 {
 id: "3145",
 name_ro: 'Gimnaziul Brînzenii Noi',
-keywords: 'Gimnaziul Brînzenii Noi',
+keywords: 'gimnaziul brinzenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2153",
@@ -22697,7 +22697,7 @@ height: 150
 {
 id: "3146",
 name_ro: 'Gimnaziul Codrul Nou',
-keywords: 'Gimnaziul Codrul Nou',
+keywords: 'gimnaziul codrul nou',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2154",
@@ -22714,7 +22714,7 @@ height: 150
 {
 id: "3147",
 name_ro: 'Gimnaziul Codru',
-keywords: 'Gimnaziul Codru',
+keywords: 'gimnaziul codru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2155",
@@ -22731,7 +22731,7 @@ height: 150
 {
 id: "3148",
 name_ro: 'Gimnaziul Coropceni',
-keywords: 'Gimnaziul Coropceni',
+keywords: 'gimnaziul coropceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2156",
@@ -22748,7 +22748,7 @@ height: 150
 {
 id: "3149",
 name_ro: 'Gimnaziul Ghermăneşti',
-keywords: 'Gimnaziul Ghermăneşti',
+keywords: 'gimnaziul ghermanesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2157",
@@ -22765,7 +22765,7 @@ height: 150
 {
 id: "3150",
 name_ro: 'Gimnaziul Mihalaşa',
-keywords: 'Gimnaziul Mihalaşa',
+keywords: 'gimnaziul mihalasa',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2158",
@@ -22782,7 +22782,7 @@ height: 150
 {
 id: "3151",
 name_ro: 'Gimnaziul Nucăreni',
-keywords: 'Gimnaziul Nucăreni',
+keywords: 'gimnaziul nucareni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2159",
@@ -22799,7 +22799,7 @@ height: 150
 {
 id: "3152",
 name_ro: 'Liceul Teoretic Chiştelniţa',
-keywords: 'Liceul Teoretic Chiştelniţa',
+keywords: 'liceul teoretic chistelnita',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2160",
@@ -22816,7 +22816,7 @@ height: 150
 {
 id: "3153",
 name_ro: 'Gimnaziul Zgărdeşti',
-keywords: 'Gimnaziul Zgărdeşti',
+keywords: 'gimnaziul zgardesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2161",
@@ -22833,7 +22833,7 @@ height: 150
 {
 id: "3154",
 name_ro: 'Gimnaziul Văsieni',
-keywords: 'Gimnaziul Văsieni',
+keywords: 'gimnaziul vasieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2162",
@@ -22850,7 +22850,7 @@ height: 150
 {
 id: "3155",
 name_ro: 'Şcoala Medie Scorţeni',
-keywords: 'Şcoala Medie Scorţeni',
+keywords: 'scoala medie scorteni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2163",
@@ -22867,7 +22867,7 @@ height: 150
 {
 id: "3156",
 name_ro: 'Gimnaziul Ratuş',
-keywords: 'Gimnaziul Ratuş',
+keywords: 'gimnaziul ratus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2164",
@@ -22884,7 +22884,7 @@ height: 150
 {
 id: "3157",
 name_ro: 'Gimnaziul Cucioaia',
-keywords: 'Gimnaziul Cucioaia',
+keywords: 'gimnaziul cucioaia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2165",
@@ -22901,7 +22901,7 @@ height: 150
 {
 id: "3158",
 name_ro: 'gimnaziul ,,M.Eminescu" Teleneşti',
-keywords: 'gimnaziul ,,M.Eminescu" Teleneşti',
+keywords: 'gimnaziul m.eminescu telenesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2150",
@@ -22918,7 +22918,7 @@ height: 150
 {
 id: "3159",
 name_ro: 'Gimnaziul Hîrtop',
-keywords: 'Gimnaziul Hîrtop',
+keywords: 'gimnaziul hirtop',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2166",
@@ -22935,7 +22935,7 @@ height: 150
 {
 id: "3160",
 name_ro: 'Gimnaziul Câşla',
-keywords: 'Gimnaziul Câşla',
+keywords: 'gimnaziul casla',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2167",
@@ -22952,7 +22952,7 @@ height: 150
 {
 id: "3161",
 name_ro: 'Şcoala Medie Ghiliceni',
-keywords: 'Şcoala Medie Ghiliceni',
+keywords: 'scoala medie ghiliceni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2168",
@@ -22969,7 +22969,7 @@ height: 150
 {
 id: "3162",
 name_ro: 'Gimnaziul Căzăneşti Internat',
-keywords: 'Gimnaziul Căzăneşti Internat',
+keywords: 'gimnaziul cazanesti internat',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2169",
@@ -22986,7 +22986,7 @@ height: 150
 {
 id: "3163",
 name_ro: 'Gimnaziul auxiliar Teleneşti',
-keywords: 'Gimnaziul auxiliar Teleneşti',
+keywords: 'gimnaziul auxiliar telenesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2150",
@@ -23003,7 +23003,7 @@ height: 150
 {
 id: "3164",
 name_ro: 'Şcoala Medie Verejeni',
-keywords: 'Şcoala Medie Verejeni',
+keywords: 'scoala medie verejeni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2170",
@@ -23020,7 +23020,7 @@ height: 150
 {
 id: "3165",
 name_ro: 'Şcoala Medie Tîrşiţei',
-keywords: 'Şcoala Medie Tîrşiţei',
+keywords: 'scoala medie tirsitei',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2171",
@@ -23037,7 +23037,7 @@ height: 150
 {
 id: "3166",
 name_ro: 'Şcoala Medie Suhuluceni',
-keywords: 'Şcoala Medie Suhuluceni',
+keywords: 'scoala medie suhuluceni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2172",
@@ -23054,7 +23054,7 @@ height: 150
 {
 id: "3167",
 name_ro: 'Gimnaziul Pistruieni',
-keywords: 'Gimnaziul Pistruieni',
+keywords: 'gimnaziul pistruieni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2173",
@@ -23071,7 +23071,7 @@ height: 150
 {
 id: "3168",
 name_ro: 'Şcoala Medie Căzăneşti',
-keywords: 'Şcoala Medie Căzăneşti',
+keywords: 'scoala medie cazanesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2169",
@@ -23088,7 +23088,7 @@ height: 150
 {
 id: "3169",
 name_ro: 'Şcoala Medie Budăi',
-keywords: 'Şcoala Medie Budăi',
+keywords: 'scoala medie budai',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2174",
@@ -23105,7 +23105,7 @@ height: 150
 {
 id: "3170",
 name_ro: 'Liceul Teoretic Brînzenii Vechi',
-keywords: 'Liceul Teoretic Brînzenii Vechi',
+keywords: 'liceul teoretic brinzenii vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2175",
@@ -23122,7 +23122,7 @@ height: 150
 {
 id: "3171",
 name_ro: 'Liceul Teoretic Ţînţăreni',
-keywords: 'Liceul Teoretic Ţînţăreni',
+keywords: 'liceul teoretic tintareni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2176",
@@ -23139,7 +23139,7 @@ height: 150
 {
 id: "3172",
 name_ro: 'Liceul Teoretic ,,D.Cantemir" Mîndreşti',
-keywords: 'Liceul Teoretic ,,D.Cantemir" Mîndreşti',
+keywords: 'liceul teoretic d.cantemir mindresti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2177",
@@ -23156,7 +23156,7 @@ height: 150
 {
 id: "3173",
 name_ro: 'Liceul Teoretic ,,V.Anestiade" Sărătenii Vechi',
-keywords: 'Liceul Teoretic ,,V.Anestiade" Sărătenii Vechi',
+keywords: 'liceul teoretic v.anestiade saratenii vechi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2178",
@@ -23173,7 +23173,7 @@ height: 150
 {
 id: "3174",
 name_ro: 'Liceul Teoretic ,,L.Blaga" Teleneşti',
-keywords: 'Liceul Teoretic ,,L.Blaga" Teleneşti',
+keywords: 'liceul teoretic l.blaga telenesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2150",
@@ -23190,7 +23190,7 @@ height: 150
 {
 id: "3175",
 name_ro: 'Şcoala Medie Băneşti',
-keywords: 'Şcoala Medie Băneşti',
+keywords: 'scoala medie banesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2179",
@@ -23207,7 +23207,7 @@ height: 150
 {
 id: "3176",
 name_ro: 'Şcoala Medie Chiţcanii Vechi',
-keywords: 'Şcoala Medie Chiţcanii Vechi',
+keywords: 'scoala medie chitcanii vechi',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2180",
@@ -23224,7 +23224,7 @@ height: 150
 {
 id: "3177",
 name_ro: 'Gimnaziul Rădenii Vechi',
-keywords: 'Gimnaziul Rădenii Vechi',
+keywords: 'gimnaziul radenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2181",
@@ -23241,7 +23241,7 @@ height: 150
 {
 id: "3178",
 name_ro: 'gimnaziul Drujba',
-keywords: 'gimnaziul Drujba',
+keywords: 'gimnaziul drujba',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2182",
@@ -23258,7 +23258,7 @@ height: 150
 {
 id: "3179",
 name_ro: 'gimnaziul Mînzăteşti',
-keywords: 'gimnaziul Mînzăteşti',
+keywords: 'gimnaziul minzatesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2183",
@@ -23275,7 +23275,7 @@ height: 150
 {
 id: "3180",
 name_ro: 'gimnaziul "Pavel Buruiană"',
-keywords: 'gimnaziul "Pavel Buruiană"',
+keywords: 'gimnaziul pavel buruiana',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2184",
@@ -23292,7 +23292,7 @@ height: 150
 {
 id: "3181",
 name_ro: 'gimnaziul Curtoaia',
-keywords: 'gimnaziul Curtoaia',
+keywords: 'gimnaziul curtoaia',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2185",
@@ -23309,7 +23309,7 @@ height: 150
 {
 id: "3182",
 name_ro: 'gimnaziul " Paul Mihail"',
-keywords: 'gimnaziul " Paul Mihail"',
+keywords: 'gimnaziul paul mihail',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2186",
@@ -23326,7 +23326,7 @@ height: 150
 {
 id: "3183",
 name_ro: 'gimnaziul Semeni',
-keywords: 'gimnaziul Semeni',
+keywords: 'gimnaziul semeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2187",
@@ -23343,7 +23343,7 @@ height: 150
 {
 id: "3184",
 name_ro: 'gimnaziul Medeleni',
-keywords: 'gimnaziul Medeleni',
+keywords: 'gimnaziul medeleni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2188",
@@ -23360,7 +23360,7 @@ height: 150
 {
 id: "3185",
 name_ro: 'gimnaziul Sineşti',
-keywords: 'gimnaziul Sineşti',
+keywords: 'gimnaziul sinesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2189",
@@ -23377,7 +23377,7 @@ height: 150
 {
 id: "3186",
 name_ro: 'Liceul Teoretic"Vasile Alecsandri"',
-keywords: 'Liceul Teoretic"Vasile Alecsandri"',
+keywords: 'liceul teoretic vasile alecsandri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2190",
@@ -23394,7 +23394,7 @@ height: 150
 {
 id: "3187",
 name_ro: 'gimnaziul Teşcureni',
-keywords: 'gimnaziul Teşcureni',
+keywords: 'gimnaziul tescureni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2191",
@@ -23411,7 +23411,7 @@ height: 150
 {
 id: "3188",
 name_ro: 'Gimnaziul Todereşti',
-keywords: 'Gimnaziul Todereşti',
+keywords: 'gimnaziul toderesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2192",
@@ -23428,7 +23428,7 @@ height: 150
 {
 id: "3189",
 name_ro: 'gimnaziul Gherman',
-keywords: 'gimnaziul Gherman',
+keywords: 'gimnaziul gherman',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2193",
@@ -23445,7 +23445,7 @@ height: 150
 {
 id: "3190",
 name_ro: 'gimnaziul Blîndeşti',
-keywords: 'gimnaziul Blîndeşti',
+keywords: 'gimnaziul blindesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2194",
@@ -23462,7 +23462,7 @@ height: 150
 {
 id: "3191",
 name_ro: 'Gimnaziul Alexeevca',
-keywords: 'Gimnaziul Alexeevca',
+keywords: 'gimnaziul alexeevca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2195",
@@ -23479,7 +23479,7 @@ height: 150
 {
 id: "3192",
 name_ro: 'Gimnaziul "I. Vatamanu"',
-keywords: 'Gimnaziul "I. Vatamanu"',
+keywords: 'gimnaziul i. vatamanu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2196",
@@ -23496,7 +23496,7 @@ height: 150
 {
 id: "3193",
 name_ro: 'gimnaziul Grăseni',
-keywords: 'gimnaziul Grăseni',
+keywords: 'gimnaziul graseni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2197",
@@ -23513,7 +23513,7 @@ height: 150
 {
 id: "3194",
 name_ro: 'gimnaziul Buşila',
-keywords: 'gimnaziul Buşila',
+keywords: 'gimnaziul busila',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2198",
@@ -23530,7 +23530,7 @@ height: 150
 {
 id: "3195",
 name_ro: 'gimnaziul Agronomovca',
-keywords: 'gimnaziul Agronomovca',
+keywords: 'gimnaziul agronomovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2199",
@@ -23547,7 +23547,7 @@ height: 150
 {
 id: "3196",
 name_ro: 'Liceul Teoretic "A.Puşkin"',
-keywords: 'Liceul Teoretic "A.Puşkin"',
+keywords: 'liceul teoretic a.puskin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2190",
@@ -23564,7 +23564,7 @@ height: 150
 {
 id: "3197",
 name_ro: 'Liceul Teoretic " A.Mateevici"',
-keywords: 'Liceul Teoretic " A.Mateevici"',
+keywords: 'liceul teoretic a.mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2196",
@@ -23581,7 +23581,7 @@ height: 150
 {
 id: "3198",
 name_ro: 'Gimnaziul de tip Internat pentru copii orfani şi rămaşi fără îngrijirea părinţilor',
-keywords: 'Gimnaziul de tip Internat pentru copii orfani şi rămaşi fără îngrijirea părinţilor',
+keywords: 'gimnaziul de tip internat pentru copii orfani si ramasi fara ingrijirea parintilor',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2190",
@@ -23598,7 +23598,7 @@ height: 150
 {
 id: "3199",
 name_ro: 'Liceul Teoretic Sculeni',
-keywords: 'Liceul Teoretic Sculeni',
+keywords: 'liceul teoretic sculeni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2200",
@@ -23615,7 +23615,7 @@ height: 150
 {
 id: "3200",
 name_ro: 'gimnaziul Mirceşti',
-keywords: 'gimnaziul Mirceşti',
+keywords: 'gimnaziul mircesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2201",
@@ -23632,7 +23632,7 @@ height: 150
 {
 id: "3201",
 name_ro: 'gimnaziul Negurenii Vechi',
-keywords: 'gimnaziul Negurenii Vechi',
+keywords: 'gimnaziul negurenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2202",
@@ -23649,7 +23649,7 @@ height: 150
 {
 id: "3202",
 name_ro: 'gimnaziul "Grigore Vieru"',
-keywords: 'gimnaziul "Grigore Vieru"',
+keywords: 'gimnaziul grigore vieru',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2203",
@@ -23666,7 +23666,7 @@ height: 150
 {
 id: "3203",
 name_ro: 'gimnaziul Zagarancea',
-keywords: 'gimnaziul Zagarancea',
+keywords: 'gimnaziul zagarancea',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2204",
@@ -23683,7 +23683,7 @@ height: 150
 {
 id: "3204",
 name_ro: 'gimnaziul Hristoforovca',
-keywords: 'gimnaziul Hristoforovca',
+keywords: 'gimnaziul hristoforovca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2205",
@@ -23700,7 +23700,7 @@ height: 150
 {
 id: "3205",
 name_ro: 'gimnaziul Stolniceni',
-keywords: 'gimnaziul Stolniceni',
+keywords: 'gimnaziul stolniceni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2206",
@@ -23717,7 +23717,7 @@ height: 150
 {
 id: "3206",
 name_ro: 'gimnaziul Corneşti',
-keywords: 'gimnaziul Corneşti',
+keywords: 'gimnaziul cornesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2207",
@@ -23734,7 +23734,7 @@ height: 150
 {
 id: "3207",
 name_ro: 'Liceul Teoretic " D.Cantemir"',
-keywords: 'Liceul Teoretic " D.Cantemir"',
+keywords: 'liceul teoretic d.cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2207",
@@ -23751,7 +23751,7 @@ height: 150
 {
 id: "3208",
 name_ro: 'gimnaziul Morenii Vechi',
-keywords: 'gimnaziul Morenii Vechi',
+keywords: 'gimnaziul morenii vechi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2208",
@@ -23768,7 +23768,7 @@ height: 150
 {
 id: "3209",
 name_ro: 'Şcoala Medie Chirileni',
-keywords: 'Şcoala Medie Chirileni',
+keywords: 'scoala medie chirileni',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2209",
@@ -23785,7 +23785,7 @@ height: 150
 {
 id: "3210",
 name_ro: 'gimnaziul "V. Badiu"',
-keywords: 'gimnaziul "V. Badiu"',
+keywords: 'gimnaziul v. badiu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2210",
@@ -23802,7 +23802,7 @@ height: 150
 {
 id: "3211",
 name_ro: 'Gimnaziul Bumbăta',
-keywords: 'Gimnaziul Bumbăta',
+keywords: 'gimnaziul bumbata',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2211",
@@ -23819,7 +23819,7 @@ height: 150
 {
 id: "3212",
 name_ro: 'şcoală primară-grădiniţă Grozasca',
-keywords: 'şcoală primară-grădiniţă Grozasca',
+keywords: 'scoala primara-gradinita grozasca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2212",
@@ -23836,7 +23836,7 @@ height: 150
 {
 id: "3213",
 name_ro: 'gimnaziul Floriţoaia Nouă',
-keywords: 'gimnaziul Floriţoaia Nouă',
+keywords: 'gimnaziul floritoaia noua',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2213",
@@ -23853,7 +23853,7 @@ height: 150
 {
 id: "3214",
 name_ro: 'gimnaziul Floriţoaia Veche',
-keywords: 'gimnaziul Floriţoaia Veche',
+keywords: 'gimnaziul floritoaia veche',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2214",
@@ -23870,7 +23870,7 @@ height: 150
 {
 id: "3215",
 name_ro: 'gimnaziul Unţeşti',
-keywords: 'gimnaziul Unţeşti',
+keywords: 'gimnaziul untesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2215",
@@ -23887,7 +23887,7 @@ height: 150
 {
 id: "3216",
 name_ro: 'gimnaziul Rezina',
-keywords: 'gimnaziul Rezina',
+keywords: 'gimnaziul rezina',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2216",
@@ -23904,7 +23904,7 @@ height: 150
 {
 id: "3217",
 name_ro: 'Liceul Teoretic "M. Eminescu"',
-keywords: 'Liceul Teoretic "M. Eminescu"',
+keywords: 'liceul teoretic m. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2190",
@@ -23921,7 +23921,7 @@ height: 150
 {
 id: "3218",
 name_ro: 'Liceul Teoretic "I. Creangă"',
-keywords: 'Liceul Teoretic "I. Creangă"',
+keywords: 'liceul teoretic i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2190",
@@ -23938,7 +23938,7 @@ height: 150
 {
 id: "3219",
 name_ro: 'gimnaziul Frăsineşti',
-keywords: 'gimnaziul Frăsineşti',
+keywords: 'gimnaziul frasinesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2217",
@@ -23955,7 +23955,7 @@ height: 150
 {
 id: "3220",
 name_ro: 'gimnaziul "A. Popovici"',
-keywords: 'gimnaziul "A. Popovici"',
+keywords: 'gimnaziul a. popovici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2218",
@@ -23972,7 +23972,7 @@ height: 150
 {
 id: "3221",
 name_ro: 'gimnaziul Năpădeni',
-keywords: 'gimnaziul Năpădeni',
+keywords: 'gimnaziul napadeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2219",
@@ -23989,7 +23989,7 @@ height: 150
 {
 id: "3222",
 name_ro: 'gimnaziul Buzduganii de Sus',
-keywords: 'gimnaziul Buzduganii de Sus',
+keywords: 'gimnaziul buzduganii de sus',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2220",
@@ -24006,7 +24006,7 @@ height: 150
 {
 id: "3223",
 name_ro: 'Liceul Teoretic Costuleni',
-keywords: 'Liceul Teoretic Costuleni',
+keywords: 'liceul teoretic costuleni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2221",
@@ -24023,7 +24023,7 @@ height: 150
 {
 id: "3224",
 name_ro: 'gimnaziul Zăzulenii Noi',
-keywords: 'gimnaziul Zăzulenii Noi',
+keywords: 'gimnaziul zazulenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2222",
@@ -24040,7 +24040,7 @@ height: 150
 {
 id: "3225",
 name_ro: 'Gimnaziu Hîrceşti',
-keywords: 'Gimnaziu Hîrceşti',
+keywords: 'gimnaziu hircesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2223",
@@ -24057,7 +24057,7 @@ height: 150
 {
 id: "3226",
 name_ro: 'Liceul Teoretic "Gaudiamus" Petreşti',
-keywords: 'Liceul Teoretic "Gaudiamus" Petreşti',
+keywords: 'liceul teoretic gaudiamus petresti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2224",
@@ -24074,7 +24074,7 @@ height: 150
 {
 id: "3227",
 name_ro: 'Şcoala Medie Cioropcani',
-keywords: 'Şcoala Medie Cioropcani',
+keywords: 'scoala medie cioropcani',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2225",
@@ -24091,7 +24091,7 @@ height: 150
 {
 id: "3228",
 name_ro: 'gimnaziul Morenii Noi',
-keywords: 'gimnaziul Morenii Noi',
+keywords: 'gimnaziul morenii noi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2226",
@@ -24108,7 +24108,7 @@ height: 150
 {
 id: "3229",
 name_ro: 'Şcoala Primară "Sp. Vangheli"',
-keywords: 'Şcoala Primară "Sp. Vangheli"',
+keywords: 'scoala primara sp. vangheli',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2190",
@@ -24125,7 +24125,7 @@ height: 150
 {
 id: "3230",
 name_ro: 'Liceul Teoretic "Elada"',
-keywords: 'Liceul Teoretic "Elada"',
+keywords: 'liceul teoretic elada',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2227",
@@ -24142,7 +24142,7 @@ height: 150
 {
 id: "3231",
 name_ro: 'Gimnaziul Mănoileşti',
-keywords: 'Gimnaziul Mănoileşti',
+keywords: 'gimnaziul manoilesti',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2228",
@@ -24159,7 +24159,7 @@ height: 150
 {
 id: "3232",
 name_ro: 'Liceul Teoretic "Gh. Asachi"',
-keywords: 'Liceul Teoretic "Gh. Asachi"',
+keywords: 'liceul teoretic gh. asachi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2190",
@@ -24176,7 +24176,7 @@ height: 150
 {
 id: "3233",
 name_ro: 'gimnaziul "Andrei Chivriga"',
-keywords: 'gimnaziul "Andrei Chivriga"',
+keywords: 'gimnaziul andrei chivriga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2229",
@@ -24193,7 +24193,7 @@ height: 150
 {
 id: "3234",
 name_ro: 'gimnaziulBuciumeni',
-keywords: 'gimnaziulBuciumeni',
+keywords: 'gimnaziulbuciumeni',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2230",
@@ -24210,7 +24210,7 @@ height: 150
 {
 id: "3235",
 name_ro: 'Liceul Teoretic Cetireni',
-keywords: 'Liceul Teoretic Cetireni',
+keywords: 'liceul teoretic cetireni',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2231",
@@ -24227,7 +24227,7 @@ height: 150
 {
 id: "3236",
 name_ro: 'Şcoala Primară "A. Mateevici"',
-keywords: 'Şcoala Primară "A. Mateevici"',
+keywords: 'scoala primara a. mateevici',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2190",
@@ -24244,7 +24244,7 @@ height: 150
 {
 id: "3237",
 name_ro: 'ŞCOALA MEDIE NR.1 CAZACLIA',
-keywords: 'ŞCOALA MEDIE NR.1 CAZACLIA',
+keywords: 'scoala medie nr.1 cazaclia',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2232",
@@ -24261,7 +24261,7 @@ height: 150
 {
 id: "3238",
 name_ro: 'GIMNAZIA Nr. 6 CEADÎR-LUNGA',
-keywords: 'GIMNAZIA Nr. 6 CEADÎR-LUNGA',
+keywords: 'gimnazia nr. 6 ceadir-lunga',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2233",
@@ -24278,7 +24278,7 @@ height: 150
 {
 id: "3239",
 name_ro: 'LICEUL TEORETIC RAIONAL "M.GUBOGLO"',
-keywords: 'LICEUL TEORETIC RAIONAL "M.GUBOGLO"',
+keywords: 'liceul teoretic raional m.guboglo',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2233",
@@ -24295,7 +24295,7 @@ height: 150
 {
 id: "3240",
 name_ro: 'LICEUL TEORETIC CONGAZCIC',
-keywords: 'LICEUL TEORETIC CONGAZCIC',
+keywords: 'liceul teoretic congazcic',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2234",
@@ -24312,7 +24312,7 @@ height: 150
 {
 id: "3241",
 name_ro: 'LICEUL TEORETIC "M.I.TUZLOV" s.CHIRSOVA',
-keywords: 'LICEUL TEORETIC "M.I.TUZLOV" s.CHIRSOVA',
+keywords: 'liceul teoretic m.i.tuzlov s.chirsova',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2235",
@@ -24329,7 +24329,7 @@ height: 150
 {
 id: "3242",
 name_ro: 'ŞCOALA MEDIE DEZGHINGEA',
-keywords: 'ŞCOALA MEDIE DEZGHINGEA',
+keywords: 'scoala medie dezghingea',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2236",
@@ -24346,7 +24346,7 @@ height: 150
 {
 id: "3243",
 name_ro: 'LICEUL TEORETIC "M.EMINESCU"',
-keywords: 'LICEUL TEORETIC "M.EMINESCU"',
+keywords: 'liceul teoretic m.eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2237",
@@ -24363,7 +24363,7 @@ height: 150
 {
 id: "3244",
 name_ro: 'GIMNAZIUL DIN FERAPONTIEVCA',
-keywords: 'GIMNAZIUL DIN FERAPONTIEVCA',
+keywords: 'gimnaziul din ferapontievca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2238",
@@ -24380,7 +24380,7 @@ height: 150
 {
 id: "3245",
 name_ro: 'LICEUL TEORETIC TOMAI',
-keywords: 'LICEUL TEORETIC TOMAI',
+keywords: 'liceul teoretic tomai',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2239",
@@ -24397,7 +24397,7 @@ height: 150
 {
 id: "3246",
 name_ro: 'ŞCOALĂ MEDIE Nr. 1 or.VULCĂNEŞTI',
-keywords: 'ŞCOALĂ MEDIE Nr. 1 or.VULCĂNEŞTI',
+keywords: 'scoala medie nr. 1 or.vulcanesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2240",
@@ -24414,7 +24414,7 @@ height: 150
 {
 id: "3247",
 name_ro: 'LICEUL TEORETIC Nr.2 DIN or.CEADÎR-LUNGA',
-keywords: 'LICEUL TEORETIC Nr.2 DIN or.CEADÎR-LUNGA',
+keywords: 'liceul teoretic nr.2 din or.ceadir-lunga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2233",
@@ -24431,7 +24431,7 @@ height: 150
 {
 id: "3248",
 name_ro: 'LICEUL TEORETIC "G.A.GAIDARJI", COMRAT',
-keywords: 'LICEUL TEORETIC "G.A.GAIDARJI", COMRAT',
+keywords: 'liceul teoretic g.a.gaidarji  comrat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2237",
@@ -24448,7 +24448,7 @@ height: 150
 {
 id: "3249",
 name_ro: 'LICEUL TEORETIC BAURCI',
-keywords: 'LICEUL TEORETIC BAURCI',
+keywords: 'liceul teoretic baurci',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2241",
@@ -24465,7 +24465,7 @@ height: 150
 {
 id: "3250",
 name_ro: 'ŞCOALA MEDIE Nr. 4 CEADÎR-LUNGA',
-keywords: 'ŞCOALA MEDIE Nr. 4 CEADÎR-LUNGA',
+keywords: 'scoala medie nr. 4 ceadir-lunga',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2233",
@@ -24482,7 +24482,7 @@ height: 150
 {
 id: "3251",
 name_ro: 'LICEUL TEORETIC Nr.1 or. VULCĂNEŞTI',
-keywords: 'LICEUL TEORETIC Nr.1 or. VULCĂNEŞTI',
+keywords: 'liceul teoretic nr.1 or. vulcanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2240",
@@ -24499,7 +24499,7 @@ height: 150
 {
 id: "3252",
 name_ro: 'ŞCOALĂ MEDIE Nr. 3 or.VULCĂNEŞTI',
-keywords: 'ŞCOALĂ MEDIE Nr. 3 or.VULCĂNEŞTI',
+keywords: 'scoala medie nr. 3 or.vulcanesti',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2240",
@@ -24516,7 +24516,7 @@ height: 150
 {
 id: "3253",
 name_ro: 'LICEUL TEORETIC CHIOSELIA RUSĂ',
-keywords: 'LICEUL TEORETIC CHIOSELIA RUSĂ',
+keywords: 'liceul teoretic chioselia rusa',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2242",
@@ -24533,7 +24533,7 @@ height: 150
 {
 id: "3254",
 name_ro: 'ŞCOALA MEDIE Nr. 7, COMRAT',
-keywords: 'ŞCOALA MEDIE Nr. 7, COMRAT',
+keywords: 'scoala medie nr. 7 comrat',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2237",
@@ -24550,7 +24550,7 @@ height: 150
 {
 id: "3255",
 name_ro: 'GIMNAZIA BUGEAC',
-keywords: 'GIMNAZIA BUGEAC',
+keywords: 'gimnazia bugeac',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2243",
@@ -24567,7 +24567,7 @@ height: 150
 {
 id: "3256",
 name_ro: 'LICEUL TEORETIC CIOC-MAIDAN',
-keywords: 'LICEUL TEORETIC CIOC-MAIDAN',
+keywords: 'liceul teoretic cioc-maidan',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2244",
@@ -24584,7 +24584,7 @@ height: 150
 {
 id: "3257",
 name_ro: 'LICEUL TEORETIC Nr.2 or. VULCĂNEŞTI',
-keywords: 'LICEUL TEORETIC Nr.2 or. VULCĂNEŞTI',
+keywords: 'liceul teoretic nr.2 or. vulcanesti',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2240",
@@ -24601,7 +24601,7 @@ height: 150
 {
 id: "3258",
 name_ro: 'ŞCOALA MEDIE DIN JOLTAI',
-keywords: 'ŞCOALA MEDIE DIN JOLTAI',
+keywords: 'scoala medie din joltai',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2245",
@@ -24618,7 +24618,7 @@ height: 150
 {
 id: "3259",
 name_ro: 'ŞCOALA MEDIE DIN GAIDAR',
-keywords: 'ŞCOALA MEDIE DIN GAIDAR',
+keywords: 'scoala medie din gaidar',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2246",
@@ -24635,7 +24635,7 @@ height: 150
 {
 id: "3260",
 name_ro: 'LICEUL TEORETIC Nr.1 COPCEAC',
-keywords: 'LICEUL TEORETIC Nr.1 COPCEAC',
+keywords: 'liceul teoretic nr.1 copceac',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2247",
@@ -24652,7 +24652,7 @@ height: 150
 {
 id: "3261",
 name_ro: 'LICEUL TEORETIC Nr.2 COPCEAC',
-keywords: 'LICEUL TEORETIC Nr.2 COPCEAC',
+keywords: 'liceul teoretic nr.2 copceac',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2247",
@@ -24669,7 +24669,7 @@ height: 150
 {
 id: "3262",
 name_ro: 'LICEUL TEORETIC CAZACLIA',
-keywords: 'LICEUL TEORETIC CAZACLIA',
+keywords: 'liceul teoretic cazaclia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2232",
@@ -24686,7 +24686,7 @@ height: 150
 {
 id: "3263",
 name_ro: 'LICEUL TEORETIC "V.MOŞCOV"',
-keywords: 'LICEUL TEORETIC "V.MOŞCOV"',
+keywords: 'liceul teoretic v.moscov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2233",
@@ -24703,7 +24703,7 @@ height: 150
 {
 id: "3264",
 name_ro: 'ŞCOALA PRIMARĂ BAURCI',
-keywords: 'ŞCOALA PRIMARĂ BAURCI',
+keywords: 'scoala primara baurci',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2241",
@@ -24720,7 +24720,7 @@ height: 150
 {
 id: "3265",
 name_ro: 'LICEUL TEORETIC CIŞMICHIOI',
-keywords: 'LICEUL TEORETIC CIŞMICHIOI',
+keywords: 'liceul teoretic cismichioi',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2248",
@@ -24737,7 +24737,7 @@ height: 150
 {
 id: "3266",
 name_ro: 'ŞCOALA MEDIE DIN CHIRIET-LUNGA',
-keywords: 'ŞCOALA MEDIE DIN CHIRIET-LUNGA',
+keywords: 'scoala medie din chiriet-lunga',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2249",
@@ -24754,7 +24754,7 @@ height: 150
 {
 id: "3267",
 name_ro: 'ŞCOALA MEDIE NR. 2 COMRAT',
-keywords: 'ŞCOALA MEDIE NR. 2 COMRAT',
+keywords: 'scoala medie nr. 2 comrat',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2237",
@@ -24771,7 +24771,7 @@ height: 150
 {
 id: "3268",
 name_ro: 'ŞCOALA MEDIE Nr. 6, mun.COMRAT',
-keywords: 'ŞCOALA MEDIE Nr. 6, mun.COMRAT',
+keywords: 'scoala medie nr. 6 mun.comrat',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2237",
@@ -24788,7 +24788,7 @@ height: 150
 {
 id: "3269",
 name_ro: 'LICEUL TEORETIC s. CONGAZ',
-keywords: 'LICEUL TEORETIC s. CONGAZ',
+keywords: 'liceul teoretic s. congaz',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2250",
@@ -24805,7 +24805,7 @@ height: 150
 {
 id: "3270",
 name_ro: 'FILIALA CEADIR-LUNGA A LICEULUI TEORETIC "ORIZONT"',
-keywords: 'FILIALA CEADIR-LUNGA A LICEULUI TEORETIC "ORIZONT"',
+keywords: 'filiala ceadir-lunga a liceului teoretic orizont',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2233",
@@ -24822,7 +24822,7 @@ height: 150
 {
 id: "3271",
 name_ro: 'LICEUL TEORETIC BEŞGHIOZ',
-keywords: 'LICEUL TEORETIC BEŞGHIOZ',
+keywords: 'liceul teoretic besghioz',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2251",
@@ -24839,7 +24839,7 @@ height: 150
 {
 id: "3272",
 name_ro: 'LICEUL TEORETIC ETULIA',
-keywords: 'LICEUL TEORETIC ETULIA',
+keywords: 'liceul teoretic etulia',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2252",
@@ -24856,7 +24856,7 @@ height: 150
 {
 id: "3273",
 name_ro: 'LICEUL TEORETIC "D.CARACIOBAN", mun. COMRAT',
-keywords: 'LICEUL TEORETIC "D.CARACIOBAN", mun. COMRAT',
+keywords: 'liceul teoretic d.caracioban  mun. comrat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2237",
@@ -24873,7 +24873,7 @@ height: 150
 {
 id: "3274",
 name_ro: 'ŞCOALA MEDIE satul CONGAZ',
-keywords: 'ŞCOALA MEDIE satul CONGAZ',
+keywords: 'scoala medie satul congaz',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2250",
@@ -24890,7 +24890,7 @@ height: 150
 {
 id: "3275",
 name_ro: 'LICEUL TEORETIC SVETLÎI',
-keywords: 'LICEUL TEORETIC SVETLÎI',
+keywords: 'liceul teoretic svetlii',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2253",
@@ -24907,7 +24907,7 @@ height: 150
 {
 id: "3276",
 name_ro: 'ŞCOALA INTERNAT AUHILIARA DIN CONGAZ',
-keywords: 'ŞCOALA INTERNAT AUHILIARA DIN CONGAZ',
+keywords: 'scoala internat auhiliara din congaz',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2250",
@@ -24924,7 +24924,7 @@ height: 150
 {
 id: "3277",
 name_ro: 'ŞCOALĂ PRIMARĂ CARBOLIA',
-keywords: 'ŞCOALĂ PRIMARĂ CARBOLIA',
+keywords: 'scoala primara carbolia',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "2254",
@@ -24941,7 +24941,7 @@ height: 150
 {
 id: "3278",
 name_ro: 'GIMNAZIUL CIŞMICHIOI',
-keywords: 'GIMNAZIUL CIŞMICHIOI',
+keywords: 'gimnaziul cismichioi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2248",
@@ -24958,7 +24958,7 @@ height: 150
 {
 id: "3279",
 name_ro: 'ŞCOALA MEDIE DIN s.AVDARMA',
-keywords: 'ŞCOALA MEDIE DIN s.AVDARMA',
+keywords: 'scoala medie din s.avdarma',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "2255",
@@ -24975,7 +24975,7 @@ height: 150
 {
 id: "3280",
 name_ro: 'LICEUL MOLDO-TURC S.DEMIREL, CONGAZ',
-keywords: 'LICEUL MOLDO-TURC S.DEMIREL, CONGAZ',
+keywords: 'liceul moldo-turc s.demirel congaz',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2250",
@@ -24992,7 +24992,7 @@ height: 150
 {
 id: "3281",
 name_ro: 'LICEUL TEORETIC "N.TRETIACOV", COMRAT',
-keywords: 'LICEUL TEORETIC "N.TRETIACOV", COMRAT',
+keywords: 'liceul teoretic n.tretiacov  comrat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2237",
@@ -25009,7 +25009,7 @@ height: 150
 {
 id: "3282",
 name_ro: 'GIMNAZIUL CHIRSOVA',
-keywords: 'GIMNAZIUL CHIRSOVA',
+keywords: 'gimnaziul chirsova',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2235",
@@ -25026,7 +25026,7 @@ height: 150
 {
 id: "3283",
 name_ro: 'GIMNAZIUL DIN COTOVSCOE',
-keywords: 'GIMNAZIUL DIN COTOVSCOE',
+keywords: 'gimnaziul din cotovscoe',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2256",
@@ -25043,7 +25043,7 @@ height: 150
 {
 id: "3284",
 name_ro: 'LICEUL TEORETIC DIN BEŞALMA',
-keywords: 'LICEUL TEORETIC DIN BEŞALMA',
+keywords: 'liceul teoretic din besalma',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2257",
@@ -25060,7 +25060,7 @@ height: 150
 {
 id: "3285",
 name_ro: 'LICEUL REGIONAL-INTERNAT SPORTIV, COMRAT',
-keywords: 'LICEUL REGIONAL-INTERNAT SPORTIV, COMRAT',
+keywords: 'liceul regional-internat sportiv comrat',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2237",
@@ -25077,7 +25077,7 @@ height: 150
 {
 id: "3286",
 name_ro: 'GIMNAZIUL DIN CONGAZ',
-keywords: 'GIMNAZIUL DIN CONGAZ',
+keywords: 'gimnaziul din congaz',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "2250",
@@ -25094,7 +25094,7 @@ height: 150
 {
 id: "3287",
 name_ro: 'Liceul Teoretic Mihailo Lomonosov',
-keywords: 'Liceul Teoretic Mihailo Lomonosov',
+keywords: 'liceul teoretic mihailo lomonosov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1160",
@@ -25111,7 +25111,7 @@ height: 150
 {
 id: "3288",
 name_ro: 'A.S. Puşchin',
-keywords: 'A.S. Puşchin',
+keywords: 'a.s. puschin',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1258",
@@ -25128,7 +25128,7 @@ height: 150
 {
 id: "3289",
 name_ro: 'A. Donici',
-keywords: 'A. Donici',
+keywords: 'a. donici',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -25145,7 +25145,7 @@ height: 150
 {
 id: "3290",
 name_ro: 'Mircea cel Bătrîn',
-keywords: 'Mircea cel Bătrîn',
+keywords: 'mircea cel batrin',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1276",
@@ -25162,7 +25162,7 @@ height: 150
 {
 id: "3291",
 name_ro: 'M. Viteazul',
-keywords: 'M. Viteazul',
+keywords: 'm. viteazul',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1277",
@@ -25179,7 +25179,7 @@ height: 150
 {
 id: "3292",
 name_ro: 'Şt. cel Mare',
-keywords: 'Şt. cel Mare',
+keywords: 'st. cel mare',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1257",
@@ -25196,7 +25196,7 @@ height: 150
 {
 id: "3293",
 name_ro: 'V. Alecsandri',
-keywords: 'V. Alecsandri',
+keywords: 'v. alecsandri',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1272",
@@ -25213,7 +25213,7 @@ height: 150
 {
 id: "3294",
 name_ro: 'I.L. Caragiale',
-keywords: 'I.L. Caragiale',
+keywords: 'i.l. caragiale',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1265",
@@ -25230,7 +25230,7 @@ height: 150
 {
 id: "3295",
 name_ro: 'A. Mateevici',
-keywords: 'A. Mateevici',
+keywords: 'a. mateevici',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1285",
@@ -25247,7 +25247,7 @@ height: 150
 {
 id: "3296",
 name_ro: 'L. Ucrainca',
-keywords: 'L. Ucrainca',
+keywords: 'l. ucrainca',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1284",
@@ -25264,7 +25264,7 @@ height: 150
 {
 id: "3297",
 name_ro: 'Alexandru cel Bun',
-keywords: 'Alexandru cel Bun',
+keywords: 'alexandru cel bun',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1282",
@@ -25281,7 +25281,7 @@ height: 150
 {
 id: "3298",
 name_ro: 'I. Gaşec',
-keywords: 'I. Gaşec',
+keywords: 'i. gasec',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1281",
@@ -25298,7 +25298,7 @@ height: 150
 {
 id: "3299",
 name_ro: 'D. Cantemir',
-keywords: 'D. Cantemir',
+keywords: 'd. cantemir',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1271",
@@ -25315,7 +25315,7 @@ height: 150
 {
 id: "3300",
 name_ro: 'A.I. Cuza',
-keywords: 'A.I. Cuza',
+keywords: 'a.i. cuza',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1273",
@@ -25332,7 +25332,7 @@ height: 150
 {
 id: "3301",
 name_ro: 'M. Sadoveanu',
-keywords: 'M. Sadoveanu',
+keywords: 'm. sadoveanu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1259",
@@ -25349,7 +25349,7 @@ height: 150
 {
 id: "3302",
 name_ro: 'M. Sadoveanu',
-keywords: 'M. Sadoveanu',
+keywords: 'm. sadoveanu',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1268",
@@ -25366,7 +25366,7 @@ height: 150
 {
 id: "3303",
 name_ro: 'A. Russo',
-keywords: 'A. Russo',
+keywords: 'a. russo',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1278",
@@ -25383,7 +25383,7 @@ height: 150
 {
 id: "3304",
 name_ro: 'Constantin Dragomir"',
-keywords: 'Constantin Dragomir"',
+keywords: 'constantin dragomir',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1252",
@@ -25400,7 +25400,7 @@ height: 150
 {
 id: "3305",
 name_ro: 'M. Kogălniceanu',
-keywords: 'M. Kogălniceanu',
+keywords: 'm. kogalniceanu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1292",
@@ -25417,7 +25417,7 @@ height: 150
 {
 id: "3306",
 name_ro: 'S. Esenin',
-keywords: 'S. Esenin',
+keywords: 's. esenin',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1288",
@@ -25434,7 +25434,7 @@ height: 150
 {
 id: "3307",
 name_ro: 'Alecu Mare',
-keywords: 'Alecu Mare',
+keywords: 'alecu mare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1287",
@@ -25451,7 +25451,7 @@ height: 150
 {
 id: "3308",
 name_ro: 'G. Asachi',
-keywords: 'G. Asachi',
+keywords: 'g. asachi',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1280",
@@ -25468,7 +25468,7 @@ height: 150
 {
 id: "3309",
 name_ro: 'Şc. Tehnologică B.P. Haşdeu',
-keywords: 'Şc. Tehnologică B.P. Haşdeu',
+keywords: 'sc. tehnologica b.p. hasdeu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1253",
@@ -25485,7 +25485,7 @@ height: 150
 {
 id: "3310",
 name_ro: 'C. Stere',
-keywords: 'C. Stere',
+keywords: 'c. stere',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1279",
@@ -25502,7 +25502,7 @@ height: 150
 {
 id: "3311",
 name_ro: 'G. Coşbuc',
-keywords: 'G. Coşbuc',
+keywords: 'g. cosbuc',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1274",
@@ -25519,7 +25519,7 @@ height: 150
 {
 id: "3312",
 name_ro: 'I. Vodă',
-keywords: 'I. Vodă',
+keywords: 'i. voda',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1270",
@@ -25536,7 +25536,7 @@ height: 150
 {
 id: "3313",
 name_ro: 'B.P. Haşdeu',
-keywords: 'B.P. Haşdeu',
+keywords: 'b.p. hasdeu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1291",
@@ -25553,7 +25553,7 @@ height: 150
 {
 id: "3314",
 name_ro: 'I. Vodă',
-keywords: 'I. Vodă',
+keywords: 'i. voda',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25570,7 +25570,7 @@ height: 150
 {
 id: "3315",
 name_ro: 'V. Alecsandri',
-keywords: 'V. Alecsandri',
+keywords: 'v. alecsandri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1263",
@@ -25587,7 +25587,7 @@ height: 150
 {
 id: "3316",
 name_ro: 'N. Stănescu',
-keywords: 'N. Stănescu',
+keywords: 'n. stanescu',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1286",
@@ -25604,7 +25604,7 @@ height: 150
 {
 id: "3317",
 name_ro: 'M. Eminescu',
-keywords: 'M. Eminescu',
+keywords: 'm. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1287",
@@ -25621,7 +25621,7 @@ height: 150
 {
 id: "3318",
 name_ro: 'V. Corolenco',
-keywords: 'V. Corolenco',
+keywords: 'v. corolenco',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1250",
@@ -25638,7 +25638,7 @@ height: 150
 {
 id: "3319",
 name_ro: 'M. Eminescu',
-keywords: 'M. Eminescu',
+keywords: 'm. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1251",
@@ -25655,7 +25655,7 @@ height: 150
 {
 id: "3320",
 name_ro: 'I. Creangă',
-keywords: 'I. Creangă',
+keywords: 'i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1252",
@@ -25672,7 +25672,7 @@ height: 150
 {
 id: "3321",
 name_ro: 'P. Rumeanţev',
-keywords: 'P. Rumeanţev',
+keywords: 'p. rumeantev',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25689,7 +25689,7 @@ height: 150
 {
 id: "3322",
 name_ro: 'M. Eminescu',
-keywords: 'M. Eminescu',
+keywords: 'm. eminescu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25706,7 +25706,7 @@ height: 150
 {
 id: "3323",
 name_ro: 'D. Cantemir',
-keywords: 'D. Cantemir',
+keywords: 'd. cantemir',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25723,7 +25723,7 @@ height: 150
 {
 id: "3324",
 name_ro: 'I. Creangă',
-keywords: 'I. Creangă',
+keywords: 'i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25740,7 +25740,7 @@ height: 150
 {
 id: "3325",
 name_ro: 'I. Neculce',
-keywords: 'I. Neculce',
+keywords: 'i. neculce',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1266",
@@ -25757,7 +25757,7 @@ height: 150
 {
 id: "3326",
 name_ro: 'G. Coşbuc',
-keywords: 'G. Coşbuc',
+keywords: 'g. cosbuc',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1255",
@@ -25774,7 +25774,7 @@ height: 150
 {
 id: "3327",
 name_ro: 'N. Iorga',
-keywords: 'N. Iorga',
+keywords: 'n. iorga',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1264",
@@ -25791,7 +25791,7 @@ height: 150
 {
 id: "3328",
 name_ro: 'A. Mateevici',
-keywords: 'A. Mateevici',
+keywords: 'a. mateevici',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1256",
@@ -25808,7 +25808,7 @@ height: 150
 {
 id: "3329",
 name_ro: 'Igor Creţu',
-keywords: 'Igor Creţu',
+keywords: 'igor cretu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1269",
@@ -25825,7 +25825,7 @@ height: 150
 {
 id: "3330",
 name_ro: 'S. Rahmaninov',
-keywords: 'S. Rahmaninov',
+keywords: 's. rahmaninov',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1253",
@@ -25842,7 +25842,7 @@ height: 150
 {
 id: "3331",
 name_ro: 'I. Creangă',
-keywords: 'I. Creangă',
+keywords: 'i. creanga',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1260",
@@ -25859,7 +25859,7 @@ height: 150
 {
 id: "3332",
 name_ro: 'M. Sadoveanu',
-keywords: 'M. Sadoveanu',
+keywords: 'm. sadoveanu',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1261",
@@ -25876,7 +25876,7 @@ height: 150
 {
 id: "3333",
 name_ro: 'M. Lomonosov',
-keywords: 'M. Lomonosov',
+keywords: 'm. lomonosov',
 institution_type_id: "3",
 institution_type_name_ro: "Scoala Medie",
 locality_id: "1262",
@@ -25893,7 +25893,7 @@ height: 150
 {
 id: "3334",
 name_ro: 'V. Alecsandri',
-keywords: 'V. Alecsandri',
+keywords: 'v. alecsandri',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -25910,7 +25910,7 @@ height: 150
 {
 id: "3335",
 name_ro: 'Ştefan cel Mare',
-keywords: 'Ştefan cel Mare',
+keywords: 'stefan cel mare',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1275",
@@ -25927,7 +25927,7 @@ height: 150
 {
 id: "3336",
 name_ro: 'A. Mateevici',
-keywords: 'A. Mateevici',
+keywords: 'a. mateevici',
 institution_type_id: "4",
 institution_type_name_ro: "Scoala Primara",
 locality_id: "1253",
@@ -25944,7 +25944,7 @@ height: 150
 {
 id: "3337",
 name_ro: 'Cocieri',
-keywords: 'Cocieri',
+keywords: 'cocieri',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "2258",
@@ -25961,7 +25961,7 @@ height: 150
 {
 id: "3338",
 name_ro: 'Liceul Teoretic Cezar Radu"',
-keywords: 'Liceul Teoretic Cezar Radu"',
+keywords: 'liceul teoretic cezar radu',
 institution_type_id: "2",
 institution_type_name_ro: "Liceu",
 locality_id: "1683",
@@ -25978,7 +25978,7 @@ height: 150
 {
 id: "3339",
 name_ro: 'Gimnaziul Ksenia Evteeva',
-keywords: 'Gimnaziul Ksenia Evteeva',
+keywords: 'gimnaziul ksenia evteeva',
 institution_type_id: "1",
 institution_type_name_ro: "Gimnaziu",
 locality_id: "1707",

@@ -7,7 +7,7 @@ import { createSelector } from 'reselect'
 const getPosts = (dataX, dataY, dataRad, dataColor, year) => {
 	console.log('in reselctor getPosts')
 
-	if (dataX.length == 0 || dataY.length == 0 || dataRad.length == 0)
+	if (dataX.length === 0 || dataY.length === 0 || dataRad.length === 0)
 		return []
 
 

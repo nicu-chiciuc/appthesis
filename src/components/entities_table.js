@@ -29,7 +29,6 @@ class EntitiesTable extends Component {
 					<TableHeaderColumn>Y coordinate</TableHeaderColumn>
 					<TableHeaderColumn>Radius</TableHeaderColumn>
 					<TableHeaderColumn>Color</TableHeaderColumn>
-
 				</TableRow>
 			</TableHeader>
 		)
@@ -38,7 +37,7 @@ class EntitiesTable extends Component {
 	getTableRow = (entity) => {
 
 		return (
-			<TableRow key={entity.name} selected={this.props.selectedEntities.indexOf(entity.name) != -1}>
+			<TableRow key={entity.name} selected={this.props.selectedEntities.includes(entity.name)}>
 				<TableRowColumn>{entity.name}</TableRowColumn>
 				<TableRowColumn>{entity.x}</TableRowColumn>
 				<TableRowColumn>{entity.y}</TableRowColumn>

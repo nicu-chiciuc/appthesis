@@ -2,6 +2,7 @@ import { combineReducers } from 'redux'
 
 import DataReducer from './reducer_data'
 import SearchedEntitiesReducer from './reducer_searched_entities'
+import IndicatorDataReducer from './reducer_indicator_data'
 
 import {
 	FETCH_DATA_Y, FETCH_DATA_X, FETCH_DATA_RAD, FETCH_DATA_COLOR,
@@ -40,8 +41,9 @@ const rootReducer = combineReducers({
 		currentYear: YearReducer,
 
 		selectedEntities: SelectedEntitiesReducers,
-		searchedEntities: SearchedEntitiesReducer,
-	})
+	}),
+	indicatorData : IndicatorDataReducer,
+	searchedEntities: SearchedEntitiesReducer,
 
 })
 

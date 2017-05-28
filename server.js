@@ -11,7 +11,7 @@ server.get('/', (req, res) => {
 	c.log(req.headers)
 
 	res.render('index')
-});
+})
 
 server.set('view engine', 'ejs')
 server.set('views', __dirname + '/public')

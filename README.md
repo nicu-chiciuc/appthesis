@@ -1,1 +1,0 @@
-Some project, nothing important. Started with ReduxSimpleStarter but changed some things.

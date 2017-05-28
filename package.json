@@ -1,15 +1,15 @@
 {
-  "name": "redux-simple-starter",
+  "name": "appthesis",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Multivariate Visualization using React, Redux and D3",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "author": "Chiciuc Nicusor",
+  "repository": "https://github.com/nicu-chiciuc/appthesis",
   "scripts": {
     "start": "nodemon --exec babel-node server.js --ignore public/ --ignore management/",
     "frontwatch": "webpack -wd",
     "rundb": "mongod --dbpath ~/data/db"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
